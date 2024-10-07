@@ -2,7 +2,7 @@
 
 
 ## Context
-ExpliCa (Explicit Causality) is a dataset designed to evaluate models on commonsense causal reasoning through causal discovery tasks, more specifically via Pairwise Causal Discovery (PCD), which focuses on determining the existence of a causal relationship between two events and establishing the causal direction, that is, identifying which event serves as the cause and which as the effect (Gao et al., 2023a).
+ExpliCa (Explicit Causality) is a dataset designed to evaluate models on commonsense causal reasoning through causal discovery tasks, more specifically via Pairwise Causal Discovery (PCD), which focuses on determining the existence of a causal relationship between two events and establishing the causal direction, that is, identifying which event serves as the cause and which as the effect.
 
 
 ## Stimuli
