@@ -32,6 +32,5 @@ Each sentence was rated by 15 English native speakers
 * human_preferred_connective_desc: indication of order (iconic vs anti-iconic) and relation (causal vs temporal) of the connective for which humans provided the highest average rating
 
 
-##Acknowledgements
-
+## Acknowledgements
 This research was funded by PNRR—M4C2—Inv. 1.3, Partenariato Esteso PE00000013—“FAIR—Future Artificial Intelligence Research”—Spoke 1 “Human-centered AI,” funded by the European Commission under the NextGeneration EU programme.
