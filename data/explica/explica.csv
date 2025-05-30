@@ -1,0 +1,1201 @@
+pair_id,Sentence_A,Sentence_B,rating_anticonic_causal,rating_iconic_causal,rating_anticonic_temporal,rating_iconic_temporal,human_preferred_connective,human_preferred_connective_desc,additional_dimension
+0,The man turned up the music late at night.,The man wanted to listen to the new album of his favourite rock band.,7.0,2.4,6.533333333333333,5.2,because,anticonic_caus,socially_challenging
+0,The man wanted to listen to the new album of his favourite rock band.,The man turned up the music late at night.,2.7333333333333334,5.866666666666666,3.533333333333333,5.466666666666667,so,iconic_caus,socially_challenging
+1,Sarah does not like to eat junk food.,Sarah is likely to throw away a bag of chips offered by her friend.,3.2,8.0,2.2,4.333333333333333,so,iconic_caus,socially_challenging
+1,Sarah is likely to throw away a bag of chips offered by her friend.,Sarah does not like to eat junk food.,8.466666666666667,2.6666666666666665,2.1333333333333333,3.866666666666666,because,anticonic_caus,socially_challenging
+2,The athlete was doped.,The athlete won the competition.,4.0,7.733333333333333,3.0,7.733333333333333,so,iconic_caus,socially_challenging
+2,The athlete won the competition.,The athlete was doped.,7.0,2.1333333333333333,4.866666666666666,3.533333333333333,because,anticonic_caus,socially_challenging
+3,John copied the test of the best student.,John got an A on the test.,2.533333333333333,8.533333333333333,2.8666666666666667,8.333333333333334,so,iconic_caus,socially_challenging
+3,John got an A on the test.,John copied the test of the best student.,8.666666666666666,1.933333333333333,9.066666666666666,2.4,after,anticonic_temp,socially_challenging
+4,The girl had not done her homework.,The girl skipped school.,6.266666666666667,8.133333333333333,5.8,5.333333333333333,so,iconic_caus,socially_challenging
+4,The girl skipped school.,The girl had not done her homework.,9.066666666666666,4.933333333333334,5.466666666666667,3.066666666666667,because,anticonic_caus,socially_challenging
+5,Mike stole a radio controlled car from a toy shop.,Mike wanted to have a radio controlled car.,8.8,3.933333333333333,5.4,2.333333333333333,because,anticonic_caus,socially_challenging
+5,Mike wanted to have a radio controlled car.,Mike stole a radio controlled car from a toy shop.,3.2666666666666666,8.266666666666667,2.6666666666666665,6.0,so,iconic_caus,socially_challenging
+6,Susan became a drug dealer.,Susan wanted to make fast money.,8.533333333333333,2.4,7.133333333333334,1.6666666666666667,because,anticonic_caus,socially_challenging
+6,Susan wanted to make fast money.,Susan became a drug dealer.,2.466666666666667,9.266666666666667,4.466666666666667,7.266666666666667,so,iconic_caus,socially_challenging
+7,Kevin has a lot of debts.,Kevin spends lots of money on gambling.,9.066666666666666,3.333333333333333,6.466666666666667,3.866666666666666,because,anticonic_caus,socially_challenging
+7,Kevin spends lots of money on gambling.,Kevin has a lot of debts.,4.066666666666666,8.466666666666667,4.333333333333333,4.8,so,iconic_caus,socially_challenging
+8,Whale meat is sold at a high price.,Whales are hunted.,6.666666666666667,8.333333333333334,5.533333333333333,3.333333333333333,so,iconic_caus,socially_challenging
+8,Whales are hunted.,Whale meat is sold at a high price.,7.6,5.333333333333333,4.666666666666667,7.933333333333334,then,iconic_temp,socially_challenging
+9,Mark is a Jehovah's Witness.,Mark refuses transfusions even if he is sick.,3.8,9.666666666666666,2.466666666666667,3.4,so,iconic_caus,socially_challenging
+9,Mark refuses transfusions even if he is sick.,Mark is a Jehovah's Witness.,8.333333333333334,3.866666666666666,4.0,3.4,because,anticonic_caus,socially_challenging
+10,Tom has gained weight in the last year.,"Tom's friends call him ""fatty"".",3.466666666666667,9.533333333333331,4.466666666666667,5.066666666666666,so,iconic_caus,socially_challenging
+10,"Tom's friends call him ""fatty"".",Tom has gained weight in the last year.,9.266666666666667,2.6666666666666665,9.066666666666666,1.4,because,anticonic_caus,socially_challenging
+11,Cindy can finally book a vacation around the world.,Cindy cheated to win the lottery.,6.666666666666667,2.466666666666667,7.866666666666666,1.4,after,anticonic_temp,socially_challenging
+11,Cindy cheated to win the lottery.,Cindy can finally book a vacation around the world.,1.6666666666666667,7.2,4.466666666666667,5.066666666666666,so,iconic_caus,socially_challenging
+12,Fred believes that women should take care of the house.,Fred does not allow his wife to work as CEO.,5.0,9.066666666666666,2.8,3.6666666666666665,so,iconic_caus,socially_challenging
+12,Fred does not allow his wife to work as CEO.,Fred believes that women should take care of the house.,9.6,4.8,2.6666666666666665,2.2,because,anticonic_caus,socially_challenging
+13,Brad runs the red light.,Brad wanted to go home to watch the football match.,9.133333333333333,2.0,3.333333333333333,4.066666666666666,because,anticonic_caus,socially_challenging
+13,Brad wanted to go home to watch the football match.,Brad runs the red light.,1.4666666666666666,6.533333333333333,2.8666666666666667,5.2,so,iconic_caus,socially_challenging
+14,Luca's father forced him obey to the precepts of his religion.,Luca's father is very religious.,8.333333333333334,4.733333333333333,2.6666666666666665,2.6,because,anticonic_caus,socially_challenging
+14,Luca's father is very religious.,Luca's father forced him obey to the precepts of his religion.,5.533333333333333,9.2,2.466666666666667,6.8,so,iconic_caus,socially_challenging
+15,Bob believes in the tooth fairy.,Bob is very childish.,7.8,6.4,1.8,3.2666666666666666,because,anticonic_caus,socially_challenging
+15,Bob is very childish.,Bob believes in the tooth fairy.,7.933333333333334,8.866666666666667,2.333333333333333,2.8,so,iconic_caus,socially_challenging
+16,Gary decided to copy the History essay rather than write it by himself.,Gary does not like to study History.,9.266666666666667,4.466666666666667,2.333333333333333,2.333333333333333,because,anticonic_caus,socially_challenging
+16,Gary does not like to study History.,Gary decided to copy the History essay rather than write it by himself.,2.066666666666667,8.2,3.933333333333333,4.333333333333333,so,iconic_caus,socially_challenging
+17,Eric eats twenty chocolate bars.,Eric will become fat.,1.2,8.066666666666666,4.733333333333333,6.2,so,iconic_caus,socially_challenging
+17,Eric will become fat.,Eric eats twenty chocolate bars.,9.066666666666666,2.066666666666667,6.733333333333333,1.6666666666666667,because,anticonic_caus,socially_challenging
+18,Kelly wants to have children.,The company manager did not hire Kelly.,1.1333333333333333,8.4,2.8,4.0,so,iconic_caus,socially_challenging
+18,The company manager did not hire Kelly.,Kelly wants to have children.,8.333333333333334,2.533333333333333,3.733333333333333,1.6,because,anticonic_caus,socially_challenging
+19,Morgan is a bad parent.,Morgan scolds his child.,8.4,6.8,4.333333333333333,2.4,because,anticonic_caus,socially_challenging
+19,Morgan scolds his child.,Morgan is a bad parent.,8.133333333333333,7.066666666666666,3.933333333333333,2.1333333333333333,because,anticonic_caus,socially_challenging
+20,Melanie did not have her children vaccinated.,Melanie thinks vaccines are toxic.,9.866666666666667,4.133333333333334,5.2,1.6,because,anticonic_caus,socially_challenging
+20,Melanie thinks vaccines are toxic.,Melanie did not have her children vaccinated.,3.333333333333333,8.866666666666667,4.8,7.0,so,iconic_caus,socially_challenging
+21,Mark has a lot of sex.,Mark is a prostitute.,8.133333333333333,2.333333333333333,2.066666666666667,1.2,because,anticonic_caus,socially_challenging
+21,Mark is a prostitute.,Mark has a lot of sex.,3.333333333333333,8.733333333333333,2.933333333333333,5.6,so,iconic_caus,socially_challenging
+22,Jeff decided to drink a glass of whiskey instead of four.,Jeff is the designated driver tonight.,8.0,7.466666666666667,2.466666666666667,3.2666666666666666,because,anticonic_caus,socially_challenging
+22,Jeff is the designated driver tonight.,Jeff decided to drink a glass of whiskey instead of four.,3.866666666666666,6.4,4.733333333333333,3.1333333333333333,so,iconic_caus,socially_challenging
+23,Karen is a transgender woman.,Karen's parents do not like her.,1.5333333333333334,7.4,2.466666666666667,2.2,so,iconic_caus,socially_challenging
+23,Karen's parents do not like her.,Karen is a transgender woman.,8.666666666666666,1.4666666666666666,2.8666666666666667,1.933333333333333,because,anticonic_caus,socially_challenging
+24,Mike does not help patients have abortions.,Mike is an objecting doctor.,7.733333333333333,6.733333333333333,2.2,4.333333333333333,because,anticonic_caus,socially_challenging
+24,Mike is an objecting doctor.,Mike does not help patients have abortions.,7.266666666666667,8.2,2.533333333333333,3.4,so,iconic_caus,socially_challenging
+25,Luca and Mara broke up.,Mara did not want to have children.,9.4,3.533333333333333,8.066666666666666,5.666666666666667,because,anticonic_caus,socially_challenging
+25,Mara did not want to have children.,Luca and Mara broke up.,5.333333333333333,8.533333333333333,4.666666666666667,5.266666666666667,so,iconic_caus,socially_challenging
+26,Lara did not tell her parents she was lesbian.,Lara's parents are homophobic.,9.4,1.933333333333333,4.333333333333333,2.6,because,anticonic_caus,socially_challenging
+26,Lara's parents are homophobic.,Lara did not tell her parents she was lesbian.,2.533333333333333,9.6,3.2,4.2,so,iconic_caus,socially_challenging
+27,Karen did not like the cut the hairdresser gave her.,Karen insulted the hairdresser and refused to pay him.,3.6,9.533333333333331,4.333333333333333,7.6,so,iconic_caus,socially_challenging
+27,Karen insulted the hairdresser and refused to pay him.,Karen did not like the cut the hairdresser gave her.,9.066666666666666,5.133333333333334,9.666666666666666,2.2666666666666666,after,anticonic_temp,socially_challenging
+28,The boy had been in prison.,The shop owner refused to hire the boy.,2.333333333333333,9.133333333333333,2.0,6.466666666666667,so,iconic_caus,socially_challenging
+28,The shop owner refused to hire the boy.,The boy had been in prison.,9.933333333333334,1.8666666666666667,8.733333333333333,2.2666666666666666,because,anticonic_caus,socially_challenging
+29,The hunter is happy.,The hunter killed many animals.,8.8,5.0,7.4,4.4,because,anticonic_caus,socially_challenging
+29,The hunter killed many animals.,The hunter is happy.,2.2666666666666666,8.333333333333334,4.266666666666667,4.666666666666667,so,iconic_caus,socially_challenging
+30,Edward attempted to kill his wife.,Edward's wife cheated on him.,9.066666666666666,3.533333333333333,7.933333333333334,4.066666666666666,because,anticonic_caus,socially_challenging
+30,Edward's wife cheated on him.,Edward attempted to kill his wife.,4.533333333333333,8.0,5.066666666666666,9.0,then,iconic_temp,socially_challenging
+31,John buys cannabis from a pusher.,John is addicted to cannabis.,9.2,4.2,5.4,4.533333333333333,because,anticonic_caus,socially_challenging
+31,John is addicted to cannabis.,John buys cannabis from a pusher.,6.266666666666667,8.266666666666667,4.066666666666666,3.6,so,iconic_caus,socially_challenging
+32,The girl decided to buy drugs.,The girl is depressed.,8.666666666666666,4.533333333333333,5.666666666666667,2.8,because,anticonic_caus,socially_challenging
+32,The girl is depressed.,The girl decided to buy drugs.,5.0,8.333333333333334,3.6666666666666665,5.266666666666667,so,iconic_caus,socially_challenging
+33,Millie has become addicted to alcohol.,Millie's depression has never been treated.,8.133333333333333,4.4,6.6,2.6666666666666665,because,anticonic_caus,socially_challenging
+33,Millie's depression has never been treated.,Millie has become addicted to alcohol.,6.066666666666666,7.666666666666667,6.4,5.8,so,iconic_caus,socially_challenging
+34,John is a serial killer.,John likes to kill people.,8.8,7.533333333333333,2.2666666666666666,3.333333333333333,because,anticonic_caus,socially_challenging
+34,John likes to kill people.,John is a serial killer.,9.466666666666669,8.066666666666666,2.6666666666666665,5.133333333333334,because,anticonic_caus,socially_challenging
+35,John sells amphetamines.,People who want amphetamines call John.,4.266666666666667,9.0,4.8,7.2,so,iconic_caus,socially_challenging
+35,People who want amphetamines call John.,John sells amphetamines.,8.6,5.933333333333334,4.133333333333334,6.866666666666666,because,anticonic_caus,socially_challenging
+36,Luca sets fire to Marco's shop.,Marco did not pay Luca the money he owed him.,9.533333333333331,7.533333333333333,6.533333333333333,4.2,because,anticonic_caus,socially_challenging
+36,Marco did not pay Luca the money he owed him.,Luca sets fire to Marco's shop.,7.4,9.466666666666669,5.933333333333334,6.933333333333334,so,iconic_caus,socially_challenging
+37,Albert thinks Mark is not a real man.,Mark is a transgender man.,8.733333333333333,3.333333333333333,2.466666666666667,2.933333333333333,because,anticonic_caus,socially_challenging
+37,Mark is a transgender man.,Albert thinks Mark is not a real man.,1.933333333333333,8.066666666666666,2.8,3.866666666666666,so,iconic_caus,socially_challenging
+38,Carmen abandoned the dog on the street.,Carmen did not know where to leave the dog during the holidays.,8.533333333333333,2.8666666666666667,5.6,2.066666666666667,because,anticonic_caus,socially_challenging
+38,Carmen did not know where to leave the dog during the holidays.,Carmen abandoned the dog on the street.,2.0,8.333333333333334,2.2666666666666666,5.8,so,iconic_caus,socially_challenging
+39,Mary's family decided to sell her as a child bride.,Mary's family is very poor.,9.6,2.6666666666666665,4.533333333333333,3.933333333333333,because,anticonic_caus,socially_challenging
+39,Mary's family is very poor.,Mary's family decided to sell her as a child bride.,3.0,9.266666666666667,2.533333333333333,4.6,so,iconic_caus,socially_challenging
+40,Brian bribed the director to get a better job.,Brian really wanted a better job.,7.733333333333333,4.533333333333333,6.066666666666666,2.6,because,anticonic_caus,socially_challenging
+40,Brian really wanted a better job.,Brian bribed the director to get a better job.,3.533333333333333,9.266666666666667,3.466666666666667,6.8,so,iconic_caus,socially_challenging
+41,Bob believes in Santa Claus.,Bob is gullible.,8.733333333333333,7.466666666666667,2.6,3.733333333333333,because,anticonic_caus,socially_challenging
+41,Bob is gullible.,Bob believes in Santa Claus.,9.4,8.466666666666667,3.0,2.2,because,anticonic_caus,socially_challenging
+42,Alfredo does not want Muslim immigrants to come to Italy.,Alfredo thinks that Muslims are terrorists.,9.0,2.933333333333333,4.866666666666666,3.933333333333333,because,anticonic_caus,socially_challenging
+42,Alfredo thinks that Muslims are terrorists.,Alfredo does not want Muslim immigrants to come to Italy.,2.8,9.6,3.6,5.133333333333334,so,iconic_caus,socially_challenging
+43,Kate got pregnant but does not feel ready to have a baby.,Kate has decided to have an abortion.,2.933333333333333,8.133333333333333,3.4,6.666666666666667,so,iconic_caus,socially_challenging
+43,Kate has decided to have an abortion.,Kate got pregnant but does not feel ready to have a baby.,9.733333333333333,3.333333333333333,7.8,2.8666666666666667,because,anticonic_caus,socially_challenging
+44,Brian got rich by cheating at the casino.,Brian has decided to buy a new car.,2.466666666666667,8.8,5.466666666666667,6.333333333333333,so,iconic_caus,socially_challenging
+44,Brian has decided to buy a new car.,Brian got rich by cheating at the casino.,8.533333333333333,2.466666666666667,8.0,2.6666666666666665,because,anticonic_caus,socially_challenging
+45,Jenny has decided to eat only one piece of fruit as a meal.,Jenny wants to look like a model.,8.866666666666667,3.933333333333333,4.933333333333334,2.2,because,anticonic_caus,socially_challenging
+45,Jenny wants to look like a model.,Jenny has decided to eat only one piece of fruit as a meal.,2.7333333333333334,9.4,3.466666666666667,4.933333333333334,so,iconic_caus,socially_challenging
+46,Jenny is the shortest among her friends.,"Jenny's friends call her ""midget"".",2.0,9.133333333333333,2.7333333333333334,4.933333333333334,so,iconic_caus,socially_challenging
+46,"Jenny's friends call her ""midget"".",Jenny is the shortest among her friends.,9.6,5.066666666666666,3.0,1.3333333333333333,because,anticonic_caus,socially_challenging
+47,Luke loves playing video games.,Luke's girlfriend thinks he is childish.,1.4,8.6,1.8,2.933333333333333,so,iconic_caus,socially_challenging
+47,Luke's girlfriend thinks he is childish.,Luke loves playing video games.,9.133333333333333,2.1333333333333333,4.533333333333333,2.6666666666666665,because,anticonic_caus,socially_challenging
+48,Alfred has not found a girl who wants to date him.,Alfred hates all women.,6.466666666666667,7.066666666666666,3.6666666666666665,2.933333333333333,so,iconic_caus,socially_challenging
+48,Alfred hates all women.,Alfred has not found a girl who wants to date him.,8.2,7.0,4.8,4.666666666666667,because,anticonic_caus,socially_challenging
+49,Frank punched Kevin.,Kevin stole Frank's toy.,9.4,7.8,9.266666666666667,8.466666666666667,because,anticonic_caus,socially_challenging
+49,Kevin stole Frank's toy.,Frank punched Kevin.,8.0,8.866666666666667,7.6,9.333333333333334,then,iconic_temp,socially_challenging
+50,Frank is afraid that immigrants will steal jobs.,Frank wants to block immigration.,3.6666666666666665,8.533333333333333,2.8,4.466666666666667,so,iconic_caus,socially_challenging
+50,Frank wants to block immigration.,Frank is afraid that immigrants will steal jobs.,9.866666666666667,4.533333333333333,4.6,2.533333333333333,because,anticonic_caus,socially_challenging
+51,Luke does not want to pay taxes.,Luke transferred his money to an offshore bank account.,4.866666666666666,9.666666666666666,4.0,5.066666666666666,so,iconic_caus,socially_challenging
+51,Luke transferred his money to an offshore bank account.,Luke does not want to pay taxes.,9.733333333333333,5.733333333333333,4.866666666666666,2.933333333333333,because,anticonic_caus,socially_challenging
+52,Karen does not want to go to work today.,Karen feigned illness to her employer.,5.066666666666666,8.933333333333334,5.866666666666666,6.6,so,iconic_caus,socially_challenging
+52,Karen feigned illness to her employer.,Karen does not want to go to work today.,9.466666666666669,6.066666666666666,2.933333333333333,2.8666666666666667,because,anticonic_caus,socially_challenging
+53,Gianni feels stoned.,Gianni took drugs.,9.133333333333333,1.1333333333333333,8.333333333333334,1.4,because,anticonic_caus,socially_challenging
+53,Gianni took drugs.,Gianni feels stoned.,3.1333333333333333,9.733333333333333,4.6,8.866666666666667,so,iconic_caus,socially_challenging
+54,"In poor countries, people die very young.","In poor countries, there are few medicines.",9.133333333333333,2.933333333333333,1.4666666666666666,2.6666666666666665,because,anticonic_caus,socially_challenging
+54,"In poor countries, there are few medicines.","In poor countries, people die very young.",4.666666666666667,9.533333333333331,3.333333333333333,3.6,so,iconic_caus,socially_challenging
+55,Emma needed a kidney transplant.,Emma paid a poor man to have his kidney.,2.2666666666666666,8.666666666666666,3.933333333333333,5.8,so,iconic_caus,socially_challenging
+55,Emma paid a poor man to have his kidney.,Emma needed a kidney transplant.,8.933333333333334,2.7333333333333334,5.933333333333334,4.666666666666667,because,anticonic_caus,socially_challenging
+56,The terrorists asked a woman to make herself explode.,The terrorists planned a suicide attack.,8.0,4.866666666666666,5.866666666666666,3.733333333333333,because,anticonic_caus,socially_challenging
+56,The terrorists planned a suicide attack.,The terrorists asked a woman to make herself explode.,5.466666666666667,6.8,3.466666666666667,6.4,so,iconic_caus,socially_challenging
+57,Alex changes his smartphone every three months.,Alex is rich.,8.866666666666667,6.2,2.0,3.466666666666667,because,anticonic_caus,socially_challenging
+57,Alex is rich.,Alex changes his smartphone every three months.,3.466666666666667,9.266666666666667,2.2,4.0,so,iconic_caus,socially_challenging
+58,The referee whistled for the foul.,The ultras insult the referee.,4.066666666666666,7.0,5.4,5.533333333333333,so,iconic_caus,socially_challenging
+58,The ultras insult the referee.,The referee whistled for the foul.,7.866666666666666,6.133333333333334,8.6,7.0,after,anticonic_temp,socially_challenging
+59,The boxing player needed money.,The player fixed the boxing match.,4.133333333333334,8.866666666666667,3.933333333333333,5.8,so,iconic_caus,socially_challenging
+59,The player fixed the boxing match.,The boxing player needed money.,8.2,2.8,5.066666666666666,2.533333333333333,because,anticonic_caus,socially_challenging
+60,Karl did not have money for lunch.,Karl stole a sandwich from the supermarket.,1.8666666666666667,9.4,4.6,6.333333333333333,so,iconic_caus,socially_challenging
+60,Karl stole a sandwich from the supermarket.,Karl did not have money for lunch.,9.0,3.2666666666666666,4.6,2.7333333333333334,because,anticonic_caus,socially_challenging
+61,Karl does not do his homework.,Karl forces his classmate to pass him the homework every day.,6.733333333333333,9.066666666666666,4.533333333333333,7.666666666666667,so,iconic_caus,socially_challenging
+61,Karl forces his classmate to pass him the homework every day.,Karl does not do his homework.,7.266666666666667,4.866666666666666,4.933333333333334,3.466666666666667,because,anticonic_caus,socially_challenging
+62,Mike is bullied at school.,Mike is fat.,8.666666666666666,1.8666666666666667,1.6666666666666667,1.7333333333333334,because,anticonic_caus,socially_challenging
+62,Mike is fat.,Mike is bullied at school.,2.533333333333333,7.2,2.1333333333333333,3.933333333333333,so,iconic_caus,socially_challenging
+63,Kevin does not like dogs.,Kevin throws rocks at dogs when he sees them.,3.6666666666666665,8.266666666666667,2.8,2.933333333333333,so,iconic_caus,socially_challenging
+63,Kevin throws rocks at dogs when he sees them.,Kevin does not like dogs.,9.2,6.666666666666667,2.7333333333333334,3.6,because,anticonic_caus,socially_challenging
+64,Mark got Lucy pregnant but he does not want a baby.,Mark will not legitimize Lucy's child.,2.933333333333333,8.2,3.6666666666666665,3.066666666666667,so,iconic_caus,socially_challenging
+64,Mark will not legitimize Lucy's child.,Mark got Lucy pregnant but he does not want a baby.,7.6,4.066666666666666,6.066666666666666,1.6666666666666667,because,anticonic_caus,socially_challenging
+65,The student felt anxious to take the exam.,The student took drugs to calm down.,3.466666666666667,8.933333333333334,4.8,7.4,so,iconic_caus,socially_challenging
+65,The student took drugs to calm down.,The student felt anxious to take the exam.,9.133333333333333,1.7333333333333334,7.533333333333333,4.266666666666667,because,anticonic_caus,socially_challenging
+66,Karen is envious of Silvia's boyfriend.,Karen tried to steal Silvia's boyfriend.,4.466666666666667,7.933333333333334,3.4,6.066666666666666,so,iconic_caus,socially_challenging
+66,Karen tried to steal Silvia's boyfriend.,Karen is envious of Silvia's boyfriend.,6.8,3.933333333333333,3.4,2.333333333333333,because,anticonic_caus,socially_challenging
+67,Kevin drinks to forget.,Kevin was left by his wife.,8.333333333333334,4.866666666666666,6.533333333333333,3.4,because,anticonic_caus,socially_challenging
+67,Kevin was left by his wife.,Kevin drinks to forget.,5.8,8.266666666666667,4.6,6.066666666666666,so,iconic_caus,socially_challenging
+68,Elena does not have a regular employment contract.,Elena is forced by her boss to work more hours than she should.,6.533333333333333,7.733333333333333,2.8666666666666667,4.866666666666666,so,iconic_caus,socially_challenging
+68,Elena is forced by her boss to work more hours than she should.,Elena does not have a regular employment contract.,7.8,5.6,4.066666666666666,2.0,because,anticonic_caus,socially_challenging
+69,A thief entered Michele's house.,Michele shot the thief.,1.4,9.8,2.2666666666666666,8.533333333333333,so,iconic_caus,socially_challenging
+69,Michele shot the thief.,A thief entered Michele's house.,8.333333333333334,1.6666666666666667,8.6,1.7333333333333334,after,anticonic_temp,socially_challenging
+70,Linda's father was a builder.,Linda's house was built by her father.,2.333333333333333,7.466666666666667,2.066666666666667,4.533333333333333,so,iconic_caus,none
+70,Linda's house was built by her father.,Linda's father was a builder.,8.866666666666667,7.2,3.6666666666666665,2.533333333333333,because,anticonic_caus,none
+71,Sherry is going to Shanghai by train.,Sherry is waiting for the train to Shanghai.,5.466666666666667,8.4,3.2666666666666666,1.4,so,iconic_caus,none
+71,Sherry is waiting for the train to Shanghai.,Sherry is going to Shanghai by train.,9.2,7.6,3.466666666666667,6.2,because,anticonic_caus,none
+72,This field benefited from the fertilizer.,We added fertilizer to this field.,6.8,5.933333333333334,7.4,2.466666666666667,after,anticonic_temp,none
+72,We added fertilizer to this field.,This field benefited from the fertilizer.,8.2,9.066666666666666,6.0,6.866666666666666,so,iconic_caus,none
+73,Lucy has reached her sexual maturity.,Lucy's menstruation started.,6.266666666666667,7.0,5.933333333333334,4.666666666666667,so,iconic_caus,none
+73,Lucy's menstruation started.,Lucy has reached her sexual maturity.,7.4,7.533333333333333,5.666666666666667,3.866666666666666,so,iconic_caus,none
+74,John lacks vitamin C.,John's mother has bought oranges for him.,1.3333333333333333,9.066666666666666,2.8666666666666667,4.866666666666666,so,iconic_caus,none
+74,John's mother has bought oranges for him.,John lacks vitamin C.,9.066666666666666,3.066666666666667,4.666666666666667,2.8666666666666667,because,anticonic_caus,none
+75,The runner trained with perseverance.,The runner won the marathon.,4.666666666666667,8.066666666666666,3.2666666666666666,8.533333333333333,then,iconic_temp,none
+75,The runner won the marathon.,The runner trained with perseverance.,9.6,4.2,7.2,2.533333333333333,because,anticonic_caus,none
+76,Simone buys a lot of cat food every week.,Simone has three cats at home.,9.466666666666669,4.133333333333334,1.8666666666666667,3.066666666666667,because,anticonic_caus,none
+76,Simone has three cats at home.,Simone buys a lot of cat food every week.,2.533333333333333,9.533333333333331,1.8,4.466666666666667,so,iconic_caus,none
+77,Simone prefers to travel by train rather than by car.,Simone suffers from car sickness.,9.4,2.7333333333333334,4.2,2.1333333333333333,because,anticonic_caus,none
+77,Simone suffers from car sickness.,Simone prefers to travel by train rather than by car.,3.066666666666667,8.666666666666666,3.4,4.266666666666667,so,iconic_caus,none
+78,Simone is lactose intolerant.,Simone never eats cheese.,2.6,8.733333333333333,3.2666666666666666,4.266666666666667,so,iconic_caus,none
+78,Simone never eats cheese.,Simone is lactose intolerant.,8.933333333333334,3.2666666666666666,3.2666666666666666,2.466666666666667,because,anticonic_caus,none
+79,Lucy cares about children's health.,Lucy works in a pediatric hospital.,8.533333333333333,8.533333333333333,3.533333333333333,2.533333333333333,because,anticonic_caus,none
+79,Lucy works in a pediatric hospital.,Lucy cares about children's health.,8.866666666666667,8.4,5.0,3.2666666666666666,because,anticonic_caus,none
+80,A meteor hit the Earth.,The dinosaurs became extinct.,2.533333333333333,9.4,2.933333333333333,8.933333333333334,so,iconic_caus,none
+80,The dinosaurs became extinct.,A meteor hit the Earth.,8.866666666666667,2.8666666666666667,8.2,2.1333333333333333,because,anticonic_caus,none
+81,The bottle was left open.,The water fell on the floor.,2.6666666666666665,8.2,2.2666666666666666,7.4,so,iconic_caus,none
+81,The water fell on the floor.,The bottle was left open.,9.4,2.533333333333333,7.733333333333333,2.1333333333333333,because,anticonic_caus,none
+82,The boy woke up.,There was a loud noise.,9.8,2.0,8.466666666666667,5.4,because,anticonic_caus,none
+82,There was a loud noise.,The boy woke up.,1.8666666666666667,10.0,5.466666666666667,9.533333333333331,so,iconic_caus,none
+83,The cat pushed the vase off a counter.,The vase shattered on the floor.,2.333333333333333,8.8,4.133333333333334,9.466666666666669,then,iconic_temp,none
+83,The vase shattered on the floor.,The cat pushed the vase off a counter.,8.666666666666666,2.066666666666667,9.733333333333333,1.4,after,anticonic_temp,none
+84,The thief was arrested.,"When entering the house, the thief made the alarm sound.",7.733333333333333,3.466666666666667,4.333333333333333,2.0,because,anticonic_caus,none
+84,"When entering the house, the thief made the alarm sound.",The thief was arrested.,2.4,8.466666666666667,2.933333333333333,8.933333333333334,then,iconic_temp,none
+85,The girl had a nightmare.,The girl woke up suddenly.,3.1333333333333333,9.8,2.6666666666666665,8.866666666666667,so,iconic_caus,none
+85,The girl woke up suddenly.,The girl had a nightmare.,9.133333333333333,3.2,8.533333333333333,1.8,because,anticonic_caus,none
+86,The plants are watered by the rain.,There is a heavy rain today.,7.4,3.333333333333333,4.2,2.2666666666666666,because,anticonic_caus,none
+86,There is a heavy rain today.,The plants are watered by the rain.,1.5333333333333334,9.933333333333334,4.133333333333334,4.666666666666667,so,iconic_caus,none
+87,Susan decided to buy pesticide.,There are cockroaches in the house.,9.2,2.7333333333333334,8.066666666666666,2.333333333333333,because,anticonic_caus,none
+87,There are cockroaches in the house.,Susan decided to buy pesticide.,1.6,9.333333333333334,2.6666666666666665,4.933333333333334,so,iconic_caus,none
+88,The child was running into a road with a lot of traffic.,The parents stopped the child.,1.2,9.466666666666669,1.7333333333333334,6.933333333333334,so,iconic_caus,none
+88,The parents stopped the child.,The child was running into a road with a lot of traffic.,9.333333333333334,1.6,5.733333333333333,3.066666666666667,because,anticonic_caus,none
+89,Tom eats a lot of junk food every day.,Tom's cholesterol is extremely high.,2.2666666666666666,9.533333333333331,3.8,6.066666666666666,so,iconic_caus,none
+89,Tom's cholesterol is extremely high.,Tom eats a lot of junk food every day.,9.133333333333333,4.0,4.866666666666666,2.8666666666666667,because,anticonic_caus,none
+90,Health insurance did not cover Jacob's treatment.,Jacob had to pay a lot of money for the treatment.,5.266666666666667,9.8,3.6,6.8,so,iconic_caus,none
+90,Jacob had to pay a lot of money for the treatment.,Health insurance did not cover Jacob's treatment.,9.6,3.333333333333333,8.466666666666667,4.2,because,anticonic_caus,none
+91,The factory uses robots for production.,The productivity of the factory increased.,5.466666666666667,8.8,5.466666666666667,5.333333333333333,so,iconic_caus,none
+91,The productivity of the factory increased.,The factory uses robots for production.,8.8,3.2,6.6,3.2,because,anticonic_caus,none
+92,Maria lowered the handle.,The door opened.,3.2666666666666666,9.4,3.733333333333333,8.933333333333334,so,iconic_caus,none
+92,The door opened.,Maria lowered the handle.,8.666666666666666,2.6666666666666665,8.2,1.8,because,anticonic_caus,none
+93,Luke did not hear his alarm clock.,Luke will be late for school.,1.2666666666666666,9.2,3.866666666666666,6.333333333333333,so,iconic_caus,none
+93,Luke will be late for school.,Luke did not hear his alarm clock.,9.466666666666669,1.2666666666666666,8.333333333333334,2.066666666666667,because,anticonic_caus,none
+94,A fire broke out.,Someone left a lit cigarette in the woods.,10.0,2.2666666666666666,9.133333333333333,2.533333333333333,because,anticonic_caus,none
+94,Someone left a lit cigarette in the woods.,A fire broke out.,1.5333333333333334,9.8,3.4,9.666666666666666,so,iconic_caus,none
+95,Kate went to the dentist,Kate's tooth hurt badly.,9.666666666666666,1.8,7.866666666666666,3.533333333333333,because,anticonic_caus,none
+95,Kate's tooth hurt badly.,Kate went to the dentist,3.533333333333333,9.4,5.933333333333334,7.266666666666667,so,iconic_caus,none
+96,Luke is allergic to pollen.,Luke often sneezes in spring.,6.0,9.0,3.1333333333333333,4.466666666666667,so,iconic_caus,none
+96,Luke often sneezes in spring.,Luke is allergic to pollen.,9.6,6.866666666666666,3.466666666666667,2.8,because,anticonic_caus,none
+97,Several trees fell down.,The wind was very strong yesterday.,9.2,5.533333333333333,7.466666666666667,3.1333333333333333,because,anticonic_caus,none
+97,The wind was very strong yesterday.,Several trees fell down.,4.866666666666666,9.6,5.2,5.333333333333333,so,iconic_caus,none
+98,The dog barked.,The dog saw a cat.,9.2,1.4,8.466666666666667,5.4,because,anticonic_caus,none
+98,The dog saw a cat.,The dog barked.,1.8666666666666667,8.866666666666667,4.733333333333333,9.0,then,iconic_temp,none
+99,Mary is very happy.,Mary's little nephew has just been born.,9.6,1.933333333333333,6.6,2.466666666666667,because,anticonic_caus,none
+99,Mary's little nephew has just been born.,Mary is very happy.,1.2,9.533333333333331,3.066666666666667,6.733333333333333,so,iconic_caus,none
+100,Mark does not have money to pay the bill.,Mark lost his wallet.,9.133333333333333,1.933333333333333,8.666666666666666,2.1333333333333333,because,anticonic_caus,none
+100,Mark lost his wallet.,Mark does not have money to pay the bill.,2.6666666666666665,9.4,4.133333333333334,5.466666666666667,so,iconic_caus,none
+101,John is disappointed.,John lost a bet.,9.533333333333331,1.933333333333333,6.866666666666666,2.933333333333333,because,anticonic_caus,none
+101,John lost a bet.,John is disappointed.,1.8,9.466666666666669,5.6,6.6,so,iconic_caus,none
+102,Albert broke a leg.,Albert fell down the stairs.,7.8,3.6666666666666665,8.2,2.8666666666666667,after,anticonic_temp,none
+102,Albert fell down the stairs.,Albert broke a leg.,1.6666666666666667,7.933333333333334,3.8,8.0,then,iconic_temp,none
+103,It is very hot.,The ice cream melts quickly.,6.733333333333333,9.533333333333331,2.933333333333333,4.733333333333333,so,iconic_caus,none
+103,The ice cream melts quickly.,It is very hot.,9.533333333333331,4.133333333333334,4.4,3.6,because,anticonic_caus,none
+104,Jonathan was craving for a coffee.,Jonathan went to a coffee shop and ordered a coffee.,1.933333333333333,9.8,4.4,8.666666666666666,so,iconic_caus,none
+104,Jonathan went to a coffee shop and ordered a coffee.,Jonathan was craving for a coffee.,8.866666666666667,3.866666666666666,7.8,1.7333333333333334,because,anticonic_caus,none
+105,Sally decided she wanted a haircut.,Sally made an appointment.,3.733333333333333,9.333333333333334,4.466666666666667,9.066666666666666,so,iconic_caus,none
+105,Sally made an appointment.,Sally decided she wanted a haircut.,9.133333333333333,2.466666666666667,7.333333333333333,2.8666666666666667,because,anticonic_caus,none
+106,Larry decided to run every night.,Larry has a weight problem.,8.933333333333334,1.933333333333333,4.6,2.066666666666667,because,anticonic_caus,none
+106,Larry has a weight problem.,Larry decided to run every night.,1.6,9.6,4.2,3.1333333333333333,so,iconic_caus,none
+107,The woman does not have time for chitchat.,The woman has to be at the event in 5 minutes.,9.266666666666667,2.1333333333333333,3.6,3.333333333333333,because,anticonic_caus,none
+107,The woman has to be at the event in 5 minutes.,The woman does not have time for chitchat.,3.0,9.333333333333334,2.0,3.733333333333333,so,iconic_caus,none
+108,Eric eats too much chocolate.,Eric will probably gain weight.,1.6666666666666667,8.933333333333334,3.733333333333333,4.666666666666667,so,iconic_caus,none
+108,Eric will probably gain weight.,Eric eats too much chocolate.,9.2,2.8666666666666667,7.333333333333333,1.8666666666666667,because,anticonic_caus,none
+109,Jimmy is hungry.,Jimmy is preparing dinner.,4.0,9.133333333333333,3.733333333333333,3.2666666666666666,so,iconic_caus,none
+109,Jimmy is preparing dinner.,Jimmy is hungry.,9.266666666666667,6.266666666666667,4.4,1.933333333333333,because,anticonic_caus,none
+110,It is better to wear only a t-shirt to go outside.,The temperature is hot outside.,8.8,2.2,2.8,1.3333333333333333,because,anticonic_caus,none
+110,The temperature is hot outside.,It is better to wear only a t-shirt to go outside.,2.466666666666667,9.333333333333334,1.933333333333333,4.2,so,iconic_caus,none
+111,Tim stretched for ten minutes.,Tim was about to play basketball.,9.133333333333333,4.533333333333333,3.933333333333333,3.933333333333333,because,anticonic_caus,none
+111,Tim was about to play basketball.,Tim stretched for ten minutes.,2.7333333333333334,8.333333333333334,6.733333333333333,3.733333333333333,so,iconic_caus,none
+112,John did not sleep well.,John drank a coffee last night.,8.8,2.8,8.4,2.6,because,anticonic_caus,none
+112,John drank a coffee last night.,John did not sleep well.,2.933333333333333,8.8,5.2,8.733333333333333,so,iconic_caus,none
+113,Lila can find what she wants quickly.,Lila is very well organized.,9.533333333333331,7.466666666666667,4.6,4.933333333333334,because,anticonic_caus,none
+113,Lila is very well organized.,Lila can find what she wants quickly.,6.533333333333333,8.8,3.4,4.6,so,iconic_caus,none
+114,Sam wished to eat  the stew for supper.,Sam's wife went to buy some meat.,4.0,7.466666666666667,5.866666666666666,5.066666666666666,so,iconic_caus,none
+114,Sam's wife went to buy some meat.,Sam wished to eat  the stew for supper.,8.8,3.6666666666666665,6.533333333333333,4.933333333333334,because,anticonic_caus,none
+115,The bus driver turned the engine on.,The bus engine started.,1.7333333333333334,8.666666666666666,3.533333333333333,8.6,so,iconic_caus,none
+115,The bus engine started.,The bus driver turned the engine on.,8.8,1.6,9.133333333333333,1.8,after,anticonic_temp,none
+116,Jack decided to choose anthropology as his major in college.,Jack's interest is to study the human species.,8.933333333333334,6.866666666666666,4.866666666666666,4.933333333333334,because,anticonic_caus,none
+116,Jack's interest is to study the human species.,Jack decided to choose anthropology as his major in college.,4.666666666666667,8.933333333333334,6.4,6.2,so,iconic_caus,none
+117,Poor people in India were helped by this charity.,This charity donated money to poor people in India.,8.133333333333333,5.733333333333333,7.866666666666666,2.8,because,anticonic_caus,none
+117,This charity donated money to poor people in India.,Poor people in India were helped by this charity.,2.8666666666666667,8.133333333333333,4.0,8.333333333333334,then,iconic_temp,none
+118,The boy made a mistake in throwing the ball.,The window broke.,6.666666666666667,7.066666666666666,4.066666666666666,7.0,so,iconic_caus,none
+118,The window broke.,The boy made a mistake in throwing the ball.,8.533333333333333,3.0,7.533333333333333,2.0,because,anticonic_caus,none
+119,The baby cried.,The baby's favourite toy broke.,9.133333333333333,1.2,9.133333333333333,2.8,because,anticonic_caus,none
+119,The baby's favourite toy broke.,The baby cried.,1.7333333333333334,9.866666666666667,2.466666666666667,9.4,so,iconic_caus,none
+120,Karl washed my sneakers.,My sneakers got dirty.,9.2,1.6666666666666667,9.333333333333334,5.133333333333334,after,anticonic_temp,none
+120,My sneakers got dirty.,Karl washed my sneakers.,1.4,9.066666666666666,3.533333333333333,9.133333333333333,then,iconic_temp,none
+121,The woman robbed a bank.,The woman went to jail.,1.2,8.6,3.6666666666666665,9.133333333333333,then,iconic_temp,none
+121,The woman went to jail.,The woman robbed a bank.,8.733333333333333,1.2666666666666666,8.533333333333333,1.4,because,anticonic_caus,none
+122,The child spit the coffee out.,The coffee was bitter.,9.0,2.6666666666666665,6.733333333333333,4.133333333333334,because,anticonic_caus,none
+122,The coffee was bitter.,The child spit the coffee out.,2.6,9.4,4.2,6.733333333333333,so,iconic_caus,none
+123,Jill did not go to school.,Jill was ill.,9.933333333333334,3.1333333333333333,5.0,3.2666666666666666,because,anticonic_caus,none
+123,Jill was ill.,Jill did not go to school.,3.2666666666666666,9.733333333333333,4.0,6.266666666666667,so,iconic_caus,none
+124,Lisa became vegetarian.,Lisa wanted to save animals.,9.733333333333333,3.866666666666666,6.466666666666667,4.6,because,anticonic_caus,none
+124,Lisa wanted to save animals.,Lisa became vegetarian.,2.6666666666666665,9.333333333333334,4.466666666666667,6.866666666666666,so,iconic_caus,none
+125,The doctor gave the patient morphine.,The patient was in pain.,9.0,1.7333333333333334,7.666666666666667,2.333333333333333,because,anticonic_caus,none
+125,The patient was in pain.,The doctor gave the patient morphine.,1.4666666666666666,9.4,2.6,7.6,so,iconic_caus,none
+126,Luke had a bad accident with his scooter.,Luke is covered in scars.,2.2,8.266666666666667,3.0,3.8,so,iconic_caus,none
+126,Luke is covered in scars.,Luke had a bad accident with his scooter.,9.266666666666667,1.8666666666666667,9.2,1.7333333333333334,because,anticonic_caus,none
+127,Mike is very tired.,Mike worked all day.,9.333333333333334,2.6,7.066666666666666,2.2666666666666666,because,anticonic_caus,none
+127,Mike worked all day.,Mike is very tired.,2.6,9.733333333333333,2.8,6.133333333333334,so,iconic_caus,none
+128,The woman adopted a dog.,The woman felt alone.,9.533333333333331,1.8666666666666667,6.066666666666666,2.1333333333333333,because,anticonic_caus,none
+128,The woman felt alone.,The woman adopted a dog.,1.8,9.533333333333331,3.066666666666667,8.266666666666667,so,iconic_caus,none
+129,Mario and Lili divorced one year ago.,Mario and Lili live in two different houses.,3.1333333333333333,9.4,4.666666666666667,6.466666666666667,so,iconic_caus,none
+129,Mario and Lili live in two different houses.,Mario and Lili divorced one year ago.,9.0,2.6666666666666665,7.866666666666666,2.533333333333333,because,anticonic_caus,none
+130,Albert fell down the stairs.,The stairs were wet.,9.8,2.6,4.066666666666666,2.466666666666667,because,anticonic_caus,none
+130,The stairs were wet.,Albert fell down the stairs.,1.7333333333333334,9.266666666666667,3.8,5.266666666666667,so,iconic_caus,none
+131,The school was canceled.,There was a snowstorm.,9.733333333333333,1.1333333333333333,7.933333333333334,4.0,because,anticonic_caus,none
+131,There was a snowstorm.,The school was canceled.,1.8666666666666667,8.333333333333334,1.933333333333333,7.8,so,iconic_caus,none
+132,The tenants contacted their landlord.,The tenants noticed mold on the bathroom ceiling.,9.2,1.8,8.6,2.4,because,anticonic_caus,none
+132,The tenants noticed mold on the bathroom ceiling.,The tenants contacted their landlord.,2.4,8.4,4.533333333333333,8.266666666666667,so,iconic_caus,none
+133,The driver ran a red light.,The driver was stopped by the police and was fined.,1.8,9.933333333333334,5.733333333333333,9.8,so,iconic_caus,none
+133,The driver was stopped by the police and was fined.,The driver ran a red light.,9.0,2.4,8.133333333333333,2.8,because,anticonic_caus,none
+134,John pulled the dog's tail.,The dog bit John.,6.666666666666667,9.4,6.0,9.266666666666667,so,iconic_caus,none
+134,The dog bit John.,John pulled the dog's tail.,9.466666666666669,7.4,9.0,6.6,because,anticonic_caus,none
+135,The family went on vacation.,The school was on break.,9.466666666666669,2.6,6.866666666666666,2.0,because,anticonic_caus,none
+135,The school was on break.,The family went on vacation.,2.2,9.266666666666667,2.7333333333333334,6.133333333333334,so,iconic_caus,none
+136,Mom gave the girl an aspirin.,The girl had a fever.,9.466666666666669,2.2666666666666666,4.933333333333334,2.333333333333333,because,anticonic_caus,none
+136,The girl had a fever.,Mom gave the girl an aspirin.,1.3333333333333333,9.6,3.866666666666666,7.6,so,iconic_caus,none
+137,My friend celebrated with her family.,My friend got a promotion.,9.2,1.3333333333333333,7.533333333333333,2.6,because,anticonic_caus,none
+137,My friend got a promotion.,My friend celebrated with her family.,2.066666666666667,9.666666666666666,4.266666666666667,8.933333333333334,so,iconic_caus,none
+138,Martina has been vaccinated against the flu.,Martina has less chance of getting the flu.,1.4666666666666666,9.8,4.8,5.8,so,iconic_caus,none
+138,Martina has less chance of getting the flu.,Martina has been vaccinated against the flu.,9.933333333333334,2.2,7.2,2.8666666666666667,because,anticonic_caus,none
+139,John soon became tired during the hiking.,John's backpack was very heavy.,9.533333333333331,1.8,4.6,2.0,because,anticonic_caus,none
+139,John's backpack was very heavy.,John soon became tired during the hiking.,2.7333333333333334,9.533333333333331,3.4,7.733333333333333,so,iconic_caus,none
+140,"After the financial crisis, the suicide rate increased significantly.",The financial crisis left many people homeless.,9.466666666666669,3.6666666666666665,6.266666666666667,5.133333333333334,because,anticonic_caus,none
+140,The financial crisis left many people homeless.,"After the financial crisis, the suicide rate increased significantly.",5.066666666666666,8.2,6.8,7.933333333333334,so,iconic_caus,none
+141,Tom peeled an orange.,Tom wanted to eat an orange.,8.933333333333334,4.2,5.533333333333333,4.133333333333334,because,anticonic_caus,none
+141,Tom wanted to eat an orange.,Tom peeled an orange.,4.4,9.133333333333333,5.133333333333334,7.466666666666667,so,iconic_caus,none
+142,Tom has a clear understanding of this problem.,Tom successfully solved the problem.,8.333333333333334,9.266666666666667,6.133333333333334,8.533333333333333,so,iconic_caus,none
+142,Tom successfully solved the problem.,Tom has a clear understanding of this problem.,9.733333333333333,8.933333333333334,6.266666666666667,3.866666666666666,because,anticonic_caus,none
+143,Silvia cannot touch the dough.,Silvia is allergic to yeast.,9.933333333333334,2.7333333333333334,1.8666666666666667,2.466666666666667,because,anticonic_caus,none
+143,Silvia is allergic to yeast.,Silvia cannot touch the dough.,1.8,9.2,1.6666666666666667,3.6666666666666665,so,iconic_caus,none
+144,Jack felt dizzy.,Jack's pressure level was too low.,9.0,5.866666666666666,6.666666666666667,3.466666666666667,because,anticonic_caus,none
+144,Jack's pressure level was too low.,Jack felt dizzy.,4.266666666666667,8.466666666666667,4.2,7.666666666666667,so,iconic_caus,none
+145,John hired a skillful carpenter.,John needed to repair the roof of his house.,8.533333333333333,2.6666666666666665,5.133333333333334,2.2666666666666666,because,anticonic_caus,none
+145,John needed to repair the roof of his house.,John hired a skillful carpenter.,1.8666666666666667,9.2,3.4,5.4,so,iconic_caus,none
+146,Someone called the ambulance.,The man had a heart attack.,9.733333333333333,2.1333333333333333,7.666666666666667,2.466666666666667,because,anticonic_caus,none
+146,The man had a heart attack.,Someone called the ambulance.,1.4666666666666666,9.666666666666666,2.6666666666666665,8.933333333333334,so,iconic_caus,none
+147,The child hurt his knee.,The child started crying.,1.8666666666666667,9.333333333333334,3.866666666666666,9.066666666666666,so,iconic_caus,none
+147,The child started crying.,The child hurt his knee.,9.333333333333334,1.6666666666666667,8.666666666666666,2.7333333333333334,because,anticonic_caus,none
+148,John washed his car.,John's car got dirty.,9.533333333333331,1.1333333333333333,6.466666666666667,6.2,because,anticonic_caus,none
+148,John's car got dirty.,John washed his car.,1.4666666666666666,9.466666666666669,6.266666666666667,7.933333333333334,so,iconic_caus,none
+149,A man accidentally pushed the vase off a counter.,The vase shattered on the floor.,2.066666666666667,9.133333333333333,1.3333333333333333,8.6,so,iconic_caus,none
+149,The vase shattered on the floor.,A man accidentally pushed the vase off a counter.,9.866666666666667,2.933333333333333,8.4,1.6,because,anticonic_caus,none
+150,It started raining.,The woman who was walking on the street opened her umbrella.,1.6666666666666667,9.933333333333334,4.4,8.0,so,iconic_caus,none
+150,The woman who was walking on the street opened her umbrella.,It started raining.,9.266666666666667,1.8,8.8,4.666666666666667,because,anticonic_caus,none
+151,The boy lifted his eyes from the book.,There was a loud noise.,9.466666666666669,1.8,7.4,4.533333333333333,because,anticonic_caus,none
+151,There was a loud noise.,The boy lifted his eyes from the book.,1.7333333333333334,9.2,3.466666666666667,8.4,so,iconic_caus,none
+152,It started raining.,The driver turned the wipers on.,1.8,10.0,4.8,8.533333333333333,so,iconic_caus,none
+152,The driver turned the wipers on.,It started raining.,9.533333333333331,1.933333333333333,8.133333333333333,3.533333333333333,because,anticonic_caus,none
+153,Sasha noticed that she was out of toilet paper.,Sasha went to the store and bought toilet paper.,2.6666666666666665,9.4,4.466666666666667,7.466666666666667,so,iconic_caus,none
+153,Sasha went to the store and bought toilet paper.,Sasha noticed that she was out of toilet paper.,8.8,3.466666666666667,6.933333333333334,2.2,because,anticonic_caus,none
+154,The milk got sour.,The milk was left outside the fridge overnight.,9.2,2.8666666666666667,8.933333333333334,2.6,because,anticonic_caus,none
+154,The milk was left outside the fridge overnight.,The milk got sour.,1.8666666666666667,9.533333333333331,3.6,9.666666666666666,then,iconic_temp,none
+155,The man turned down the radio volume.,The radio was on and the man could not hear what the woman was saying.,9.066666666666666,5.0,5.6,3.8,because,anticonic_caus,none
+155,The radio was on and the man could not hear what the woman was saying.,The man turned down the radio volume.,4.666666666666667,7.333333333333333,5.266666666666667,5.333333333333333,so,iconic_caus,none
+156,The meat in the fridge spoiled.,The power was out for days.,9.333333333333334,2.533333333333333,9.4,2.4,after,anticonic_temp,none
+156,The power was out for days.,The meat in the fridge spoiled.,2.533333333333333,9.933333333333334,5.4,8.4,so,iconic_caus,none
+157,A flower grew.,The gardener planted a seed.,9.6,1.0666666666666669,9.466666666666669,2.533333333333333,because,anticonic_caus,none
+157,The gardener planted a seed.,A flower grew.,2.6666666666666665,8.2,5.133333333333334,9.8,then,iconic_temp,none
+158,The man robbed a gas station.,The man was arrested and went to jail.,1.933333333333333,9.666666666666666,5.933333333333334,9.2,so,iconic_caus,none
+158,The man was arrested and went to jail.,The man robbed a gas station.,8.2,1.7333333333333334,8.333333333333334,1.4666666666666666,after,anticonic_temp,none
+159,Jake put his clothes in the washing machine.,Jake's clothes got dirty.,9.066666666666666,1.4,7.8,2.0,because,anticonic_caus,none
+159,Jake's clothes got dirty.,Jake put his clothes in the washing machine.,1.2666666666666666,9.8,3.533333333333333,8.933333333333334,so,iconic_caus,none
+160,Alice did not wake up.,Alice missed her flight.,1.8,9.0,2.8666666666666667,8.0,so,iconic_caus,none
+160,Alice missed her flight.,Alice did not wake up.,9.466666666666669,2.333333333333333,7.266666666666667,2.066666666666667,because,anticonic_caus,none
+161,It was winter but the girl didn't wear her sweater.,The girl caught a cold.,1.8666666666666667,8.333333333333334,5.733333333333333,7.666666666666667,so,iconic_caus,none
+161,The girl caught a cold.,It was winter but the girl didn't wear her sweater.,6.533333333333333,2.1333333333333333,3.4,2.1333333333333333,because,anticonic_caus,none
+162,A search party was assembled.,The man got lost in the woods.,9.933333333333334,1.8,9.0,2.6,because,anticonic_caus,none
+162,The man got lost in the woods.,A search party was assembled.,1.3333333333333333,9.266666666666667,3.8,8.866666666666667,so,iconic_caus,none
+163,Ted had a hangover.,Ted went out drinking.,9.8,2.2666666666666666,9.0,3.066666666666667,because,anticonic_caus,none
+163,Ted went out drinking.,Ted had a hangover.,2.333333333333333,9.2,3.533333333333333,9.466666666666669,then,iconic_temp,none
+164,Alice ate the last cookie and left the jar empty.,Bob opened the jar to get a cookie and was frustrated.,2.6,6.6,5.933333333333334,9.333333333333334,then,iconic_temp,none
+164,Bob opened the jar to get a cookie and was frustrated.,Alice ate the last cookie and left the jar empty.,8.866666666666667,1.933333333333333,7.666666666666667,3.466666666666667,because,anticonic_caus,none
+165,Jimmy left the tray empty.,Jimmy took the last piece of cake from the tray.,7.4,3.1333333333333333,7.466666666666667,1.6,after,anticonic_temp,none
+165,Jimmy took the last piece of cake from the tray.,Jimmy left the tray empty.,1.4,8.8,3.1333333333333333,8.2,so,iconic_caus,none
+166,The doctor prescribed an antihistamine.,Tom is suffering from acute allergies.,9.133333333333333,4.4,4.666666666666667,2.1333333333333333,because,anticonic_caus,none
+166,Tom is suffering from acute allergies.,The doctor prescribed an antihistamine.,1.4666666666666666,9.133333333333333,5.2,6.4,so,iconic_caus,none
+167,People killed the dodo for the meat.,The dodo went extinct in the last century.,2.0,8.733333333333333,2.933333333333333,7.533333333333333,so,iconic_caus,none
+167,The dodo went extinct in the last century.,People killed the dodo for the meat.,9.8,2.8,7.666666666666667,2.8,because,anticonic_caus,none
+168,The baby with rash all over his back suffered from roseola.,The doctor prescribed antipyretics and antiviral drugs.,3.6,8.733333333333333,5.4,7.0,so,iconic_caus,none
+168,The doctor prescribed antipyretics and antiviral drugs.,The baby with rash all over his back suffered from roseola.,8.733333333333333,1.933333333333333,7.466666666666667,2.933333333333333,because,anticonic_caus,none
+169,The government introduced policies to promote tourism.,Tourists got a discount for travel.,2.933333333333333,9.266666666666667,5.666666666666667,7.733333333333333,so,iconic_caus,none
+169,Tourists got a discount for travel.,The government introduced policies to promote tourism.,8.8,2.6666666666666665,9.533333333333331,2.066666666666667,after,anticonic_temp,none
+170,Jack murdered his boss.,Jack was taken away by the police.,2.1333333333333333,9.733333333333333,5.133333333333334,8.2,so,iconic_caus,none
+170,Jack was taken away by the police.,Jack murdered his boss.,9.266666666666667,2.466666666666667,9.2,2.2,because,anticonic_caus,none
+171,Tom has started eating less junk food.,Tom's weight has decreased.,2.4,8.933333333333334,3.8,6.133333333333334,so,iconic_caus,none
+171,Tom's weight has decreased.,Tom has started eating less junk food.,9.666666666666666,4.4,7.066666666666666,3.2666666666666666,because,anticonic_caus,none
+172,Authorities declared a global lockdown.,Infectious diseases continued to sprawl.,8.933333333333334,1.6666666666666667,9.533333333333331,6.133333333333334,after,anticonic_temp,none
+172,Infectious diseases continued to sprawl.,Authorities declared a global lockdown.,3.6666666666666665,9.733333333333333,6.666666666666667,8.066666666666666,so,iconic_caus,none
+173,Tom is a magician.,Tom is good at doing tricks.,7.533333333333333,9.2,3.0,3.066666666666667,so,iconic_caus,none
+173,Tom is good at doing tricks.,Tom is a magician.,9.533333333333331,6.533333333333333,3.1333333333333333,3.8,because,anticonic_caus,none
+174,John has been away from home for several months,John has joined a long-term meeting abroad.,7.666666666666667,4.533333333333333,3.533333333333333,1.5333333333333334,because,anticonic_caus,none
+174,John has joined a long-term meeting abroad.,John has been away from home for several months,4.666666666666667,8.0,2.533333333333333,4.666666666666667,so,iconic_caus,none
+175,Sheep easily run away.,The shepherd made a stronger fence around their sheepfold,1.8,9.333333333333334,2.533333333333333,5.666666666666667,so,iconic_caus,none
+175,The shepherd made a stronger fence around their sheepfold,Sheep easily run away.,8.933333333333334,1.7333333333333334,5.933333333333334,1.5333333333333334,because,anticonic_caus,none
+176,Tom is entering adolescence.,Tom's body is changing.,5.0,7.066666666666666,4.066666666666666,2.533333333333333,so,iconic_caus,none
+176,Tom's body is changing.,Tom is entering adolescence.,9.533333333333331,7.066666666666666,6.733333333333333,4.266666666666667,because,anticonic_caus,none
+177,Luke swam in the sea.,There is some salt on Luke's body.,3.4,9.2,4.866666666666666,6.2,so,iconic_caus,none
+177,There is some salt on Luke's body.,Luke swam in the sea.,8.666666666666666,4.133333333333334,8.133333333333333,1.6666666666666667,because,anticonic_caus,none
+178,Alice has become a physicist.,Alice has studied physics for decades.,8.733333333333333,6.6,8.533333333333333,1.6,because,anticonic_caus,none
+178,Alice has studied physics for decades.,Alice has become a physicist.,5.6,7.533333333333333,3.933333333333333,7.066666666666666,so,iconic_caus,none
+179,John has allergic reactions to lobsters.,John must avoid lobsters.,2.6666666666666665,9.666666666666666,4.2,8.4,so,iconic_caus,none
+179,John must avoid lobsters.,John has allergic reactions to lobsters.,9.466666666666669,2.1333333333333333,6.0,3.6,because,anticonic_caus,none
+180,Tom works in a hot environment.,Tom's job is in charge of the furnace in the ironworks.,8.933333333333334,3.933333333333333,1.8,2.533333333333333,because,anticonic_caus,none
+180,Tom's job is in charge of the furnace in the ironworks.,Tom works in a hot environment.,2.8,9.2,2.2666666666666666,3.4,so,iconic_caus,none
+181,John decided to become a pediatrician.,John loves children.,8.8,2.466666666666667,2.1333333333333333,3.2,because,anticonic_caus,none
+181,John loves children.,John decided to become a pediatrician.,2.6,8.6,3.8,4.8,so,iconic_caus,none
+182,Mary buys a lot of berries.,Mary likes eating berries.,9.666666666666666,4.866666666666666,3.8,4.8,because,anticonic_caus,none
+182,Mary likes eating berries.,Mary buys a lot of berries.,6.466666666666667,10.0,4.6,3.8,so,iconic_caus,none
+183,Tom hardly drinks water.,Tom suffers from kidney stones.,3.066666666666667,8.466666666666667,3.733333333333333,5.4,so,iconic_caus,none
+183,Tom suffers from kidney stones.,Tom hardly drinks water.,8.066666666666666,3.933333333333333,4.066666666666666,2.6,because,anticonic_caus,none
+184,Iris drinks tea.,Iris is thirsty.,9.666666666666666,3.066666666666667,3.4,2.2,because,anticonic_caus,none
+184,Iris is thirsty.,Iris drinks tea.,1.933333333333333,9.4,2.8,7.4,so,iconic_caus,none
+185,The child broke the flowerpot.,The mother scolded the child.,2.6,8.066666666666666,3.1333333333333333,9.533333333333331,then,iconic_temp,none
+185,The mother scolded the child.,The child broke the flowerpot.,9.0,5.866666666666666,9.066666666666666,4.466666666666667,after,anticonic_temp,none
+186,It was cold outside.,Peter put on his jacket before leaving.,1.4666666666666666,9.666666666666666,3.2,5.266666666666667,so,iconic_caus,none
+186,Peter put on his jacket before leaving.,It was cold outside.,8.533333333333333,3.2,3.2666666666666666,2.466666666666667,because,anticonic_caus,none
+187,Carmen wanted to adopt a dog.,Carmen went to the kennel.,5.866666666666666,8.8,6.666666666666667,6.933333333333334,so,iconic_caus,none
+187,Carmen went to the kennel.,Carmen wanted to adopt a dog.,8.733333333333333,4.466666666666667,6.2,7.533333333333333,because,anticonic_caus,none
+188,Luke crashed into Mike's car.,Mike's car was damaged.,1.6666666666666667,8.466666666666667,2.933333333333333,7.266666666666667,so,iconic_caus,none
+188,Mike's car was damaged.,Luke crashed into Mike's car.,9.0,1.8,9.933333333333334,1.7333333333333334,after,anticonic_temp,none
+189,Jey and Simona fell in love.,Jey and Simona have decided to get married.,2.8,9.466666666666669,2.1333333333333333,6.733333333333333,so,iconic_caus,none
+189,Jey and Simona have decided to get married.,Jey and Simona fell in love.,8.733333333333333,1.933333333333333,9.0,2.0,after,anticonic_temp,none
+190,Sara missed the train.,Sara was late for class.,3.866666666666666,9.266666666666667,3.2,9.2,so,iconic_caus,none
+190,Sara was late for class.,Sara missed the train.,9.266666666666667,3.1333333333333333,9.0,4.2,because,anticonic_caus,none
+191,Matteo asked for a loan from the bank.,Matteo wanted to buy a new house.,9.133333333333333,2.8666666666666667,6.4,5.133333333333334,because,anticonic_caus,none
+191,Matteo wanted to buy a new house.,Matteo asked for a loan from the bank.,2.933333333333333,9.8,5.866666666666666,6.8,so,iconic_caus,none
+192,Kevin broke his arm.,The doctor bandaged Kevin's arm.,2.533333333333333,9.533333333333331,3.533333333333333,8.2,so,iconic_caus,none
+192,The doctor bandaged Kevin's arm.,Kevin broke his arm.,9.066666666666666,1.5333333333333334,7.466666666666667,1.8,because,anticonic_caus,none
+193,Marta is studying law.,Marta wants to become a lawyer.,9.2,5.8,5.266666666666667,8.266666666666667,because,anticonic_caus,none
+193,Marta wants to become a lawyer.,Marta is studying law.,7.933333333333334,9.866666666666667,2.8666666666666667,3.4,so,iconic_caus,none
+194,It was very hot in Luca's room.,Luca opened the window.,3.0,9.666666666666666,3.6666666666666665,9.0,so,iconic_caus,none
+194,Luca opened the window.,It was very hot in Luca's room.,9.333333333333334,3.8,4.733333333333333,3.066666666666667,because,anticonic_caus,none
+195,Martina cooked the pasta.,Martina was hungry.,9.333333333333334,3.533333333333333,4.333333333333333,5.2,because,anticonic_caus,none
+195,Martina was hungry.,Martina cooked the pasta.,3.2,9.2,4.466666666666667,6.933333333333334,so,iconic_caus,none
+196,The dog barked at the postman.,The postman got scared.,2.8,9.266666666666667,3.733333333333333,9.333333333333334,then,iconic_temp,none
+196,The postman got scared.,The dog barked at the postman.,9.133333333333333,3.4,7.6,2.8,because,anticonic_caus,none
+197,The child thinks that a monster comes out of his closet at night.,The child wants to sleep with the light on at night.,3.733333333333333,9.733333333333333,4.8,5.6,so,iconic_caus,none
+197,The child wants to sleep with the light on at night.,The child thinks that a monster comes out of his closet at night.,9.4,2.4,4.933333333333334,1.8,because,anticonic_caus,none
+198,Grandma is preparing Christmas lunch.,The whole family will celebrate Christmas at grandma's house.,9.733333333333333,8.6,4.466666666666667,8.933333333333334,because,anticonic_caus,none
+198,The whole family will celebrate Christmas at grandma's house.,Grandma is preparing Christmas lunch.,9.266666666666667,9.8,5.333333333333333,6.4,so,iconic_caus,none
+199,England has a new king.,The king of England abdicated.,6.533333333333333,4.266666666666667,7.066666666666666,3.0,after,anticonic_temp,none
+199,The king of England abdicated.,England has a new king.,2.6666666666666665,8.6,3.4,7.133333333333334,so,iconic_caus,none
+200,George plugged the phone charger in.,George took his phone off the charger.,3.2666666666666666,2.466666666666667,3.0,5.066666666666666,then,iconic_temp,none
+200,George took his phone off the charger.,George plugged the phone charger in.,3.333333333333333,2.2,4.2,4.266666666666667,then,iconic_temp,none
+201,Luca bought a new car.,Luca parked the car.,1.3333333333333333,4.466666666666667,3.533333333333333,8.133333333333333,then,iconic_temp,none
+201,Luca parked the car.,Luca bought a new car.,3.333333333333333,1.7333333333333334,7.6,3.333333333333333,after,anticonic_temp,none
+202,The bird came out of the egg.,The bird learned to fly.,2.333333333333333,3.866666666666666,3.333333333333333,8.4,then,iconic_temp,none
+202,The bird learned to fly.,The bird came out of the egg.,2.0,2.8666666666666667,7.266666666666667,1.6,after,anticonic_temp,none
+203,Mark brushed his teeth.,Mark drank milk.,7.066666666666666,1.2,6.8,5.8,because,anticonic_caus,none
+203,Mark drank milk.,Mark brushed his teeth.,2.6666666666666665,6.466666666666667,6.666666666666667,8.333333333333334,then,iconic_temp,none
+204,The airplane landed.,The stewardesses greeted the passengers.,1.8,6.266666666666667,4.0,5.533333333333333,so,iconic_caus,none
+204,The stewardesses greeted the passengers.,The airplane landed.,5.6,1.6,3.8,2.933333333333333,because,anticonic_caus,none
+205,The photographer asked the model to smile.,The photographer took the photo.,4.2,5.333333333333333,3.866666666666666,9.666666666666666,then,iconic_temp,none
+205,The photographer took the photo.,The photographer asked the model to smile.,3.1333333333333333,3.8,9.533333333333331,4.733333333333333,after,anticonic_temp,none
+206,Katy bought the book.,Katy wrapped the book up as a gift.,1.8666666666666667,5.8,1.8666666666666667,8.933333333333334,then,iconic_temp,none
+206,Katy wrapped the book up as a gift.,Katy bought the book.,4.866666666666666,1.8666666666666667,7.733333333333333,1.8,after,anticonic_temp,none
+207,The coffin was brought to the churchyard.,The coffin was buried.,1.8666666666666667,6.066666666666666,2.6666666666666665,9.6,then,iconic_temp,none
+207,The coffin was buried.,The coffin was brought to the churchyard.,4.266666666666667,2.6666666666666665,7.866666666666666,1.2666666666666666,after,anticonic_temp,none
+208,Mary entered the church.,Mary greeted the priest.,2.4,7.6,7.266666666666667,8.066666666666666,then,iconic_temp,none
+208,Mary greeted the priest.,Mary entered the church.,7.4,3.066666666666667,8.133333333333333,8.2,then,iconic_temp,none
+209,The mother cut a piece of cake.,The mother prepared a cake.,6.0,2.1333333333333333,8.666666666666666,1.8,after,anticonic_temp,none
+209,The mother prepared a cake.,The mother cut a piece of cake.,1.5333333333333334,5.266666666666667,3.4,8.8,then,iconic_temp,none
+210,The man looked for keys.,The man opened the door of the house.,1.7333333333333334,3.6666666666666665,1.933333333333333,8.266666666666667,then,iconic_temp,none
+210,The man opened the door of the house.,The man looked for keys.,2.466666666666667,1.6666666666666667,5.933333333333334,2.2666666666666666,after,anticonic_temp,none
+211,The moon rises.,The sun sets.,7.266666666666667,6.066666666666666,7.733333333333333,6.666666666666667,after,anticonic_temp,none
+211,The sun sets.,The moon rises.,5.933333333333334,6.6,5.133333333333334,9.333333333333334,then,iconic_temp,none
+212,Grandma hung out the laundry.,Grandma put clothespins on the clothes.,3.2,6.8,4.0,5.533333333333333,so,iconic_caus,none
+212,Grandma put clothespins on the clothes.,Grandma hung out the laundry.,6.133333333333334,3.2666666666666666,5.266666666666667,3.733333333333333,because,anticonic_caus,none
+213,The teacher finished the lesson,The teacher started the lesson.,4.8,1.4,5.4,1.4666666666666666,after,anticonic_temp,none
+213,The teacher started the lesson.,The teacher finished the lesson,1.0666666666666669,5.066666666666666,1.2,8.733333333333333,then,iconic_temp,none
+214,Matt got out of bed.,Matt had his breakfast.,3.4,7.466666666666667,5.2,9.4,then,iconic_temp,none
+214,Matt had his breakfast.,Matt got out of bed.,4.733333333333333,2.533333333333333,7.4,3.8,after,anticonic_temp,none
+215,Julie chose a dress to wear.,Julie opened the closet.,3.4,3.066666666666667,7.4,3.6,after,anticonic_temp,none
+215,Julie opened the closet.,Julie chose a dress to wear.,3.6666666666666665,3.466666666666667,5.266666666666667,9.4,then,iconic_temp,none
+216,Kevin fell asleep.,Kevin went to bed.,6.066666666666666,3.066666666666667,7.466666666666667,2.8,after,anticonic_temp,none
+216,Kevin went to bed.,Kevin fell asleep.,3.933333333333333,8.333333333333334,2.8,9.8,then,iconic_temp,none
+217,The dad put cutlets in a pan.,The dad put some oil on the pan fries.,2.933333333333333,3.066666666666667,4.8,3.6666666666666665,after,anticonic_temp,none
+217,The dad put some oil on the pan fries.,The dad put cutlets in a pan.,3.733333333333333,2.466666666666667,4.6,6.066666666666666,then,iconic_temp,none
+218,Julie bought some fruit.,Julie went to the market.,6.266666666666667,2.6,5.533333333333333,3.0,because,anticonic_caus,none
+218,Julie went to the market.,Julie bought some fruit.,3.2,5.933333333333334,4.066666666666666,9.0,then,iconic_temp,none
+219,It rained.,There was a rainbow.,2.4,7.466666666666667,6.0,8.933333333333334,then,iconic_temp,none
+219,There was a rainbow.,It rained.,8.466666666666667,2.6,8.533333333333333,4.733333333333333,after,anticonic_temp,none
+220,The sun rose.,The sun set.,2.7333333333333334,3.2666666666666666,5.6,9.0,then,iconic_temp,none
+220,The sun set.,The sun rose.,6.4,5.0,6.2,9.2,then,iconic_temp,none
+221,Diana trained on the treadmill.,Diana went to the gym.,6.8,2.8,3.866666666666666,3.333333333333333,because,anticonic_caus,none
+221,Diana went to the gym.,Diana trained on the treadmill.,4.6,5.4,3.466666666666667,7.8,then,iconic_temp,none
+222,Michele left the beach.,Michele played volleyball on the beach,3.933333333333333,1.933333333333333,6.0,1.6,after,anticonic_temp,none
+222,Michele played volleyball on the beach,Michele left the beach.,1.7333333333333334,1.3333333333333333,3.866666666666666,8.133333333333333,then,iconic_temp,none
+223,The girl mixed the ingredients to prepare a cake.,The girl put the cake into the oven.,2.2,5.733333333333333,5.4,9.066666666666666,then,iconic_temp,none
+223,The girl put the cake into the oven.,The girl mixed the ingredients to prepare a cake.,5.333333333333333,2.466666666666667,7.333333333333333,1.6,after,anticonic_temp,none
+224,Grandma ironed the shirts.,Grandma put the shirts into the closet.,2.8,4.533333333333333,3.2,9.4,then,iconic_temp,none
+224,Grandma put the shirts into the closet.,Grandma ironed the shirts.,6.066666666666666,2.533333333333333,7.933333333333334,1.1333333333333333,after,anticonic_temp,none
+225,Gina served the cake to family and friends.,Gina turned the cake out onto a cake plate.,3.1333333333333333,4.933333333333334,2.2,2.6,so,iconic_caus,none
+225,Gina turned the cake out onto a cake plate.,Gina served the cake to family and friends.,3.8,5.666666666666667,2.8666666666666667,9.133333333333333,then,iconic_temp,none
+226,Camilla chose a book.,Camilla went to the library.,8.133333333333333,2.6666666666666665,8.0,3.466666666666667,because,anticonic_caus,none
+226,Camilla went to the library.,Camilla chose a book.,2.7333333333333334,7.333333333333333,4.8,9.333333333333334,then,iconic_temp,none
+227,Clark checked if the book was available in the catalog.,Clark used his laptop to find the book's location.,4.133333333333334,4.733333333333333,7.066666666666666,8.333333333333334,then,iconic_temp,none
+227,Clark used his laptop to find the book's location.,Clark checked if the book was available in the catalog.,4.733333333333333,6.0,6.733333333333333,7.733333333333333,then,iconic_temp,none
+228,Lara left the library with a book.,Lara went home and read the book.,3.1333333333333333,9.2,5.6,8.933333333333334,so,iconic_caus,none
+228,Lara went home and read the book.,Lara left the library with a book.,5.733333333333333,2.8666666666666667,5.466666666666667,1.4666666666666666,because,anticonic_caus,none
+229,Mark decided where he wanted to go on holiday.,Mark planned his travel and booked the tickets.,4.2,9.333333333333334,4.533333333333333,8.4,so,iconic_caus,none
+229,Mark planned his travel and booked the tickets.,Mark decided where he wanted to go on holiday.,7.666666666666667,3.466666666666667,8.866666666666667,2.1333333333333333,after,anticonic_temp,none
+230,Clara bought the plane tickets.,Clara prepared and packed the luggage.,2.6,7.533333333333333,7.2,7.866666666666666,then,iconic_temp,none
+230,Clara prepared and packed the luggage.,Clara bought the plane tickets.,6.066666666666666,2.933333333333333,7.733333333333333,5.733333333333333,after,anticonic_temp,none
+231,James got into the car.,James went to the airport.,4.6,3.4,4.333333333333333,9.0,then,iconic_temp,none
+231,James went to the airport.,James got into the car.,2.2666666666666666,2.7333333333333334,8.2,4.066666666666666,after,anticonic_temp,none
+232,Erik entered the airport.,Erik went to the check-in desk.,2.6666666666666665,6.666666666666667,2.333333333333333,9.333333333333334,then,iconic_temp,none
+232,Erik went to the check-in desk.,Erik entered the airport.,7.066666666666666,3.0,7.133333333333334,1.7333333333333334,after,anticonic_temp,none
+233,Chiara boarded the airplane.,Chiara went to the gate with the boarding pass.,5.866666666666666,1.8,7.533333333333333,1.8,after,anticonic_temp,none
+233,Chiara went to the gate with the boarding pass.,Chiara boarded the airplane.,3.2,7.466666666666667,3.466666666666667,9.266666666666667,then,iconic_temp,none
+234,The plane landed at the destination.,The plane took off.,5.333333333333333,2.1333333333333333,6.733333333333333,3.1333333333333333,after,anticonic_temp,none
+234,The plane took off.,The plane landed at the destination.,2.7333333333333334,3.933333333333333,2.8,9.133333333333333,then,iconic_temp,none
+235,Alex embarked the luggage.,Alex went to the airport.,4.2,1.4,4.466666666666667,4.133333333333334,after,anticonic_temp,none
+235,Alex went to the airport.,Alex embarked the luggage.,3.1333333333333333,4.533333333333333,2.1333333333333333,4.866666666666666,then,iconic_temp,none
+236,Betty combed her hair.,Betty got her hair washed.,7.2,2.6666666666666665,6.8,7.0,because,anticonic_caus,none
+236,Betty got her hair washed.,Betty combed her hair.,1.8666666666666667,6.866666666666666,5.6,9.4,then,iconic_temp,none
+237,James made a shopping list.,James went to the grocery store.,6.066666666666666,7.133333333333334,4.0,9.2,then,iconic_temp,none
+237,James went to the grocery store.,James made a shopping list.,6.533333333333333,4.333333333333333,8.6,1.7333333333333334,after,anticonic_temp,none
+238,Jack listed out the things he wanted to buy.,Jack took a shopping cart.,3.466666666666667,4.266666666666667,6.466666666666667,8.4,then,iconic_temp,none
+238,Jack took a shopping cart.,Jack listed out the things he wanted to buy.,4.066666666666666,3.933333333333333,6.0,6.2,then,iconic_temp,none
+239,Tina drove to the store.,Tina prepared the grocery list.,6.4,3.6666666666666665,6.866666666666666,2.466666666666667,after,anticonic_temp,none
+239,Tina prepared the grocery list.,Tina drove to the store.,2.466666666666667,6.2,3.933333333333333,9.266666666666667,then,iconic_temp,none
+240,Lucilla drove to the bank.,Lucilla parked in front of the bank.,1.8666666666666667,5.666666666666667,2.6666666666666665,9.133333333333333,then,iconic_temp,none
+240,Lucilla parked in front of the bank.,Lucilla drove to the bank.,8.6,2.533333333333333,4.866666666666666,2.0,because,anticonic_caus,none
+241,Ryan entered the supermarket.,Ryan went to the fruit section.,2.1333333333333333,3.333333333333333,3.466666666666667,8.933333333333334,then,iconic_temp,none
+241,Ryan went to the fruit section.,Ryan entered the supermarket.,3.733333333333333,2.8,8.8,1.6666666666666667,after,anticonic_temp,none
+242,Jack entered the grocery store and grabbed a shopping cart.,Jack filled the cart with food.,2.466666666666667,7.8,5.666666666666667,8.866666666666667,then,iconic_temp,none
+242,Jack filled the cart with food.,Jack entered the grocery store and grabbed a shopping cart.,6.533333333333333,2.533333333333333,6.066666666666666,1.6666666666666667,because,anticonic_caus,none
+243,Claire looked for milk in the store.,Claire took the milk from the fridge.,2.0,1.933333333333333,2.933333333333333,6.666666666666667,then,iconic_temp,none
+243,Claire took the milk from the fridge.,Claire looked for milk in the store.,1.6666666666666667,2.4,4.066666666666666,2.6,after,anticonic_temp,none
+244,Fernando checked for the food price and validity.,Fernando looked for the food he wanted.,4.733333333333333,4.0,7.333333333333333,3.933333333333333,after,anticonic_temp,none
+244,Fernando looked for the food he wanted.,Fernando checked for the food price and validity.,1.7333333333333334,4.333333333333333,6.933333333333334,8.666666666666666,then,iconic_temp,none
+245,Gina filled the shopping cart with groceries.,Gina paid for groceries.,2.466666666666667,7.466666666666667,4.533333333333333,9.666666666666666,then,iconic_temp,none
+245,Gina paid for groceries.,Gina filled the shopping cart with groceries.,5.466666666666667,3.933333333333333,6.266666666666667,3.0,after,anticonic_temp,none
+246,Bill brought the groceries home.,Bill paid for the grocery items.,7.2,2.533333333333333,8.066666666666666,3.1333333333333333,after,anticonic_temp,none
+246,Bill paid for the grocery items.,Bill brought the groceries home.,1.933333333333333,5.933333333333334,2.2,9.666666666666666,then,iconic_temp,none
+247,June decided to get the train.,June looked up for train information online.,7.133333333333334,7.333333333333333,7.4,8.8,then,iconic_temp,none
+247,June looked up for train information online.,June decided to get the train.,6.666666666666667,5.666666666666667,6.333333333333333,8.066666666666666,then,iconic_temp,none
+248,Frank checked the schedule of the trains to London.,Frank decided to go to London by train.,7.666666666666667,6.733333333333333,8.0,8.8,then,iconic_temp,none
+248,Frank decided to go to London by train.,Frank checked the schedule of the trains to London.,6.8,9.866666666666667,9.066666666666666,7.066666666666666,so,iconic_caus,none
+249,Fabio chose his destination.,Fabio packed his luggage.,1.8,6.866666666666666,4.466666666666667,8.333333333333334,then,iconic_temp,none
+249,Fabio packed his luggage.,Fabio chose his destination.,5.2,1.4666666666666666,7.333333333333333,4.0,after,anticonic_temp,none
+250,Zoe left the house.,Zoe went to the train station.,4.6,4.6,2.2,9.466666666666669,then,iconic_temp,none
+250,Zoe went to the train station.,Zoe left the house.,2.2,4.0,6.466666666666667,1.6666666666666667,after,anticonic_temp,none
+251,The cook put the pasta in the pot.,The pasta in the pot boiled.,1.6666666666666667,5.8,1.7333333333333334,7.466666666666667,then,iconic_temp,none
+251,The pasta in the pot boiled.,The cook put the pasta in the pot.,7.466666666666667,2.8,7.666666666666667,3.066666666666667,after,anticonic_temp,none
+252,Penny paid for the ticket.,Penny stood in the queue in front of a ticket counter.,6.4,3.333333333333333,7.4,1.8,after,anticonic_temp,none
+252,Penny stood in the queue in front of a ticket counter.,Penny paid for the ticket.,3.2,5.266666666666667,4.466666666666667,9.266666666666667,then,iconic_temp,none
+253,Ross acted in the theater.,Ross bowed to the audience.,1.7333333333333334,6.8,4.0,8.333333333333334,then,iconic_temp,none
+253,Ross bowed to the audience.,Ross acted in the theater.,8.533333333333333,2.1333333333333333,8.266666666666667,5.533333333333333,because,anticonic_caus,none
+254,Dina waited for the train to arrive.,The train arrived.,2.066666666666667,5.133333333333334,4.866666666666666,9.4,then,iconic_temp,none
+254,The train arrived.,Dina waited for the train to arrive.,3.1333333333333333,1.8,6.666666666666667,1.5333333333333334,after,anticonic_temp,none
+255,Karl boarded the train.,Karl put the trolley in the overhead bin.,1.7333333333333334,4.533333333333333,2.8,7.666666666666667,then,iconic_temp,none
+255,Karl put the trolley in the overhead bin.,Karl boarded the train.,5.466666666666667,1.7333333333333334,6.733333333333333,3.1333333333333333,after,anticonic_temp,none
+256,Francis put on the helmet.,Francis rode the motorbike.,7.333333333333333,6.4,2.533333333333333,9.733333333333333,then,iconic_temp,none
+256,Francis rode the motorbike.,Francis put on the helmet.,4.2,3.933333333333333,6.933333333333334,2.6,after,anticonic_temp,none
+257,Charlie got on the train.,Charlie waited for the train to arrive.,5.066666666666666,2.0,6.933333333333334,2.2666666666666666,after,anticonic_temp,none
+257,Charlie waited for the train to arrive.,Charlie got on the train.,2.533333333333333,5.733333333333333,4.8,8.666666666666666,then,iconic_temp,none
+258,Kevin boarded the train.,Kevin looked for the seat number on the ticket.,1.933333333333333,6.666666666666667,5.8,9.2,then,iconic_temp,none
+258,Kevin looked for the seat number on the ticket.,Kevin boarded the train.,5.6,2.8666666666666667,8.733333333333333,8.4,after,anticonic_temp,none
+259,Sara boarded the train.,Sara looked for her seat.,2.0,5.733333333333333,4.8,9.733333333333333,then,iconic_temp,none
+259,Sara looked for her seat.,Sara boarded the train.,7.133333333333334,1.4666666666666666,7.066666666666666,2.533333333333333,because,anticonic_caus,none
+260,Sara got off the train at her stop.,Sara went out of the station.,1.8666666666666667,5.466666666666667,4.2,8.733333333333333,then,iconic_temp,none
+260,Sara went out of the station.,Sara got off the train at her stop.,6.733333333333333,2.4,7.866666666666666,2.0,after,anticonic_temp,none
+261,Sara chose a plant.,Sara went to the garden center.,7.6,3.1333333333333333,5.066666666666666,3.733333333333333,because,anticonic_caus,none
+261,Sara went to the garden center.,Sara chose a plant.,3.0,6.266666666666667,4.066666666666666,9.266666666666667,then,iconic_temp,none
+262,The leaf became yellow.,The leaf fell to the ground.,6.733333333333333,7.466666666666667,8.466666666666667,9.8,then,iconic_temp,none
+262,The leaf fell to the ground.,The leaf became yellow.,3.466666666666667,5.8,6.666666666666667,8.866666666666667,then,iconic_temp,none
+263,Mary put the plant in a pot.,Mary watered the plant.,2.6666666666666665,7.733333333333333,4.666666666666667,8.8,then,iconic_temp,none
+263,Mary watered the plant.,Mary put the plant in a pot.,5.733333333333333,3.0,7.6,3.2666666666666666,after,anticonic_temp,none
+264,Luca dug a hole deep and wide enough to accommodate the roots of the tree.,Luca found a spot to plant a tree.,5.533333333333333,5.666666666666667,6.4,2.466666666666667,after,anticonic_temp,none
+264,Luca found a spot to plant a tree.,Luca dug a hole deep and wide enough to accommodate the roots of the tree.,3.066666666666667,8.4,6.2,8.4,so,iconic_caus,none
+265,The gardener located the spot to plant the tree.,The gardener prepared the soil.,5.066666666666666,6.533333333333333,5.866666666666666,8.933333333333334,then,iconic_temp,none
+265,The gardener prepared the soil.,The gardener located the spot to plant the tree.,6.4,5.533333333333333,7.733333333333333,7.133333333333334,after,anticonic_temp,none
+266,Simona cut the dry branches of the tree.,Simona planted the tree.,3.933333333333333,2.1333333333333333,6.8,4.6,after,anticonic_temp,none
+266,Simona planted the tree.,Simona cut the dry branches of the tree.,1.8666666666666667,3.4,4.533333333333333,7.666666666666667,then,iconic_temp,none
+267,Jey checked the bus schedule.,Jey figured out the place he wanted to reach.,7.133333333333334,6.333333333333333,7.6,5.733333333333333,after,anticonic_temp,none
+267,Jey figured out the place he wanted to reach.,Jey checked the bus schedule.,6.133333333333334,7.933333333333334,5.6,9.0,then,iconic_temp,none
+268,Jey cleaned the dishes.,Jey dried the dishes.,2.0,7.266666666666667,3.933333333333333,9.466666666666669,then,iconic_temp,none
+268,Jey dried the dishes.,Jey cleaned the dishes.,5.2,2.8666666666666667,5.933333333333334,2.0,after,anticonic_temp,none
+269,Gaia found the bus stop nearest to her location.,Gaia waited for the bus at the stop.,1.8666666666666667,8.133333333333333,4.8,9.666666666666666,then,iconic_temp,none
+269,Gaia waited for the bus at the stop.,Gaia found the bus stop nearest to her location.,6.133333333333334,3.933333333333333,6.933333333333334,2.6,after,anticonic_temp,none
+270,Gaia saw the bus approaching.,Gaia waited at the bus stop.,6.0,9.133333333333333,6.133333333333334,5.733333333333333,so,iconic_caus,none
+270,Gaia waited at the bus stop.,Gaia saw the bus approaching.,8.333333333333334,7.4,6.666666666666667,9.2,then,iconic_temp,none
+271,The bus arrived.,The bus left the bus stop.,4.266666666666667,5.2,2.7333333333333334,9.666666666666666,then,iconic_temp,none
+271,The bus left the bus stop.,The bus arrived.,3.6,1.3333333333333333,3.6666666666666665,4.066666666666666,then,iconic_temp,none
+272,Leonard got on the bus.,Leonard paid for the ride.,6.266666666666667,7.6,6.933333333333334,7.8,then,iconic_temp,none
+272,Leonard paid for the ride.,Leonard got on the bus.,6.933333333333334,5.8,6.066666666666666,6.333333333333333,because,anticonic_caus,none
+273,Luca boarded the bus when it arrived.,Luca showed the ticket to the bus driver.,6.066666666666666,7.4,7.266666666666667,8.266666666666667,then,iconic_temp,none
+273,Luca showed the ticket to the bus driver.,Luca boarded the bus when it arrived.,6.133333333333334,4.533333333333333,6.133333333333334,4.133333333333334,because,anticonic_caus,none
+274,Sara got off the bus.,Sara pulled the cord when she wanted the bus to stop.,6.0,3.6666666666666665,8.466666666666667,3.0,after,anticonic_temp,none
+274,Sara pulled the cord when she wanted the bus to stop.,Sara got off the bus.,2.6666666666666665,6.533333333333333,4.133333333333334,9.466666666666669,then,iconic_temp,none
+275,Alex got off the bus.,Alex rang the bell on the bus when the bus approached the stop.,7.2,2.2666666666666666,6.6,2.333333333333333,because,anticonic_caus,none
+275,Alex rang the bell on the bus when the bus approached the stop.,Alex got off the bus.,2.466666666666667,8.2,3.533333333333333,9.533333333333331,then,iconic_temp,none
+276,Kevin got off the bus.,Kevin waited until the bus arrived at its destination.,4.133333333333334,1.2,6.066666666666666,2.533333333333333,after,anticonic_temp,none
+276,Kevin waited until the bus arrived at its destination.,Kevin got off the bus.,1.4,5.066666666666666,3.333333333333333,9.066666666666666,then,iconic_temp,none
+277,Penny entered the bathroom.,Penny switched on the light.,4.266666666666667,7.466666666666667,7.133333333333334,8.6,then,iconic_temp,none
+277,Penny switched on the light.,Penny entered the bathroom.,7.866666666666666,4.266666666666667,8.0,9.266666666666667,then,iconic_temp,none
+278,Leonard turned on the water.,Leonard went to the bathtub.,4.533333333333333,2.933333333333333,5.666666666666667,5.533333333333333,after,anticonic_temp,none
+278,Leonard went to the bathtub.,Leonard turned on the water.,3.1333333333333333,5.333333333333333,3.6666666666666665,9.266666666666667,then,iconic_temp,none
+279,Giovanna put her lipstick on.,Giovanna took her make-up set.,7.066666666666666,2.466666666666667,4.8,3.2666666666666666,because,anticonic_caus,none
+279,Giovanna took her make-up set.,Giovanna put her lipstick on.,2.4,5.8,4.6,8.6,then,iconic_temp,none
+280,The man filled the tub with water.,The man put the soap into the tub.,2.1333333333333333,3.066666666666667,7.8,8.866666666666667,then,iconic_temp,none
+280,The man put the soap into the tub.,The man filled the tub with water.,4.533333333333333,3.2,7.333333333333333,8.466666666666667,then,iconic_temp,none
+281,Sara got in the bathtub.,Sara got undressed.,3.066666666666667,3.4,6.333333333333333,2.4,after,anticonic_temp,none
+281,Sara got undressed.,Sara got in the bathtub.,4.733333333333333,5.066666666666666,2.4,9.466666666666669,then,iconic_temp,none
+282,Marco dived from the diving board.,Marco went to the swimming pool.,5.4,2.933333333333333,7.0,4.333333333333333,after,anticonic_temp,none
+282,Marco went to the swimming pool.,Marco dived from the diving board.,2.4,5.333333333333333,3.1333333333333333,9.133333333333333,then,iconic_temp,none
+283,Amy got out of the bathtub.,Amy washed her body with soap.,3.866666666666666,1.4,6.333333333333333,2.2666666666666666,after,anticonic_temp,none
+283,Amy washed her body with soap.,Amy got out of the bathtub.,1.3333333333333333,5.466666666666667,3.1333333333333333,9.133333333333333,then,iconic_temp,none
+284,The woman got out of the bathtub.,The woman opened the bathtub drain.,5.2,8.4,8.4,7.4,so,iconic_caus,none
+284,The woman opened the bathtub drain.,The woman got out of the bathtub.,6.2,4.6,7.8,7.2,after,anticonic_temp,none
+285,The flower bloomed.,The flower withered.,1.2666666666666666,2.1333333333333333,3.066666666666667,9.466666666666669,then,iconic_temp,none
+285,The flower withered.,The flower bloomed.,2.1333333333333333,1.8666666666666667,6.333333333333333,4.6,after,anticonic_temp,none
+286,The girl set the alarm clock.,The girl woke up.,2.466666666666667,7.933333333333334,2.6,9.0,then,iconic_temp,none
+286,The girl woke up.,The girl set the alarm clock.,8.533333333333333,3.2666666666666666,6.6,2.8666666666666667,because,anticonic_caus,none
+287,Luca chose a movie to watch.,Luca went to the cinema.,5.933333333333334,5.533333333333333,5.0,9.066666666666666,then,iconic_temp,none
+287,Luca went to the cinema.,Luca chose a movie to watch.,6.733333333333333,5.333333333333333,7.066666666666666,6.2,after,anticonic_temp,none
+288,Penny bought some popcorn.,Penny went to the cinema.,8.0,4.333333333333333,5.2,7.133333333333334,because,anticonic_caus,none
+288,Penny went to the cinema.,Penny bought some popcorn.,2.2666666666666666,8.866666666666667,5.666666666666667,7.733333333333333,so,iconic_caus,none
+289,Kevin entered the movie theater.,Kevin found a seat.,2.6,5.6,4.533333333333333,9.733333333333333,then,iconic_temp,none
+289,Kevin found a seat.,Kevin entered the movie theater.,6.333333333333333,3.6666666666666665,6.466666666666667,1.5333333333333334,after,anticonic_temp,none
+290,Katia peeled the apple.,Katia washed the apple.,4.533333333333333,1.6,8.0,4.266666666666667,after,anticonic_temp,none
+290,Katia washed the apple.,Katia peeled the apple.,2.533333333333333,2.466666666666667,4.533333333333333,8.8,then,iconic_temp,none
+291,Mark turned off the television.,Mark watched the movie.,5.266666666666667,1.7333333333333334,6.333333333333333,3.2666666666666666,after,anticonic_temp,none
+291,Mark watched the movie.,Mark turned off the television.,1.4,5.4,2.4,8.266666666666667,then,iconic_temp,none
+292,Susie got dressed.,Susie got out of the house.,2.8666666666666667,3.0,1.6666666666666667,8.2,then,iconic_temp,none
+292,Susie got out of the house.,Susie got dressed.,3.733333333333333,2.0,7.133333333333334,2.2,after,anticonic_temp,none
+293,The man prepared the dinner.,The man returned home.,5.533333333333333,2.2,8.466666666666667,3.6666666666666665,after,anticonic_temp,none
+293,The man returned home.,The man prepared the dinner.,2.2666666666666666,7.4,2.8,9.4,then,iconic_temp,none
+294,The girl ate her breakfast.,The girl went to work,2.7333333333333334,3.4,5.2,9.466666666666669,then,iconic_temp,none
+294,The girl went to work,The girl ate her breakfast.,2.4,3.4,8.466666666666667,4.866666666666666,after,anticonic_temp,none
+295,The woman made an appointment with the doctor.,The woman went to the doctor.,1.6,6.066666666666666,3.2,8.6,then,iconic_temp,none
+295,The woman went to the doctor.,The woman made an appointment with the doctor.,8.533333333333333,3.466666666666667,6.666666666666667,2.2,because,anticonic_caus,none
+296,The mother broke the eggs.,The mother cooked an omelet.,8.0,8.733333333333333,4.066666666666666,8.333333333333334,so,iconic_caus,none
+296,The mother cooked an omelet.,The mother broke the eggs.,5.933333333333334,6.533333333333333,6.666666666666667,1.6,after,anticonic_temp,none
+297,Mark cut the onions.,Mark put the onions in a pan.,1.4,5.333333333333333,4.066666666666666,9.666666666666666,then,iconic_temp,none
+297,Mark put the onions in a pan.,Mark cut the onions.,5.466666666666667,1.933333333333333,6.666666666666667,2.533333333333333,after,anticonic_temp,none
+298,Steven ate the food.,Steven put the omelet on a plate.,6.666666666666667,1.2666666666666666,5.6,2.0,because,anticonic_caus,none
+298,Steven put the omelet on a plate.,Steven ate the food.,2.6666666666666665,6.933333333333334,3.2666666666666666,8.6,then,iconic_temp,none
+299,Penny ate vegetables for lunch.,Penny bought vegetables.,9.2,2.2,6.133333333333334,3.066666666666667,because,anticonic_caus,none
+299,Penny bought vegetables.,Penny ate vegetables for lunch.,4.533333333333333,8.533333333333333,3.533333333333333,8.4,so,iconic_caus,none
+300,Amy bought the ingredients to prepare a cake.,Amy entered the grocery store.,3.933333333333333,3.066666666666667,5.0,1.8666666666666667,after,anticonic_temp,none
+300,Amy entered the grocery store.,Amy bought the ingredients to prepare a cake.,2.466666666666667,7.4,3.733333333333333,9.266666666666667,then,iconic_temp,none
+301,Marco entered the kitchen.,Marco went home.,2.6,1.4666666666666666,4.133333333333334,4.266666666666667,then,iconic_temp,none
+301,Marco went home.,Marco entered the kitchen.,2.0,3.0,2.8,7.533333333333333,then,iconic_temp,none
+302,Luke cut some vegetables.,Luke prepared a soup.,4.6,4.6,4.266666666666667,9.4,then,iconic_temp,none
+302,Luke prepared a soup.,Luke cut some vegetables.,5.333333333333333,6.6,7.466666666666667,3.933333333333333,after,anticonic_temp,none
+303,Penny found a cake recipe.,Penny gathered all the ingredients for the cake.,3.533333333333333,8.866666666666667,5.0,8.666666666666666,so,iconic_caus,none
+303,Penny gathered all the ingredients for the cake.,Penny found a cake recipe.,8.266666666666667,2.1333333333333333,8.2,3.2666666666666666,because,anticonic_caus,none
+304,Penny ate some cornflakes.,Penny took a bowl.,2.8666666666666667,2.8,6.8,1.7333333333333334,after,anticonic_temp,none
+304,Penny took a bowl.,Penny ate some cornflakes.,2.533333333333333,4.866666666666666,1.933333333333333,8.066666666666666,then,iconic_temp,none
+305,The chef mixed the ingredients in the bowl.,The chef put the ingredients into the bowl.,5.8,3.6666666666666665,7.4,2.6,after,anticonic_temp,none
+305,The chef put the ingredients into the bowl.,The chef mixed the ingredients in the bowl.,2.0,6.133333333333334,3.866666666666666,9.266666666666667,then,iconic_temp,none
+306,Kevin cut an onion.,Kevin found the ingredients listed in the recipe.,5.066666666666666,3.1333333333333333,6.4,3.2,after,anticonic_temp,none
+306,Kevin found the ingredients listed in the recipe.,Kevin cut an onion.,1.4,4.933333333333334,3.733333333333333,8.066666666666666,then,iconic_temp,none
+307,Tom prepared the cake pan.,Tom put the mix in the pan.,3.066666666666667,3.6666666666666665,3.533333333333333,8.8,then,iconic_temp,none
+307,Tom put the mix in the pan.,Tom prepared the cake pan.,4.733333333333333,2.933333333333333,7.733333333333333,3.333333333333333,after,anticonic_temp,none
+308,Kevin preheated the oven.,Kevin put the cake into the oven.,4.2,6.0,3.733333333333333,9.266666666666667,then,iconic_temp,none
+308,Kevin put the cake into the oven.,Kevin preheated the oven.,6.466666666666667,3.1333333333333333,7.666666666666667,2.1333333333333333,after,anticonic_temp,none
+309,The chef put the mixture into the cake pan.,The chef sprayed the cake pan with nonstick spray.,5.8,2.4,5.666666666666667,1.6,because,anticonic_caus,none
+309,The chef sprayed the cake pan with nonstick spray.,The chef put the mixture into the cake pan.,2.8666666666666667,4.333333333333333,4.333333333333333,9.8,then,iconic_temp,none
+310,Katia adopted a dog.,Katia trained a dog.,3.533333333333333,5.6,3.8,9.0,then,iconic_temp,none
+310,Katia trained a dog.,Katia adopted a dog.,5.6,3.6666666666666665,6.6,4.8,after,anticonic_temp,none
+311,The man opened the oven.,The man put the cake into the oven.,6.0,6.133333333333334,4.4,9.8,then,iconic_temp,none
+311,The man put the cake into the oven.,The man opened the oven.,5.533333333333333,3.333333333333333,6.866666666666666,2.8,after,anticonic_temp,none
+312,The chef baked the cake.,The chef decorated the cake.,1.7333333333333334,6.466666666666667,4.4,9.533333333333331,then,iconic_temp,none
+312,The chef decorated the cake.,The chef baked the cake.,6.2,2.333333333333333,8.266666666666667,1.6,after,anticonic_temp,none
+313,The girl baked the cake.,The girl turned off the oven.,1.7333333333333334,5.066666666666666,2.2,8.2,then,iconic_temp,none
+313,The girl turned off the oven.,The girl baked the cake.,6.6,1.5333333333333334,9.4,1.8,after,anticonic_temp,none
+314,The chef baked the cake.,The chef removed the cake from the oven.,2.7333333333333334,5.133333333333334,1.8666666666666667,8.666666666666666,then,iconic_temp,none
+314,The chef removed the cake from the oven.,The chef baked the cake.,5.733333333333333,3.533333333333333,7.466666666666667,1.933333333333333,after,anticonic_temp,none
+315,The mother decorated the cake.,The mother served the cake to the family.,2.8,3.933333333333333,3.6,9.333333333333334,then,iconic_temp,none
+315,The mother served the cake to the family.,The mother decorated the cake.,3.6,2.466666666666667,5.8,1.8,after,anticonic_temp,none
+316,The child ate the cake.,The mum cut the cake into pieces.,6.066666666666666,3.066666666666667,8.0,2.0,after,anticonic_temp,none
+316,The mum cut the cake into pieces.,The child ate the cake.,2.1333333333333333,6.933333333333334,4.066666666666666,8.933333333333334,then,iconic_temp,none
+317,The man found the local library.,The man registered for a library card.,3.2666666666666666,9.0,5.2,9.2,then,iconic_temp,none
+317,The man registered for a library card.,The man found the local library.,7.266666666666667,4.2,8.733333333333333,5.066666666666666,after,anticonic_temp,none
+318,The man asked the librarian for a book.,The man walked into the library.,5.733333333333333,2.4,7.066666666666666,1.6666666666666667,after,anticonic_temp,none
+318,The man walked into the library.,The man asked the librarian for a book.,2.8666666666666667,5.8,2.8666666666666667,8.666666666666666,then,iconic_temp,none
+319,Kevin browsed the sections of the library.,Kevin found the book he was looking for.,3.2666666666666666,8.533333333333333,3.733333333333333,8.533333333333333,so,iconic_caus,none
+319,Kevin found the book he was looking for.,Kevin browsed the sections of the library.,8.866666666666667,3.933333333333333,8.8,5.0,because,anticonic_caus,none
+320,The girl let the paint dry,The girl painted a portrait.,5.8,2.466666666666667,8.2,2.4,after,anticonic_temp,none
+320,The girl painted a portrait.,The girl let the paint dry,1.4666666666666666,6.066666666666666,2.2666666666666666,9.066666666666666,then,iconic_temp,none
+321,The boy chose a book.,The boy walked to the bookshelves.,4.866666666666666,3.1333333333333333,7.533333333333333,4.0,after,anticonic_temp,none
+321,The boy walked to the bookshelves.,The boy chose a book.,3.0,6.933333333333334,4.4,8.666666666666666,then,iconic_temp,none
+322,Katy braided her hair.,Katy took a scrunchie.,2.7333333333333334,4.0,6.133333333333334,6.4,then,iconic_temp,none
+322,Katy took a scrunchie.,Katy braided her hair.,4.933333333333334,5.6,4.266666666666667,7.733333333333333,then,iconic_temp,none
+323,Luca shot the arrow.,Luca took the bow.,5.2,1.5333333333333334,7.266666666666667,2.2,after,anticonic_temp,none
+323,Luca took the bow.,Luca shot the arrow.,3.0,5.4,4.866666666666666,9.0,then,iconic_temp,none
+324,Mary played a song.,Mary read the score.,5.133333333333334,1.933333333333333,5.066666666666666,2.2,because,anticonic_caus,none
+324,Mary read the score.,Mary played a song.,3.2,5.666666666666667,3.733333333333333,6.0,then,iconic_temp,none
+325,Mary borrowed the book.,Mary brought the book to the librarian's desk.,5.866666666666666,3.533333333333333,6.733333333333333,5.266666666666667,after,anticonic_temp,none
+325,Mary brought the book to the librarian's desk.,Mary borrowed the book.,7.133333333333334,6.066666666666666,5.733333333333333,8.666666666666666,then,iconic_temp,none
+326,The woman started painting the wall.,The woman took a brush.,4.733333333333333,3.066666666666667,5.8,2.066666666666667,after,anticonic_temp,none
+326,The woman took a brush.,The woman started painting the wall.,4.0,5.0,2.4,8.333333333333334,then,iconic_temp,none
+327,The man chose a book.,The man presented the library card to the librarian.,2.933333333333333,7.2,6.666666666666667,8.8,then,iconic_temp,none
+327,The man presented the library card to the librarian.,The man chose a book.,8.733333333333333,3.6666666666666665,9.466666666666669,8.0,after,anticonic_temp,none
+328,Sarah read the magazine.,Sarah took the magazine on the table.,4.2,2.6,5.866666666666666,2.6666666666666665,after,anticonic_temp,none
+328,Sarah took the magazine on the table.,Sarah read the magazine.,2.466666666666667,4.4,3.333333333333333,8.2,then,iconic_temp,none
+329,Lucy read the newspaper.,Lucy sat down on the sofa.,3.2666666666666666,4.533333333333333,7.6,6.733333333333333,after,anticonic_temp,none
+329,Lucy sat down on the sofa.,Lucy read the newspaper.,2.2666666666666666,2.933333333333333,6.266666666666667,9.0,then,iconic_temp,none
+330,Diana got ready to go to the gym.,Diana wore sweats.,2.8,6.8,2.8666666666666667,3.2666666666666666,so,iconic_caus,none
+330,Diana wore sweats.,Diana got ready to go to the gym.,4.4,2.8666666666666667,4.666666666666667,5.266666666666667,then,iconic_temp,none
+331,Diana entered the gym.,Diana showed her ID at the reception.,7.4,5.0,8.466666666666667,7.866666666666666,after,anticonic_temp,none
+331,Diana showed her ID at the reception.,Diana entered the gym.,5.733333333333333,6.466666666666667,4.933333333333334,8.933333333333334,then,iconic_temp,none
+332,Diana ran on the treadmill.,The gym instructor assigned Diana an exercise.,8.066666666666666,4.4,8.466666666666667,8.866666666666667,then,iconic_temp,none
+332,The gym instructor assigned Diana an exercise.,Diana ran on the treadmill.,3.333333333333333,8.466666666666667,6.733333333333333,8.733333333333333,then,iconic_temp,none
+333,The girl changed her clothes.,The girl went to the locker room.,5.333333333333333,4.133333333333334,6.933333333333334,4.0,after,anticonic_temp,none
+333,The girl went to the locker room.,The girl changed her clothes.,2.533333333333333,4.266666666666667,2.8,9.2,then,iconic_temp,none
+334,The girl got into the car.,The girl left the gym.,5.866666666666666,2.533333333333333,8.866666666666667,3.4,after,anticonic_temp,none
+334,The girl left the gym.,The girl got into the car.,2.2666666666666666,4.266666666666667,3.333333333333333,9.066666666666666,then,iconic_temp,none
+335,The girl came home from the gym.,The girl walked out of the gym.,4.866666666666666,2.6666666666666665,5.666666666666667,2.066666666666667,after,anticonic_temp,none
+335,The girl walked out of the gym.,The girl came home from the gym.,2.4,5.0,2.8,8.066666666666666,then,iconic_temp,none
+336,Diana trained at the gym.,Diana walked out of the gym.,1.8666666666666667,3.4,3.2,8.2,then,iconic_temp,none
+336,Diana walked out of the gym.,Diana trained at the gym.,5.733333333333333,2.6,7.0,1.6666666666666667,after,anticonic_temp,none
+337,Mattia had a light dinner.,Mattia went to bed.,2.6666666666666665,3.733333333333333,4.133333333333334,9.466666666666669,then,iconic_temp,none
+337,Mattia went to bed.,Mattia had a light dinner.,3.333333333333333,1.5333333333333334,7.333333333333333,1.6666666666666667,after,anticonic_temp,none
+338,The father put the pasta in the boiling pot.,The father weighted the pasta on the balance.,3.066666666666667,1.6,6.4,1.1333333333333333,after,anticonic_temp,none
+338,The father weighted the pasta on the balance.,The father put the pasta in the boiling pot.,1.8,3.2,2.333333333333333,8.666666666666666,then,iconic_temp,none
+339,Matteo entered the office.,Matteo sat at the desk.,1.6666666666666667,5.6,2.8666666666666667,9.733333333333333,then,iconic_temp,none
+339,Matteo sat at the desk.,Matteo entered the office.,3.533333333333333,1.4666666666666666,7.533333333333333,2.0,after,anticonic_temp,none
+340,Matteo sat at the desk.,Matteo turned on the computer.,5.533333333333333,6.466666666666667,7.466666666666667,9.133333333333333,then,iconic_temp,none
+340,Matteo turned on the computer.,Matteo sat at the desk.,4.466666666666667,3.733333333333333,8.733333333333333,7.533333333333333,after,anticonic_temp,none
+341,Matteo closed the file.,Matteo turned off the computer.,4.066666666666666,3.8,3.933333333333333,9.2,then,iconic_temp,none
+341,Matteo turned off the computer.,Matteo closed the file.,3.2666666666666666,4.666666666666667,6.8,2.4,after,anticonic_temp,none
+342,Matteo arrived at the office.,Matteo took a break.,2.0,2.533333333333333,3.533333333333333,6.4,then,iconic_temp,none
+342,Matteo took a break.,Matteo arrived at the office.,1.6666666666666667,2.0,7.533333333333333,4.333333333333333,after,anticonic_temp,none
+343,Matteo washed his hands.,Matteo went to the bathroom.,9.066666666666666,2.2,8.266666666666667,3.333333333333333,because,anticonic_caus,none
+343,Matteo went to the bathroom.,Matteo washed his hands.,2.0,7.4,3.866666666666666,9.333333333333334,then,iconic_temp,none
+344,Matteo left the office.,Matteo returned home.,2.8,6.2,4.866666666666666,8.8,then,iconic_temp,none
+344,Matteo returned home.,Matteo left the office.,4.8,2.4,8.533333333333333,2.066666666666667,after,anticonic_temp,none
+345,Simona brushed her hair.,Simona put down the comb.,1.4666666666666666,6.533333333333333,4.666666666666667,7.466666666666667,then,iconic_temp,none
+345,Simona put down the comb.,Simona brushed her hair.,6.866666666666666,2.8,6.466666666666667,2.466666666666667,because,anticonic_caus,none
+346,Simona got her make-up case.,Simona put on lipstick.,4.0,6.866666666666666,3.8,9.733333333333333,then,iconic_temp,none
+346,Simona put on lipstick.,Simona got her make-up case.,3.6,2.333333333333333,7.733333333333333,3.2,after,anticonic_temp,none
+347,Simona put the dirty clothes in the washing machine.,Simona took off her dirty clothes.,7.133333333333334,3.066666666666667,8.133333333333333,2.533333333333333,after,anticonic_temp,none
+347,Simona took off her dirty clothes.,Simona put the dirty clothes in the washing machine.,3.466666666666667,5.733333333333333,2.0,9.666666666666666,then,iconic_temp,none
+348,Simona took the wet clothes out of the washing machine.,Simona turned off the washing machine.,4.6,6.466666666666667,7.666666666666667,9.066666666666666,then,iconic_temp,none
+348,Simona turned off the washing machine.,Simona took the wet clothes out of the washing machine.,5.333333333333333,5.8,8.333333333333334,9.8,then,iconic_temp,none
+349,Simona folded the clothes.,Simona took the clothes from the washing machine.,6.0,2.1333333333333333,8.533333333333333,1.3333333333333333,after,anticonic_temp,none
+349,Simona took the clothes from the washing machine.,Simona folded the clothes.,1.6666666666666667,5.4,3.4,8.933333333333334,then,iconic_temp,none
+350,Simona put the clothes in the dryer.,Simona put the clothes in the wardrobe,1.8,2.2666666666666666,5.0,8.2,then,iconic_temp,none
+350,Simona put the clothes in the wardrobe,Simona put the clothes in the dryer.,2.6,1.6666666666666667,5.6,1.6666666666666667,after,anticonic_temp,none
+351,Kevin ironed the clothes.,Kevin took the clothes out of the dryer.,5.866666666666666,2.7333333333333334,7.133333333333334,1.933333333333333,after,anticonic_temp,none
+351,Kevin took the clothes out of the dryer.,Kevin ironed the clothes.,1.8,5.666666666666667,1.5333333333333334,9.8,then,iconic_temp,none
+352,Maria folded the clothes.,Maria took the clothes hanging on the drying rack.,6.266666666666667,2.8666666666666667,6.8,3.466666666666667,after,anticonic_temp,none
+352,Maria took the clothes hanging on the drying rack.,Maria folded the clothes.,2.8666666666666667,5.933333333333334,4.266666666666667,8.533333333333333,then,iconic_temp,none
+353,Simona put the leash on the dog.,Simona walked her dog.,6.533333333333333,6.2,2.2666666666666666,9.466666666666669,then,iconic_temp,none
+353,Simona walked her dog.,Simona put the leash on the dog.,5.4,4.8,5.533333333333333,2.1333333333333333,after,anticonic_temp,none
+354,Simona took off her new dress.,Simona wore a new dress.,2.7333333333333334,2.6666666666666665,3.6666666666666665,4.4,then,iconic_temp,none
+354,Simona wore a new dress.,Simona took off her new dress.,1.933333333333333,2.4,3.2666666666666666,7.4,then,iconic_temp,none
+355,Simona left the house.,Simona wore a fancy dress.,2.8,2.6,4.0,2.933333333333333,after,anticonic_temp,none
+355,Simona wore a fancy dress.,Simona left the house.,4.0,1.7333333333333334,2.7333333333333334,8.0,then,iconic_temp,none
+356,Michele chose the pizza he wanted to eat.,Michele opened the pizzeria website.,4.933333333333334,2.8666666666666667,6.066666666666666,3.533333333333333,after,anticonic_temp,none
+356,Michele opened the pizzeria website.,Michele chose the pizza he wanted to eat.,4.666666666666667,5.4,4.466666666666667,8.533333333333333,then,iconic_temp,none
+357,Michele called the pizzeria.,Michele placed the pizza order for dinner.,5.6,4.533333333333333,2.2666666666666666,8.733333333333333,then,iconic_temp,none
+357,Michele placed the pizza order for dinner.,Michele called the pizzeria.,6.066666666666666,3.1333333333333333,4.4,1.1333333333333333,because,anticonic_caus,none
+358,The pizza chef rolled out the dough.,The pizza chef seasoned the pizza.,3.2666666666666666,3.0,4.2,9.133333333333333,then,iconic_temp,none
+358,The pizza chef seasoned the pizza.,The pizza chef rolled out the dough.,4.533333333333333,2.2666666666666666,8.2,3.933333333333333,after,anticonic_temp,none
+359,The chef baked the pizza.,The chef seasoned the pizza,2.466666666666667,3.466666666666667,7.266666666666667,8.0,then,iconic_temp,none
+359,The chef seasoned the pizza,The chef baked the pizza.,4.4,3.0,7.266666666666667,8.733333333333333,then,iconic_temp,none
+360,Michele ate a pizza.,Michele chose a pizza.,7.066666666666666,2.8,8.466666666666667,1.5333333333333334,after,anticonic_temp,none
+360,Michele chose a pizza.,Michele ate a pizza.,3.4,8.2,3.533333333333333,9.266666666666667,then,iconic_temp,none
+361,Michele ate the pizza wedges.,Michele cut the pizza into wedges.,6.8,1.6666666666666667,6.933333333333334,1.6,after,anticonic_temp,none
+361,Michele cut the pizza into wedges.,Michele ate the pizza wedges.,1.4,6.866666666666666,4.0,9.8,then,iconic_temp,none
+362,Michele opened the beer.,Michele took the beer from the fridge.,4.733333333333333,2.1333333333333333,8.666666666666666,1.2,after,anticonic_temp,none
+362,Michele took the beer from the fridge.,Michele opened the beer.,1.6,6.266666666666667,2.466666666666667,9.333333333333334,then,iconic_temp,none
+363,Michele drank the beer.,Michele poured the beer into the glass.,5.533333333333333,3.2,9.333333333333334,2.933333333333333,after,anticonic_temp,none
+363,Michele poured the beer into the glass.,Michele drank the beer.,4.133333333333334,6.866666666666666,3.2666666666666666,9.333333333333334,then,iconic_temp,none
+364,Michele ate dinner.,Michele went to sleep.,1.5333333333333334,2.933333333333333,4.066666666666666,8.933333333333334,then,iconic_temp,none
+364,Michele went to sleep.,Michele ate dinner.,3.2,1.6,7.266666666666667,2.6,after,anticonic_temp,none
+365,The teacher entered the classroom.,The teacher started the lesson.,4.466666666666667,7.333333333333333,3.6,9.2,then,iconic_temp,none
+365,The teacher started the lesson.,The teacher entered the classroom.,4.0,3.6,7.8,1.1333333333333333,after,anticonic_temp,none
+366,The teacher called the roll.,The teacher sat at the desk.,2.466666666666667,5.6,6.266666666666667,7.0,then,iconic_temp,none
+366,The teacher sat at the desk.,The teacher called the roll.,3.866666666666666,5.666666666666667,6.466666666666667,9.066666666666666,then,iconic_temp,none
+367,The teacher called the roll.,The teacher started the lesson.,5.333333333333333,5.6,2.533333333333333,8.666666666666666,then,iconic_temp,none
+367,The teacher started the lesson.,The teacher called the roll.,3.333333333333333,5.4,7.4,7.133333333333334,after,anticonic_temp,none
+368,The teacher started the lesson.,The teacher wrote on the blackboard.,5.2,7.2,6.666666666666667,7.933333333333334,then,iconic_temp,none
+368,The teacher wrote on the blackboard.,The teacher started the lesson.,6.533333333333333,5.333333333333333,7.2,7.666666666666667,then,iconic_temp,none
+369,The students opened their notebooks.,The students wrote.,2.2,4.4,3.333333333333333,8.933333333333334,then,iconic_temp,none
+369,The students wrote.,The students opened their notebooks.,5.466666666666667,3.1333333333333333,7.333333333333333,2.6666666666666665,after,anticonic_temp,none
+370,The teacher cleaned the blackboard.,The teacher wrote on the blackboard.,8.933333333333334,4.266666666666667,8.333333333333334,7.4,because,anticonic_caus,none
+370,The teacher wrote on the blackboard.,The teacher cleaned the blackboard.,3.733333333333333,5.4,8.2,8.4,then,iconic_temp,none
+371,The student closed the book.,The student read the book.,5.866666666666666,1.7333333333333334,9.666666666666666,1.7333333333333334,after,anticonic_temp,none
+371,The student read the book.,The student closed the book.,1.0666666666666669,5.933333333333334,2.333333333333333,8.733333333333333,then,iconic_temp,none
+372,The teacher got out of school.,The teacher left the classroom.,4.066666666666666,2.466666666666667,5.4,1.3333333333333333,after,anticonic_temp,none
+372,The teacher left the classroom.,The teacher got out of school.,4.2,3.6,2.8,7.6,then,iconic_temp,none
+373,The students closed their books.,The students put their books in their backpacks.,3.4,5.066666666666666,4.0,9.333333333333334,then,iconic_temp,none
+373,The students put their books in their backpacks.,The students closed their books.,4.8,3.333333333333333,8.333333333333334,1.4,after,anticonic_temp,none
+374,The athlete arrived at the stadium.,The athlete started the race.,1.6,4.533333333333333,3.333333333333333,8.466666666666667,then,iconic_temp,none
+374,The athlete started the race.,The athlete arrived at the stadium.,4.466666666666667,1.6666666666666667,4.4,3.333333333333333,because,anticonic_caus,none
+375,The athlete reached the finish line,The athlete started the race.,5.666666666666667,2.066666666666667,6.8,1.6,after,anticonic_temp,none
+375,The athlete started the race.,The athlete reached the finish line,2.533333333333333,3.6666666666666665,1.6,8.266666666666667,then,iconic_temp,none
+376,The caterpillar became a butterfly.,The caterpillar was born.,5.0,2.6666666666666665,6.533333333333333,1.0666666666666669,after,anticonic_temp,none
+376,The caterpillar was born.,The caterpillar became a butterfly.,2.0,3.933333333333333,3.0,9.266666666666667,then,iconic_temp,none
+377,A shop assistant helped Serena.,Serena entered the shop.,8.066666666666666,2.466666666666667,8.866666666666667,2.7333333333333334,after,anticonic_temp,none
+377,Serena entered the shop.,A shop assistant helped Serena.,2.2666666666666666,7.066666666666666,3.533333333333333,9.533333333333331,then,iconic_temp,none
+378,Serena took some exposed clothes.,Serena went to the dressing room.,3.2666666666666666,3.8,2.6,5.533333333333333,then,iconic_temp,none
+378,Serena went to the dressing room.,Serena took some exposed clothes.,1.6666666666666667,3.066666666666667,5.066666666666666,4.6,after,anticonic_temp,none
+379,Serena chose the clothes that fit her well.,Serena tried on some clothes.,7.066666666666666,3.6,8.066666666666666,3.1333333333333333,after,anticonic_temp,none
+379,Serena tried on some clothes.,Serena chose the clothes that fit her well.,3.8,6.733333333333333,5.2,8.933333333333334,then,iconic_temp,none
+380,Serena came out of the dressing room.,Serena went to the checkout.,2.7333333333333334,5.866666666666666,5.0,6.933333333333334,then,iconic_temp,none
+380,Serena went to the checkout.,Serena came out of the dressing room.,2.2666666666666666,1.2,7.2,1.8,after,anticonic_temp,none
+381,Serena left the shop.,Serena paid for the clothes.,8.133333333333333,2.4,8.533333333333333,1.5333333333333334,after,anticonic_temp,none
+381,Serena paid for the clothes.,Serena left the shop.,2.4,7.333333333333333,2.333333333333333,9.333333333333334,then,iconic_temp,none
+382,Serena went to the museum.,Serena went to the ticket office.,3.333333333333333,5.733333333333333,6.933333333333334,4.733333333333333,after,anticonic_temp,none
+382,Serena went to the ticket office.,Serena went to the museum.,3.333333333333333,4.733333333333333,5.133333333333334,8.466666666666667,then,iconic_temp,none
+383,Laura chose a song to listen to.,Laura put on her headphones.,5.266666666666667,6.4,7.2,8.533333333333333,then,iconic_temp,none
+383,Laura put on her headphones.,Laura chose a song to listen to.,7.2,6.8,7.066666666666666,9.666666666666666,then,iconic_temp,none
+384,Lucia took the pen.,Lucia wrote a letter.,2.2666666666666666,3.8,3.1333333333333333,9.533333333333331,then,iconic_temp,none
+384,Lucia wrote a letter.,Lucia took the pen.,3.2,2.933333333333333,7.2,2.7333333333333334,after,anticonic_temp,none
+385,Lucia put the letter into the envelope.,Lucia took an envelope.,4.933333333333334,2.466666666666667,6.4,3.066666666666667,after,anticonic_temp,none
+385,Lucia took an envelope.,Lucia put the letter into the envelope.,2.0,5.6,3.866666666666666,9.333333333333334,then,iconic_temp,none
+386,Lucia closed the letter envelope.,Lucia put a stamp onto the envelope.,3.733333333333333,5.4,6.6,9.333333333333334,then,iconic_temp,none
+386,Lucia put a stamp onto the envelope.,Lucia closed the letter envelope.,4.533333333333333,4.2,8.0,5.866666666666666,after,anticonic_temp,none
+387,Lucia queued at the counter.,Lucia went to the post office.,6.266666666666667,3.2666666666666666,6.733333333333333,4.266666666666667,after,anticonic_temp,none
+387,Lucia went to the post office.,Lucia queued at the counter.,2.4,7.133333333333334,3.333333333333333,9.666666666666666,then,iconic_temp,none
+388,Lucia took a sheet of paper.,Lucia wrote a letter.,3.533333333333333,6.266666666666667,3.933333333333333,9.8,then,iconic_temp,none
+388,Lucia wrote a letter.,Lucia took a sheet of paper.,3.733333333333333,5.533333333333333,7.666666666666667,2.933333333333333,after,anticonic_temp,none
+389,The postman delivered the letter to Massimo.,The postman knocked on the door.,4.933333333333334,4.733333333333333,6.666666666666667,1.6666666666666667,after,anticonic_temp,none
+389,The postman knocked on the door.,The postman delivered the letter to Massimo.,4.0,5.866666666666666,2.4,8.266666666666667,then,iconic_temp,none
+390,Laura put on her slippers.,Laura took off her boots.,5.466666666666667,2.466666666666667,8.466666666666667,1.5333333333333334,after,anticonic_temp,none
+390,Laura took off her boots.,Laura put on her slippers.,4.6,7.533333333333333,2.2,8.8,then,iconic_temp,none
+391,Massimo closed the letter.,Massimo wrote the letter.,2.7333333333333334,2.4,6.333333333333333,1.3333333333333333,after,anticonic_temp,none
+391,Massimo wrote the letter.,Massimo closed the letter.,1.2666666666666666,5.133333333333334,3.4,5.866666666666666,then,iconic_temp,none
+392,Paola put on her swimsuit.,Paola went to the beach.,8.4,6.933333333333334,5.8,8.8,then,iconic_temp,none
+392,Paola went to the beach.,Paola put on her swimsuit.,4.733333333333333,8.333333333333334,6.333333333333333,7.4,so,iconic_caus,none
+393,Paola put on her swimsuit.,Paola went swimming.,6.8,7.866666666666666,3.6666666666666665,9.8,then,iconic_temp,none
+393,Paola went swimming.,Paola put on her swimsuit.,4.666666666666667,6.066666666666666,7.466666666666667,1.933333333333333,after,anticonic_temp,none
+394,Paola dived into the water.,Paola went to the swimming pool.,4.866666666666666,2.533333333333333,4.4,3.0,because,anticonic_caus,none
+394,Paola went to the swimming pool.,Paola dived into the water.,1.8,4.666666666666667,3.2,9.0,then,iconic_temp,none
+395,Luca waited in the queue to be examined.,Luca went to the hospital.,7.133333333333334,2.333333333333333,6.2,2.466666666666667,because,anticonic_caus,none
+395,Luca went to the hospital.,Luca waited in the queue to be examined.,1.7333333333333334,6.6,3.8,9.4,then,iconic_temp,none
+396,Luca entered the pharmacy.,Luke spoke to the pharmacist.,2.4,4.4,3.2,6.733333333333333,then,iconic_temp,none
+396,Luke spoke to the pharmacist.,Luca entered the pharmacy.,5.466666666666667,2.2666666666666666,6.4,4.2,after,anticonic_temp,none
+397,Luca asked the pharmacist for the medicine.,Luca paid for the medicine.,5.933333333333334,6.8,4.666666666666667,9.4,then,iconic_temp,none
+397,Luca paid for the medicine.,Luca asked the pharmacist for the medicine.,5.866666666666666,3.6666666666666665,6.6,5.666666666666667,after,anticonic_temp,none
+398,The actor entered the theatre.,The actor performed in front of the audience.,3.866666666666666,6.133333333333334,3.2666666666666666,9.4,then,iconic_temp,none
+398,The actor performed in front of the audience.,The actor entered the theatre.,4.733333333333333,1.8666666666666667,6.066666666666666,2.066666666666667,after,anticonic_temp,none
+399,Gaia visited her sick aunt.,Gaia went to the hospital.,3.2,3.933333333333333,4.466666666666667,3.066666666666667,after,anticonic_temp,none
+399,Gaia went to the hospital.,Gaia visited her sick aunt.,7.333333333333333,3.2,2.8666666666666667,6.266666666666667,because,anticonic_caus,none
+400,A tree grew from the seed.,The gardener planted red flowers.,2.0,2.4,4.533333333333333,5.6,then,iconic_temp,none
+400,The gardener planted red flowers.,A tree grew from the seed.,2.2,2.4,3.933333333333333,4.333333333333333,then,iconic_temp,none
+401,A car crashed.,Two boys were walking on the sidewalks.,4.2,2.2,4.133333333333334,4.0,because,anticonic_caus,none
+401,Two boys were walking on the sidewalks.,A car crashed.,2.6666666666666665,1.1333333333333333,6.466666666666667,7.466666666666667,then,iconic_temp,none
+402,Sunlight filled the room.,The moon rose.,2.4,1.2666666666666666,2.333333333333333,2.466666666666667,then,iconic_temp,none
+402,The moon rose.,Sunlight filled the room.,1.6,1.6666666666666667,2.466666666666667,3.4,then,iconic_temp,none
+403,The clock was broken.,The driver woke up.,1.0666666666666669,1.8666666666666667,3.2666666666666666,2.8666666666666667,after,anticonic_temp,none
+403,The driver woke up.,The clock was broken.,2.1333333333333333,1.2666666666666666,3.8,3.0,after,anticonic_temp,none
+404,Insects pollinated the flowers.,The flowers died.,3.2,1.8,2.6,5.2,then,iconic_temp,none
+404,The flowers died.,Insects pollinated the flowers.,3.8,2.533333333333333,5.466666666666667,5.066666666666666,after,anticonic_temp,none
+405,Kevin was out of toilet paper.,Kevin went to the store and bought cheese.,2.466666666666667,2.933333333333333,2.7333333333333334,3.2,then,iconic_temp,none
+405,Kevin went to the store and bought cheese.,Kevin was out of toilet paper.,1.4666666666666666,1.5333333333333334,2.0,2.4,then,iconic_temp,none
+406,Jude entered the pharmacy.,Lili went to the dentist.,3.6,2.333333333333333,4.866666666666666,4.266666666666667,after,anticonic_temp,none
+406,Lili went to the dentist.,Jude entered the pharmacy.,2.066666666666667,3.333333333333333,3.333333333333333,5.266666666666667,then,iconic_temp,none
+407,The child ate soup.,The fridge was full of food.,3.2,2.2,2.7333333333333334,2.2666666666666666,because,anticonic_caus,none
+407,The fridge was full of food.,The child ate soup.,1.7333333333333334,4.466666666666667,3.4,2.4,so,iconic_caus,none
+408,Jake has a cat.,Jake loves to play outdoors.,3.066666666666667,3.866666666666666,2.1333333333333333,1.1333333333333333,so,iconic_caus,none
+408,Jake loves to play outdoors.,Jake has a cat.,3.466666666666667,1.8,1.1333333333333333,2.066666666666667,because,anticonic_caus,none
+409,Simon went shopping.,The street is full of people.,3.2666666666666666,1.4666666666666666,2.2666666666666666,2.2,because,anticonic_caus,none
+409,The street is full of people.,Simon went shopping.,2.2,2.933333333333333,4.733333333333333,1.5333333333333334,after,anticonic_temp,none
+410,Dinner was not ready yet.,Jey went to sleep.,6.666666666666667,8.133333333333333,4.8,1.7333333333333334,so,iconic_caus,none
+410,Jey went to sleep.,Dinner was not ready yet.,6.733333333333333,5.333333333333333,5.266666666666667,2.2666666666666666,because,anticonic_caus,none
+411,Luke is married.,Martin was in love with Kevin.,1.7333333333333334,1.4666666666666666,1.6,2.0,then,iconic_temp,none
+411,Martin was in love with Kevin.,Luke is married.,1.2,1.0666666666666669,1.1333333333333333,1.933333333333333,then,iconic_temp,none
+412,Kate loves to sing.,Kate used to play basketball as a child.,1.8666666666666667,1.8666666666666667,1.4,1.4666666666666666,because,anticonic_caus,none
+412,Kate used to play basketball as a child.,Kate loves to sing.,1.0666666666666669,1.3333333333333333,2.8,1.8666666666666667,after,anticonic_temp,none
+413,Luke hates spinach.,Luke likes beans.,2.533333333333333,2.4,1.2666666666666666,1.6666666666666667,because,anticonic_caus,none
+413,Luke likes beans.,Luke hates spinach.,1.7333333333333334,1.4,1.7333333333333334,2.533333333333333,then,iconic_temp,none
+414,Eric's mom was on the phone.,The phone was in charge.,1.5333333333333334,2.6,3.0,2.6,after,anticonic_temp,none
+414,The phone was in charge.,Eric's mom was on the phone.,2.933333333333333,2.333333333333333,1.8666666666666667,2.4,because,anticonic_caus,none
+415,Brad decided to go out with his friends.,Brad read a book.,1.6,1.6666666666666667,7.0,4.8,after,anticonic_temp,none
+415,Brad read a book.,Brad decided to go out with his friends.,1.7333333333333334,3.1333333333333333,4.533333333333333,8.466666666666667,then,iconic_temp,none
+416,Kelly bought a new dress.,The clothes were in the wardrobe.,2.4,2.6666666666666665,2.0,5.333333333333333,then,iconic_temp,none
+416,The clothes were in the wardrobe.,Kelly bought a new dress.,2.6666666666666665,1.7333333333333334,3.6666666666666665,1.6666666666666667,after,anticonic_temp,none
+417,Mario watched a horror movie.,Mario went to the restaurant.,1.4666666666666666,1.5333333333333334,6.266666666666667,8.133333333333333,then,iconic_temp,none
+417,Mario went to the restaurant.,Mario watched a horror movie.,1.8666666666666667,1.6666666666666667,7.6,8.266666666666667,then,iconic_temp,none
+418,Carla's flight was on time.,The boy dreamed of flying.,1.8,1.4666666666666666,1.6,3.6,then,iconic_temp,none
+418,The boy dreamed of flying.,Carla's flight was on time.,2.466666666666667,1.2666666666666666,3.866666666666666,2.2,after,anticonic_temp,none
+419,The lake is calm.,There is a rough sea.,1.6,2.4,3.2666666666666666,4.6,then,iconic_temp,none
+419,There is a rough sea.,The lake is calm.,3.066666666666667,1.8,2.8,2.333333333333333,because,anticonic_caus,none
+420,Matt drove his car down the street.,Matt's new car is very expensive.,3.933333333333333,1.2666666666666666,1.6666666666666667,1.3333333333333333,because,anticonic_caus,none
+420,Matt's new car is very expensive.,Matt drove his car down the street.,1.7333333333333334,4.333333333333333,1.8666666666666667,2.1333333333333333,so,iconic_caus,none
+421,Kate ate soup.,Kate ate the cake.,2.2666666666666666,1.8,6.933333333333334,8.266666666666667,then,iconic_temp,none
+421,Kate ate the cake.,Kate ate soup.,1.7333333333333334,1.2,7.866666666666666,7.0,after,anticonic_temp,none
+422,Kevin is a barber.,Mary has long hair.,2.2666666666666666,1.4666666666666666,2.0,1.8666666666666667,because,anticonic_caus,none
+422,Mary has long hair.,Kevin is a barber.,1.5333333333333334,1.6,1.0666666666666669,2.333333333333333,then,iconic_temp,none
+423,Kelly is a researcher.,Sara works at the university.,2.7333333333333334,2.333333333333333,2.0,1.933333333333333,because,anticonic_caus,none
+423,Sara works at the university.,Kelly is a researcher.,1.7333333333333334,1.8666666666666667,2.466666666666667,1.2666666666666666,after,anticonic_temp,none
+424,Kevin made an appointment with his hairstylist.,Kevin missed the appointment with the dentist.,4.0,4.866666666666666,3.1333333333333333,2.533333333333333,so,iconic_caus,none
+424,Kevin missed the appointment with the dentist.,Kevin made an appointment with his hairstylist.,7.866666666666666,2.4,5.533333333333333,2.466666666666667,because,anticonic_caus,none
+425,Angela preferred long hair rather than short.,Angela wanted to become a hairdresser.,1.7333333333333334,2.466666666666667,3.333333333333333,3.933333333333333,then,iconic_temp,none
+425,Angela wanted to become a hairdresser.,Angela preferred long hair rather than short.,3.466666666666667,3.0,3.733333333333333,2.333333333333333,after,anticonic_temp,none
+426,Alice bought a new perfume.,Alice likes the smell of milk.,2.8,1.6666666666666667,1.6666666666666667,1.5333333333333334,because,anticonic_caus,none
+426,Alice likes the smell of milk.,Alice bought a new perfume.,1.1333333333333333,2.333333333333333,2.533333333333333,1.5333333333333334,after,anticonic_temp,none
+427,The door was open.,The man looked for keys.,1.5333333333333334,2.2666666666666666,3.933333333333333,2.0,after,anticonic_temp,none
+427,The man looked for keys.,The door was open.,4.4,1.6666666666666667,3.8,2.7333333333333334,because,anticonic_caus,none
+428,Jack really believes in individual liberty and individual responsibility.,The Parliament is a place of justice.,5.066666666666666,4.666666666666667,2.6,2.466666666666667,because,anticonic_caus,none
+428,The Parliament is a place of justice.,Jack really believes in individual liberty and individual responsibility.,2.8666666666666667,4.4,2.6,3.6,so,iconic_caus,none
+429,The man bought a new book about Buddhism.,The man devoted himself to journalism.,3.066666666666667,1.4,2.333333333333333,3.733333333333333,then,iconic_temp,none
+429,The man devoted himself to journalism.,The man bought a new book about Buddhism.,2.8666666666666667,2.466666666666667,3.066666666666667,3.733333333333333,then,iconic_temp,none
+430,Jane booked a ticket of a museum.,Jane wanted to buy a book full of maps bound together.,2.533333333333333,1.6,4.4,3.866666666666666,after,anticonic_temp,none
+430,Jane wanted to buy a book full of maps bound together.,Jane booked a ticket of a museum.,1.8666666666666667,2.466666666666667,2.4,2.333333333333333,so,iconic_caus,none
+431,There must be something wrong with Tom's nose.,Tom cannot see clearly.,3.0,1.4,1.3333333333333333,1.6,because,anticonic_caus,none
+431,Tom cannot see clearly.,There must be something wrong with Tom's nose.,1.4666666666666666,1.3333333333333333,1.7333333333333334,1.4,after,anticonic_temp,none
+432,Some people live in the torrid zone.,The temperature in this house can be very low in winter.,4.733333333333333,3.2666666666666666,3.1333333333333333,2.933333333333333,because,anticonic_caus,none
+432,The temperature in this house can be very low in winter.,Some people live in the torrid zone.,5.4,3.466666666666667,1.2666666666666666,2.2666666666666666,because,anticonic_caus,none
+433,Marco bought a canary.,The birds chose this zone as their habitat.,3.066666666666667,2.2666666666666666,2.066666666666667,3.466666666666667,then,iconic_temp,none
+433,The birds chose this zone as their habitat.,Marco bought a canary.,2.333333333333333,2.1333333333333333,3.2,2.4,after,anticonic_temp,none
+434,Kevin washed himself.,Luca cleaned the house.,2.1333333333333333,2.8,3.2666666666666666,5.333333333333333,then,iconic_temp,none
+434,Luca cleaned the house.,Kevin washed himself.,2.2,2.933333333333333,4.533333333333333,5.6,then,iconic_temp,none
+435,Kate always pays her taxes.,Kate needs a lot of money to buy a new house.,1.4666666666666666,2.6666666666666665,2.333333333333333,3.333333333333333,then,iconic_temp,none
+435,Kate needs a lot of money to buy a new house.,Kate always pays her taxes.,3.6666666666666665,2.1333333333333333,1.6666666666666667,1.8,because,anticonic_caus,none
+436,Jake had to pay a lot of money.,Lucy had no debts.,1.5333333333333334,5.0,3.733333333333333,4.6,so,iconic_caus,none
+436,Lucy had no debts.,Jake had to pay a lot of money.,2.4,1.2666666666666666,3.066666666666667,1.8,after,anticonic_temp,none
+437,Tom hates grapefruit.,Tom likes eating bananas.,2.1333333333333333,3.4,1.933333333333333,1.8,so,iconic_caus,none
+437,Tom likes eating bananas.,Tom hates grapefruit.,4.533333333333333,1.7333333333333334,2.7333333333333334,1.6666666666666667,because,anticonic_caus,none
+438,Edward has been the best student in the Geography class.,The Math exam was difficult.,2.0,2.2,2.4,2.333333333333333,after,anticonic_temp,none
+438,The Math exam was difficult.,Edward has been the best student in the Geography class.,1.933333333333333,1.933333333333333,2.2666666666666666,1.2666666666666666,after,anticonic_temp,none
+439,The moon shone brightly.,There were gray clouds in the sky.,2.466666666666667,3.733333333333333,6.666666666666667,5.733333333333333,after,anticonic_temp,none
+439,There were gray clouds in the sky.,The moon shone brightly.,2.4,1.6,5.4,5.466666666666667,then,iconic_temp,none
+440,Mary's child is five years old.,There is a big age difference between Mario and Luisa.,1.933333333333333,1.6,2.7333333333333334,1.7333333333333334,after,anticonic_temp,none
+440,There is a big age difference between Mario and Luisa.,Mary's child is five years old.,1.8,2.2,1.4,2.7333333333333334,then,iconic_temp,none
+441,Eric organized a friendly football match.,Eric played basketball alone.,3.6,1.6666666666666667,4.8,3.466666666666667,after,anticonic_temp,none
+441,Eric played basketball alone.,Eric organized a friendly football match.,1.6,3.0,3.4,5.733333333333333,then,iconic_temp,none
+442,Luke ate spicy food at the restaurant.,Luke prepared a delicious spinach salad.,1.6666666666666667,3.333333333333333,3.466666666666667,5.133333333333334,then,iconic_temp,none
+442,Luke prepared a delicious spinach salad.,Luke ate spicy food at the restaurant.,3.8,1.2666666666666666,4.0,4.133333333333334,then,iconic_temp,none
+443,Insects swarmed around the picnic area.,There were a lot of bees in the areas near flowers.,5.133333333333334,6.0,4.0,4.866666666666666,so,iconic_caus,none
+443,There were a lot of bees in the areas near flowers.,Insects swarmed around the picnic area.,3.6,3.6,5.066666666666666,5.066666666666666,after,anticonic_temp,none
+444,Kevin borrowed a book from the library.,Kevin shared his favorite journal with a friend.,2.8,3.933333333333333,3.333333333333333,7.133333333333334,then,iconic_temp,none
+444,Kevin shared his favorite journal with a friend.,Kevin borrowed a book from the library.,2.2666666666666666,3.1333333333333333,4.6,5.666666666666667,then,iconic_temp,none
+445,Lili decided to pursue a master's degree.,Lili presented her research at a college conference.,4.4,7.333333333333333,6.2,7.733333333333333,then,iconic_temp,none
+445,Lili presented her research at a college conference.,Lili decided to pursue a master's degree.,6.066666666666666,5.666666666666667,7.133333333333334,7.866666666666666,then,iconic_temp,none
+446,Kate listened to the music on the car radio.,Kate performed her latest song at a pub.,2.6,2.066666666666667,5.8,6.333333333333333,then,iconic_temp,none
+446,Kate performed her latest song at a pub.,Kate listened to the music on the car radio.,5.066666666666666,1.7333333333333334,3.733333333333333,6.0,then,iconic_temp,none
+447,The driver helped change a flat tire.,The man drove a fast car.,2.2666666666666666,2.8666666666666667,4.666666666666667,3.866666666666666,after,anticonic_temp,none
+447,The man drove a fast car.,The driver helped change a flat tire.,2.7333333333333334,1.6666666666666667,4.466666666666667,2.7333333333333334,after,anticonic_temp,none
+448,The child built a toy fort with blocks.,The child is four years old.,4.866666666666666,1.2,2.333333333333333,1.6,because,anticonic_caus,none
+448,The child is four years old.,The child built a toy fort with blocks.,2.066666666666667,4.6,1.8,2.4,so,iconic_caus,none
+449,Jake often cuddles with his cat.,Jake plays with the dog.,2.533333333333333,1.4,7.333333333333333,7.733333333333333,then,iconic_temp,none
+449,Jake plays with the dog.,Jake often cuddles with his cat.,2.6666666666666665,2.333333333333333,5.8,7.666666666666667,then,iconic_temp,none
+450,Simon browsed the antique shops at the market.,Simon explored the local farmers' market.,3.6666666666666665,2.333333333333333,6.066666666666666,8.066666666666666,then,iconic_temp,none
+450,Simon explored the local farmers' market.,Simon browsed the antique shops at the market.,2.1333333333333333,3.2666666666666666,8.466666666666667,8.6,then,iconic_temp,none
+451,Martin decided to buy a new car.,Martin went out with Federica.,4.333333333333333,2.066666666666667,5.266666666666667,5.8,then,iconic_temp,none
+451,Martin went out with Federica.,Martin decided to buy a new car.,3.4,4.533333333333333,4.0,2.8,so,iconic_caus,none
+452,The moon illuminated the night sky.,There were clouds in the sky.,4.133333333333334,1.7333333333333334,4.666666666666667,5.666666666666667,then,iconic_temp,none
+452,There were clouds in the sky.,The moon illuminated the night sky.,2.533333333333333,4.0,3.6,5.933333333333334,then,iconic_temp,none
+453,Jey enjoyed a peaceful afternoon nap.,Jey woke up refreshed after a good night's sleep.,2.1333333333333333,3.066666666666667,3.066666666666667,3.866666666666666,then,iconic_temp,none
+453,Jey woke up refreshed after a good night's sleep.,Jey enjoyed a peaceful afternoon nap.,4.133333333333334,2.8666666666666667,2.2,5.6,then,iconic_temp,none
+454,Camilla edited her photos from the trip.,The model in the photo was beautiful.,5.666666666666667,5.533333333333333,2.333333333333333,5.266666666666667,because,anticonic_caus,none
+454,The model in the photo was beautiful.,Camilla edited her photos from the trip.,5.6,4.866666666666666,5.466666666666667,3.866666666666666,because,anticonic_caus,none
+455,The father drank coffe at breakfast.,The grandmother prepared the dinner.,1.6,2.4,2.8,5.333333333333333,then,iconic_temp,none
+455,The grandmother prepared the dinner.,The father drank coffe at breakfast.,1.4,1.4666666666666666,3.733333333333333,3.0,after,anticonic_temp,none
+456,Lucia watched a comedy movie.,The boy went to the cinema.,2.333333333333333,2.8666666666666667,2.933333333333333,3.1333333333333333,then,iconic_temp,none
+456,The boy went to the cinema.,Lucia watched a comedy movie.,4.0,3.2,2.933333333333333,4.733333333333333,then,iconic_temp,none
+457,The lake is calm.,There is a lot of wind.,2.1333333333333333,1.4,3.6,4.2,then,iconic_temp,none
+457,There is a lot of wind.,The lake is calm.,1.3333333333333333,3.066666666666667,3.2666666666666666,4.333333333333333,then,iconic_temp,none
+458,The boy bought a car.,The girl bought a book.,3.4,2.533333333333333,6.133333333333334,6.133333333333334,after,anticonic_temp,none
+458,The girl bought a book.,The boy bought a car.,3.8,5.133333333333334,6.266666666666667,6.933333333333334,then,iconic_temp,none
+459,Kevin reminisced about his trip to France.,Samantha traveled to Japan.,5.933333333333334,2.8666666666666667,6.266666666666667,2.8,after,anticonic_temp,none
+459,Samantha traveled to Japan.,Kevin reminisced about his trip to France.,3.333333333333333,4.8,4.533333333333333,6.133333333333334,then,iconic_temp,none
+460,The constellations are a wonder to behold on a clear night.,The sea is barely visible from the city.,2.533333333333333,2.6666666666666665,2.6666666666666665,2.0,so,iconic_caus,none
+460,The sea is barely visible from the city.,The constellations are a wonder to behold on a clear night.,3.2,2.933333333333333,2.1333333333333333,2.1333333333333333,because,anticonic_caus,none
+461,Brad decided to host a party for his friends.,Lisa decided to have a picnic with her family.,4.666666666666667,8.0,6.866666666666666,3.8,so,iconic_caus,none
+461,Lisa decided to have a picnic with her family.,Brad decided to host a party for his friends.,6.133333333333334,4.466666666666667,6.4,6.133333333333334,after,anticonic_temp,none
+462,Kelly has a dog.,Kelly has a rabbit.,1.8,2.2666666666666666,2.7333333333333334,3.6,then,iconic_temp,none
+462,Kelly has a rabbit.,Kelly has a dog.,1.8,1.3333333333333333,2.0,2.466666666666667,then,iconic_temp,none
+463,Eric ran in the racing field.,My friend went to the gym.,1.8666666666666667,4.0,4.0,2.7333333333333334,so,iconic_caus,none
+463,My friend went to the gym.,Eric ran in the racing field.,2.933333333333333,2.333333333333333,5.0,2.8,after,anticonic_temp,none
+464,Simon explored a new mall.,Sophia visited a museum.,4.066666666666666,3.933333333333333,4.133333333333334,5.0,then,iconic_temp,none
+464,Sophia visited a museum.,Simon explored a new mall.,2.333333333333333,3.866666666666666,4.866666666666666,6.533333333333333,then,iconic_temp,none
+465,Olivia enjoys fresh fruit.,Olivia hates shopping at the market.,1.6666666666666667,1.3333333333333333,3.0,2.2666666666666666,after,anticonic_temp,none
+465,Olivia hates shopping at the market.,Olivia enjoys fresh fruit.,2.1333333333333333,1.7333333333333334,1.933333333333333,1.6,because,anticonic_caus,none
+466,Julia and Mary are best friends.,Julia talks a lot.,4.533333333333333,6.466666666666667,1.8,1.3333333333333333,so,iconic_caus,none
+466,Julia talks a lot.,Julia and Mary are best friends.,4.4,4.666666666666667,2.6666666666666665,2.4,so,iconic_caus,none
+467,Jey woke up early.,Michael took a nap.,1.5333333333333334,2.2666666666666666,3.6666666666666665,4.133333333333334,then,iconic_temp,none
+467,Michael took a nap.,Jey woke up early.,3.866666666666666,2.2,4.533333333333333,4.2,after,anticonic_temp,none
+468,Daniel enjoyed the musical.,Kate dreamed of becoming a singer.,3.066666666666667,2.333333333333333,3.466666666666667,4.4,then,iconic_temp,none
+468,Kate dreamed of becoming a singer.,Daniel enjoyed the musical.,2.8,2.0,2.533333333333333,1.7333333333333334,because,anticonic_caus,none
+469,Emily owns a dog.,Jake adores his cat.,1.8,2.1333333333333333,1.3333333333333333,2.1333333333333333,so,iconic_caus,none
+469,Jake adores his cat.,Emily owns a dog.,2.333333333333333,3.1333333333333333,2.1333333333333333,1.6666666666666667,so,iconic_caus,none
+470,The baby drinks milk.,The child loves chocolate.,1.8,1.6666666666666667,1.2666666666666666,1.933333333333333,then,iconic_temp,none
+470,The child loves chocolate.,The baby drinks milk.,1.7333333333333334,1.4,1.933333333333333,2.0,then,iconic_temp,none
+471,Amanda applied to a university.,Lili graduated from college.,2.8666666666666667,1.8666666666666667,6.8,3.1333333333333333,after,anticonic_temp,none
+471,Lili graduated from college.,Amanda applied to a university.,2.1333333333333333,3.333333333333333,4.4,5.066666666666666,then,iconic_temp,none
+472,The boy ran across the field.,The girl danced in the park.,2.8666666666666667,3.0,6.2,3.933333333333333,after,anticonic_temp,none
+472,The girl danced in the park.,The boy ran across the field.,4.533333333333333,3.2,6.266666666666667,6.2,after,anticonic_temp,none
+473,Jack decided to choose anthropology as his major in college.,The teacher gave a quiz to the students.,3.2,2.0,4.8,4.133333333333334,after,anticonic_temp,none
+473,The teacher gave a quiz to the students.,Jack decided to choose anthropology as his major in college.,2.8666666666666667,2.533333333333333,5.066666666666666,3.866666666666666,after,anticonic_temp,none
+474,Bees pollinated the apple blossoms.,Insects buzzed around the garden.,4.4,6.666666666666667,8.4,6.0,after,anticonic_temp,none
+474,Insects buzzed around the garden.,Bees pollinated the apple blossoms.,6.8,5.933333333333334,6.2,8.8,then,iconic_temp,none
+475,Kevin plays the piano.,Luke plays the guitar.,4.333333333333333,4.266666666666667,4.266666666666667,6.533333333333333,then,iconic_temp,none
+475,Luke plays the guitar.,Kevin plays the piano.,3.533333333333333,5.066666666666666,3.333333333333333,6.6,then,iconic_temp,none
+476,The airplane landed.,The train arrived at the train station.,1.5333333333333334,1.4666666666666666,4.733333333333333,6.6,then,iconic_temp,none
+476,The train arrived at the train station.,The airplane landed.,1.2666666666666666,1.8,5.266666666666667,3.333333333333333,after,anticonic_temp,none
+477,Mark had a red car.,The speed limit was too low.,1.0666666666666669,1.4,1.6,1.4,after,anticonic_temp,none
+477,The speed limit was too low.,Mark had a red car.,1.0666666666666669,1.6666666666666667,1.1333333333333333,1.2,so,iconic_caus,none
+478,The actor read a story in front of the audience.,The mum read a story.,2.333333333333333,1.933333333333333,3.533333333333333,4.733333333333333,then,iconic_temp,none
+478,The mum read a story.,The actor read a story in front of the audience.,2.1333333333333333,1.933333333333333,4.4,5.4,then,iconic_temp,none
+479,Brad cleaned the house.,Brad planned a weekend getaway with his friends.,5.533333333333333,2.2,5.133333333333334,7.466666666666667,then,iconic_temp,none
+479,Brad planned a weekend getaway with his friends.,Brad cleaned the house.,2.6,5.533333333333333,5.6,7.666666666666667,then,iconic_temp,none
+480,Brian closed the book.,Camilla read the journal.,2.6666666666666665,3.4,4.666666666666667,4.266666666666667,after,anticonic_temp,none
+480,Camilla read the journal.,Brian closed the book.,2.333333333333333,2.7333333333333334,3.333333333333333,4.933333333333334,then,iconic_temp,none
+481,The driver helped a lost tourist find the way.,The government introduced policies to promote tourism.,4.933333333333334,4.466666666666667,6.0,2.466666666666667,after,anticonic_temp,none
+481,The government introduced policies to promote tourism.,The driver helped a lost tourist find the way.,2.6,5.4,3.6,4.333333333333333,so,iconic_caus,none
+482,The moon disappeared behind thick clouds.,The sun shined brightly in the sky.,3.066666666666667,2.0,4.933333333333334,5.733333333333333,then,iconic_temp,none
+482,The sun shined brightly in the sky.,The moon disappeared behind thick clouds.,4.6,3.4,3.933333333333333,3.466666666666667,because,anticonic_caus,none
+483,The girl volunteered at a local shelter.,The girl was a student.,4.4,2.933333333333333,2.8,3.0,because,anticonic_caus,none
+483,The girl was a student.,The girl volunteered at a local shelter.,1.2,5.333333333333333,3.466666666666667,5.866666666666666,then,iconic_temp,none
+484,Camilla attended an art exhibition.,Jeff played a basketball game.,3.333333333333333,5.2,6.466666666666667,4.266666666666667,after,anticonic_temp,none
+484,Jeff played a basketball game.,Camilla attended an art exhibition.,3.066666666666667,4.066666666666666,5.4,5.133333333333334,after,anticonic_temp,none
+485,The journalist wrote his article.,The notebook was old.,1.5333333333333334,1.6666666666666667,1.6666666666666667,1.8666666666666667,then,iconic_temp,none
+485,The notebook was old.,The journalist wrote his article.,1.6,3.066666666666667,2.333333333333333,2.8,so,iconic_caus,none
+486,John saw the sky full of stars.,The constellations guided ancient mariners.,3.733333333333333,2.6,3.6,2.466666666666667,because,anticonic_caus,none
+486,The constellations guided ancient mariners.,John saw the sky full of stars.,2.933333333333333,4.066666666666666,3.1333333333333333,2.8666666666666667,so,iconic_caus,none
+487,The sea is full of fish.,The seagull flies in the sky.,1.6,3.6,1.8666666666666667,1.6666666666666667,so,iconic_caus,none
+487,The seagull flies in the sky.,The sea is full of fish.,4.0,1.1333333333333333,2.6666666666666665,2.1333333333333333,because,anticonic_caus,none
+488,Kevin bought a scarf.,Kevin went to the bakery.,1.7333333333333334,2.2,4.466666666666667,6.066666666666666,then,iconic_temp,none
+488,Kevin went to the bakery.,Kevin bought a scarf.,1.1333333333333333,1.7333333333333334,4.6,4.8,then,iconic_temp,none
+489,Kevin is a priest.,Mario married in a nice church.,1.6666666666666667,2.8666666666666667,1.8,1.5333333333333334,so,iconic_caus,none
+489,Mario married in a nice church.,Kevin is a priest.,3.533333333333333,1.6,2.2666666666666666,1.4,because,anticonic_caus,none
+490,Minerva designed her own dress.,Minerva went to the hairdresser.,1.8,2.933333333333333,4.466666666666667,5.2,then,iconic_temp,none
+490,Minerva went to the hairdresser.,Minerva designed her own dress.,2.2666666666666666,1.6,4.866666666666666,4.6,after,anticonic_temp,none
+491,Harry decided to explore a new hiking trail.,Tina did not love hiking.,4.066666666666666,1.933333333333333,3.0,1.8,because,anticonic_caus,none
+491,Tina did not love hiking.,Harry decided to explore a new hiking trail.,2.2666666666666666,4.733333333333333,4.4,2.533333333333333,so,iconic_caus,none
+492,Eric challenged his friends to a football match.,Eric went to the gym.,3.2666666666666666,2.6,6.8,8.133333333333333,then,iconic_temp,none
+492,Eric went to the gym.,Eric challenged his friends to a football match.,4.0,3.8,6.333333333333333,8.733333333333333,then,iconic_temp,none
+493,Cecilia enjoys swimming in the ocean.,There were many yachts near the coast.,3.0,1.2666666666666666,2.7333333333333334,1.8666666666666667,because,anticonic_caus,none
+493,There were many yachts near the coast.,Cecilia enjoys swimming in the ocean.,1.4666666666666666,3.2,1.933333333333333,1.4666666666666666,so,iconic_caus,none
+494,Meghan aspired to perform on stage.,Meghan chose a dress to wear.,2.066666666666667,5.666666666666667,4.533333333333333,4.666666666666667,so,iconic_caus,none
+494,Meghan chose a dress to wear.,Meghan aspired to perform on stage.,6.0,2.2,6.333333333333333,4.533333333333333,after,anticonic_temp,none
+495,Luke ate food at the market.,The farmer left the market.,2.333333333333333,2.066666666666667,3.6,5.666666666666667,then,iconic_temp,none
+495,The farmer left the market.,Luke ate food at the market.,3.8,2.8,3.2666666666666666,3.733333333333333,because,anticonic_caus,none
+496,Miriam listened to a soothing bedtime story.,Miriam read a captivating book before sleep.,3.0,3.066666666666667,4.266666666666667,7.066666666666666,then,iconic_temp,none
+496,Miriam read a captivating book before sleep.,Miriam listened to a soothing bedtime story.,2.0,2.0,5.266666666666667,7.133333333333334,then,iconic_temp,none
+497,Jake built a cozy shelter for his cat.,Many animals were kept in this zoo.,3.4,2.4,2.2,1.4666666666666666,because,anticonic_caus,none
+497,Many animals were kept in this zoo.,Jake built a cozy shelter for his cat.,1.7333333333333334,2.333333333333333,1.8,2.066666666666667,so,iconic_caus,none
+498,The child ate ice cream.,The child sang a sweet lullaby to the teddy bear.,1.8666666666666667,2.466666666666667,5.333333333333333,7.6,then,iconic_temp,none
+498,The child sang a sweet lullaby to the teddy bear.,The child ate ice cream.,3.066666666666667,2.4,6.066666666666666,7.6,then,iconic_temp,none
+499,Kevin's birthday was last week.,Martin and Kevin planned a surprise party.,1.8,5.333333333333333,2.533333333333333,1.8666666666666667,so,iconic_caus,none
+499,Martin and Kevin planned a surprise party.,Kevin's birthday was last week.,4.933333333333334,1.6,3.6,2.2666666666666666,because,anticonic_caus,none
+500,Mark attended a prestigious college.,There was a high number of students in the classroom.,2.533333333333333,5.8,2.6,2.1333333333333333,so,iconic_caus,none
+500,There was a high number of students in the classroom.,Mark attended a prestigious college.,5.066666666666666,1.8666666666666667,4.0,1.8666666666666667,because,anticonic_caus,none
+501,Mary did not like stray dogs.,The girl saw a cat with a long tail.,1.3333333333333333,1.6,1.3333333333333333,1.933333333333333,then,iconic_temp,none
+501,The girl saw a cat with a long tail.,Mary did not like stray dogs.,1.6666666666666667,1.4,1.3333333333333333,1.3333333333333333,because,anticonic_caus,none
+502,Insects created intricate patterns on flowers.,There were a lot of bees in the area.,2.933333333333333,3.733333333333333,2.8666666666666667,2.6666666666666665,so,iconic_caus,none
+502,There were a lot of bees in the area.,Insects created intricate patterns on flowers.,3.466666666666667,4.733333333333333,2.7333333333333334,3.6666666666666665,so,iconic_caus,none
+503,The moon rose higher in the night sky.,The sun shined brightly in the sky.,2.333333333333333,2.0,4.933333333333334,3.4,after,anticonic_temp,none
+503,The sun shined brightly in the sky.,The moon rose higher in the night sky.,2.6666666666666665,3.2,3.2,6.333333333333333,then,iconic_temp,none
+504,Camilla exhibited her paintings at a gallery.,Camilla joined a photography club.,4.8,1.933333333333333,6.466666666666667,5.266666666666667,after,anticonic_temp,none
+504,Camilla joined a photography club.,Camilla exhibited her paintings at a gallery.,2.066666666666667,4.6,4.8,4.4,after,anticonic_temp,none
+505,Sarah helped Kate with her babies.,Sarah worked as an accountant.,3.066666666666667,1.8,3.1333333333333333,2.466666666666667,after,anticonic_temp,none
+505,Sarah worked as an accountant.,Sarah helped Kate with her babies.,2.2,2.4,4.0,2.333333333333333,after,anticonic_temp,none
+506,Harry wrote a letter.,Harry's dad was a journalist.,2.533333333333333,1.2666666666666666,2.2,1.1333333333333333,because,anticonic_caus,none
+506,Harry's dad was a journalist.,Harry wrote a letter.,1.5333333333333334,3.066666666666667,1.6,3.066666666666667,so,iconic_caus,none
+507,The sea sparkled under the midday sun.,The seagull flew in the sky.,1.4,3.466666666666667,4.466666666666667,5.8,then,iconic_temp,none
+507,The seagull flew in the sky.,The sea sparkled under the midday sun.,2.8666666666666667,1.6666666666666667,5.066666666666666,5.666666666666667,then,iconic_temp,none
+508,Kevin recounted his adventures in France.,Kevin went to the college.,3.066666666666667,1.8,5.066666666666666,4.466666666666667,after,anticonic_temp,none
+508,Kevin went to the college.,Kevin recounted his adventures in France.,2.1333333333333333,2.6666666666666665,4.4,3.6666666666666665,after,anticonic_temp,none
+509,Kelly received a bouquet of fresh flowers.,New flowers grew from these seeds.,3.1333333333333333,4.066666666666666,4.0,4.266666666666667,then,iconic_temp,none
+509,New flowers grew from these seeds.,Kelly received a bouquet of fresh flowers.,2.2,5.266666666666667,3.066666666666667,4.8,so,iconic_caus,none
+510,Lucia worked all day.,Mario was tired.,6.333333333333333,1.8,2.533333333333333,1.933333333333333,because,anticonic_caus,none
+510,Mario was tired.,Lucia worked all day.,1.6666666666666667,5.533333333333333,2.1333333333333333,1.8,so,iconic_caus,none
+511,Mark's car is red.,The driver turned on the car lights.,1.6666666666666667,1.8666666666666667,1.8666666666666667,1.8,so,iconic_caus,none
+511,The driver turned on the car lights.,Mark's car is red.,1.2666666666666666,1.5333333333333334,1.5333333333333334,1.7333333333333334,then,iconic_temp,none
+512,A new flower grew in the garden.,The florist closed up the store.,1.8,2.1333333333333333,1.7333333333333334,2.466666666666667,then,iconic_temp,none
+512,The florist closed up the store.,A new flower grew in the garden.,2.8,1.2666666666666666,2.4,2.8666666666666667,then,iconic_temp,none
+513,The boy noticed that he was out of toilet paper.,The boy read the book.,1.4,2.4,2.8,2.933333333333333,then,iconic_temp,none
+513,The boy read the book.,The boy noticed that he was out of toilet paper.,1.7333333333333334,1.3333333333333333,2.466666666666667,3.333333333333333,then,iconic_temp,none
+514,Alice missed her flight.,The train arrived on time at the station.,1.6,1.4,2.933333333333333,5.2,then,iconic_temp,none
+514,The train arrived on time at the station.,Alice missed her flight.,1.4,2.466666666666667,3.933333333333333,4.333333333333333,then,iconic_temp,none
+515,Mary bought a packet of flower seeds.,The gardener planted a seed.,3.2,7.4,4.066666666666666,6.733333333333333,so,iconic_caus,none
+515,The gardener planted a seed.,Mary bought a packet of flower seeds.,6.733333333333333,2.533333333333333,7.133333333333334,2.2666666666666666,after,anticonic_temp,none
+516,The man sipped the milk and spit it out.,The water fell on the floor.,2.1333333333333333,1.8666666666666667,3.2666666666666666,3.4,then,iconic_temp,none
+516,The water fell on the floor.,The man sipped the milk and spit it out.,1.933333333333333,1.6666666666666667,2.533333333333333,1.8666666666666667,after,anticonic_temp,none
+517,The man turned down the music volume.,The power was out for days.,1.5333333333333334,1.5333333333333334,3.2666666666666666,2.4,after,anticonic_temp,none
+517,The power was out for days.,The man turned down the music volume.,1.4666666666666666,1.2,1.1333333333333333,1.2666666666666666,because,anticonic_caus,none
+518,Klara's clothes got dirty.,The girl did not wear her sweater.,3.1333333333333333,4.066666666666666,2.066666666666667,3.1333333333333333,so,iconic_caus,none
+518,The girl did not wear her sweater.,Klara's clothes got dirty.,4.733333333333333,4.066666666666666,3.4,3.1333333333333333,because,anticonic_caus,none
+519,Lucia drank a glass of water.,Ted had a hangover.,2.6666666666666665,2.2666666666666666,2.6,1.8,because,anticonic_caus,none
+519,Ted had a hangover.,Lucia drank a glass of water.,1.0666666666666669,1.4,1.4,3.466666666666667,then,iconic_temp,none
+520,Alice ate the last cookie.,Jimmy took the last piece of cake.,8.2,9.0,7.8,7.733333333333333,so,iconic_caus,none
+520,Jimmy took the last piece of cake.,Alice ate the last cookie.,6.6,8.533333333333333,7.2,8.066666666666666,so,iconic_caus,none
+521,Alice washed her hands.,Penny's clothes got dirty.,2.533333333333333,1.2666666666666666,4.133333333333334,1.6,after,anticonic_temp,none
+521,Penny's clothes got dirty.,Alice washed her hands.,1.6,2.333333333333333,1.933333333333333,4.133333333333334,then,iconic_temp,none
+522,Bob wrote an email.,Katy read a book.,2.2666666666666666,2.1333333333333333,4.133333333333334,5.533333333333333,then,iconic_temp,none
+522,Katy read a book.,Bob wrote an email.,2.1333333333333333,4.466666666666667,3.866666666666666,5.466666666666667,then,iconic_temp,none
+523,The door of the bathroom was closed.,There was a big window in the bathroom.,3.866666666666666,1.4,1.4666666666666666,2.2,because,anticonic_caus,none
+523,There was a big window in the bathroom.,The door of the bathroom was closed.,2.2,3.533333333333333,1.933333333333333,1.8666666666666667,so,iconic_caus,none
+524,Clara washed her hands in the bathroom.,Jane used gels to disinfect her hands.,3.466666666666667,3.1333333333333333,4.0,5.533333333333333,then,iconic_temp,none
+524,Jane used gels to disinfect her hands.,Clara washed her hands in the bathroom.,3.733333333333333,3.6,4.2,5.4,then,iconic_temp,none
+525,The traffic light became red.,There was light rain.,1.6,1.4666666666666666,2.466666666666667,4.733333333333333,then,iconic_temp,none
+525,There was light rain.,The traffic light became red.,1.3333333333333333,1.4666666666666666,2.933333333333333,4.0,then,iconic_temp,none
+526,"All areas of the city, including the suburbs, were on lockdown.",The government introduced policies to promote tourism.,3.6,4.2,2.7333333333333334,5.4,then,iconic_temp,none
+526,The government introduced policies to promote tourism.,"All areas of the city, including the suburbs, were on lockdown.",5.0,3.0,5.0,3.866666666666666,because,anticonic_caus,none
+527,Alice missed her flight.,Passengers got a discount for travel.,2.0,2.933333333333333,2.4,3.2,then,iconic_temp,none
+527,Passengers got a discount for travel.,Alice missed her flight.,2.466666666666667,1.5333333333333334,3.933333333333333,2.466666666666667,after,anticonic_temp,none
+528,The doctor went to the pharmacy.,Tom suffered from acute allergies.,4.466666666666667,1.6,3.6666666666666665,1.6,because,anticonic_caus,none
+528,Tom suffered from acute allergies.,The doctor went to the pharmacy.,1.5333333333333334,2.6,2.8,1.6,after,anticonic_temp,none
+529,Jack talked to his boss.,Lara chatted with a collegue.,4.8,5.666666666666667,4.2,6.133333333333334,then,iconic_temp,none
+529,Lara chatted with a collegue.,Jack talked to his boss.,4.0,6.333333333333333,5.4,7.266666666666667,then,iconic_temp,none
+530,Sarah ate junk food.,The cholesterol in Tom's body was extremely high.,2.466666666666667,1.0666666666666669,1.4666666666666666,1.0666666666666669,because,anticonic_caus,none
+530,The cholesterol in Tom's body was extremely high.,Sarah ate junk food.,2.533333333333333,1.4666666666666666,1.6666666666666667,2.8666666666666667,then,iconic_temp,none
+531,In spring the wind moves the leaves of the trees.,The tree in our yard was planted 10 years ago.,2.2666666666666666,2.066666666666667,3.333333333333333,1.2,after,anticonic_temp,none
+531,The tree in our yard was planted 10 years ago.,In spring the wind moves the leaves of the trees.,2.6,5.2,3.2,5.2,so,iconic_caus,none
+532,Linda is having a baby.,The doctor was experienced in dealing with emergencies in the pediatric ward.,2.2666666666666666,3.466666666666667,2.066666666666667,2.1333333333333333,so,iconic_caus,none
+532,The doctor was experienced in dealing with emergencies in the pediatric ward.,Linda is having a baby.,2.6,1.8,1.3333333333333333,1.8666666666666667,because,anticonic_caus,none
+533,The farmer planted daylilies three months ago.,The plants were watered by the rain.,2.2666666666666666,4.733333333333333,3.333333333333333,6.666666666666667,then,iconic_temp,none
+533,The plants were watered by the rain.,The farmer planted daylilies three months ago.,4.066666666666666,3.533333333333333,4.533333333333333,1.5333333333333334,after,anticonic_temp,none
+534,Kevin is using his pen to write.,Martina is writing in her notebook.,2.4,1.8,2.1333333333333333,2.2666666666666666,because,anticonic_caus,none
+534,Martina is writing in her notebook.,Kevin is using his pen to write.,1.6666666666666667,3.1333333333333333,2.4,2.6,so,iconic_caus,none
+535,Kate bought a new plant.,The gardener watered the flowers.,2.1333333333333333,6.533333333333333,3.6666666666666665,7.133333333333334,then,iconic_temp,none
+535,The gardener watered the flowers.,Kate bought a new plant.,5.266666666666667,3.0,7.266666666666667,5.333333333333333,after,anticonic_temp,none
+536,Martina is a journalist.,The books are in the library.,1.5333333333333334,1.8666666666666667,1.0666666666666669,1.1333333333333333,so,iconic_caus,none
+536,The books are in the library.,Martina is a journalist.,2.4,1.4,1.7333333333333334,1.1333333333333333,because,anticonic_caus,none
+537,Luke was late for school.,The traffic light became green.,1.6666666666666667,1.4666666666666666,2.2,4.133333333333334,then,iconic_temp,none
+537,The traffic light became green.,Luke was late for school.,1.2,2.2,2.6666666666666665,2.066666666666667,after,anticonic_temp,none
+538,The flowers grew in the garden.,The vase shattered on the floor.,3.6666666666666665,1.0666666666666669,1.8666666666666667,2.6,because,anticonic_caus,none
+538,The vase shattered on the floor.,The flowers grew in the garden.,1.7333333333333334,1.2,1.4666666666666666,1.6666666666666667,because,anticonic_caus,none
+539,The floor was clean.,The house had a high ceiling.,1.8666666666666667,1.3333333333333333,1.6666666666666667,1.2,because,anticonic_caus,none
+539,The house had a high ceiling.,The floor was clean.,1.4666666666666666,1.8666666666666667,1.5333333333333334,1.8666666666666667,so,iconic_caus,none
+540,Luke does not know the age of that girl.,This woman is old.,3.6,1.4666666666666666,1.3333333333333333,2.0,because,anticonic_caus,none
+540,This woman is old.,Luke does not know the age of that girl.,1.3333333333333333,2.0,1.4,1.4666666666666666,so,iconic_caus,none
+541,The model in the photo is beautiful.,The model struck a pose.,6.0,4.466666666666667,3.533333333333333,2.7333333333333334,because,anticonic_caus,none
+541,The model struck a pose.,The model in the photo is beautiful.,4.266666666666667,5.0,2.7333333333333334,3.2,so,iconic_caus,none
+542,Katy chose a book from the bookshop.,Susy bought a new bag.,2.466666666666667,2.533333333333333,5.266666666666667,4.866666666666666,after,anticonic_temp,none
+542,Susy bought a new bag.,Katy chose a book from the bookshop.,3.1333333333333333,2.333333333333333,5.6,5.6,after,anticonic_temp,none
+543,The girl caught a cold.,The man had a heart attack.,1.1333333333333333,1.2,2.2666666666666666,2.7333333333333334,then,iconic_temp,none
+543,The man had a heart attack.,The girl caught a cold.,1.0666666666666669,1.1333333333333333,1.7333333333333334,2.7333333333333334,then,iconic_temp,none
+544,My father has to control hypertension.,The cholesterol in Tom's body is extremely high.,3.2,1.933333333333333,4.066666666666666,1.2666666666666666,after,anticonic_temp,none
+544,The cholesterol in Tom's body is extremely high.,My father has to control hypertension.,2.066666666666667,1.6666666666666667,1.7333333333333334,1.3333333333333333,because,anticonic_caus,none
+545,Alice ate the last cookie.,The mother prepared a cake.,3.2666666666666666,5.8,4.866666666666666,5.266666666666667,so,iconic_caus,none
+545,The mother prepared a cake.,Alice ate the last cookie.,5.466666666666667,3.066666666666667,5.866666666666666,4.2,after,anticonic_temp,none
+546,Someone knocked on the door.,The man looked for his keys.,2.2666666666666666,6.333333333333333,4.0,5.466666666666667,so,iconic_caus,none
+546,The man looked for his keys.,Someone knocked on the door.,7.466666666666667,2.4,6.466666666666667,5.8,because,anticonic_caus,none
+547,The stars shine.,The sun shines.,3.733333333333333,3.2666666666666666,5.266666666666667,6.6,then,iconic_temp,none
+547,The sun shines.,The stars shine.,3.6666666666666665,3.866666666666666,6.8,7.666666666666667,then,iconic_temp,none
+548,Jimmy prepared one can of soup.,Kate ate pasta.,4.533333333333333,4.733333333333333,5.866666666666666,5.666666666666667,after,anticonic_temp,none
+548,Kate ate pasta.,Jimmy prepared one can of soup.,4.866666666666666,3.4,4.8,6.133333333333334,then,iconic_temp,none
+549,Someone knocked on the door.,The school bell rang.,1.5333333333333334,1.4666666666666666,3.6,5.733333333333333,then,iconic_temp,none
+549,The school bell rang.,Someone knocked on the door.,1.933333333333333,2.2,3.333333333333333,5.866666666666666,then,iconic_temp,none
+550,Kevin yawned.,Matt woke up.,1.4,3.2666666666666666,3.4,4.933333333333334,then,iconic_temp,none
+550,Matt woke up.,Kevin yawned.,5.0,1.6,4.8,3.933333333333333,because,anticonic_caus,none
+551,Julie opened the closet.,Julie spent a lot of time putting on makeup.,1.3333333333333333,2.0,5.0,5.066666666666666,then,iconic_temp,none
+551,Julie spent a lot of time putting on makeup.,Julie opened the closet.,2.1333333333333333,2.1333333333333333,4.8,4.533333333333333,after,anticonic_temp,none
+552,Diana went to the cinema.,Mark studied acting in college.,1.2666666666666666,2.066666666666667,2.933333333333333,2.4,after,anticonic_temp,none
+552,Mark studied acting in college.,Diana went to the cinema.,2.933333333333333,2.2,2.4,1.8666666666666667,because,anticonic_caus,none
+553,Jerry ate a lot of shallots.,The dad put some oil on the pan fries.,1.7333333333333334,1.2,2.7333333333333334,1.6666666666666667,after,anticonic_temp,none
+553,The dad put some oil on the pan fries.,Jerry ate a lot of shallots.,2.6666666666666665,2.6666666666666665,2.333333333333333,4.133333333333334,then,iconic_temp,none
+554,Linda was a nurse.,The doctor was experienced in dealing with emergencies in the pediatric ward.,1.6,2.066666666666667,2.466666666666667,1.4,after,anticonic_temp,none
+554,The doctor was experienced in dealing with emergencies in the pediatric ward.,Linda was a nurse.,4.0,2.066666666666667,1.3333333333333333,2.8,because,anticonic_caus,none
+555,The sun is rising.,There are gray clouds in the sky.,2.6,2.1333333333333333,5.733333333333333,3.6,after,anticonic_temp,none
+555,There are gray clouds in the sky.,The sun is rising.,1.3333333333333333,1.8,3.6666666666666665,4.333333333333333,then,iconic_temp,none
+556,The sun is rising.,There is a full moon and some clouds.,2.0,1.8,5.533333333333333,3.6,after,anticonic_temp,none
+556,There is a full moon and some clouds.,The sun is rising.,1.7333333333333334,1.4666666666666666,3.466666666666667,3.8,then,iconic_temp,none
+557,Albert is running in the street.,Diana is going to the gym.,3.6666666666666665,3.066666666666667,3.8,4.266666666666667,then,iconic_temp,none
+557,Diana is going to the gym.,Albert is running in the street.,2.933333333333333,3.0,2.8666666666666667,3.2,then,iconic_temp,none
+558,Alice ate some pastries.,Maria baked a cake for the party.,3.866666666666666,3.466666666666667,4.333333333333333,4.266666666666667,after,anticonic_temp,none
+558,Maria baked a cake for the party.,Alice ate some pastries.,1.6,2.8666666666666667,4.0,4.266666666666667,then,iconic_temp,none
+559,Claire visited a coffee shop and ordered a coffee.,Jimmy took the last piece of cake.,5.066666666666666,3.4,5.333333333333333,6.666666666666667,then,iconic_temp,none
+559,Jimmy took the last piece of cake.,Claire visited a coffee shop and ordered a coffee.,3.466666666666667,4.133333333333334,3.6,3.866666666666666,so,iconic_caus,none
+560,Jimmy prepared one can of soup.,Tom ate a sandwich.,3.733333333333333,4.0,4.0,4.666666666666667,then,iconic_temp,none
+560,Tom ate a sandwich.,Jimmy prepared one can of soup.,2.533333333333333,3.4,4.933333333333334,7.0,then,iconic_temp,none
+561,Kate had a nightmare.,Mark watched a movie.,3.866666666666666,3.2,4.866666666666666,2.4,after,anticonic_temp,none
+561,Mark watched a movie.,Kate had a nightmare.,3.6666666666666665,3.066666666666667,3.866666666666666,2.6,after,anticonic_temp,none
+562,Karen scheduled an appointment with her dentist.,The doctor works at the hospital.,2.1333333333333333,1.8,2.0,1.0666666666666669,because,anticonic_caus,none
+562,The doctor works at the hospital.,Karen scheduled an appointment with her dentist.,1.1333333333333333,2.6666666666666665,1.4666666666666666,2.2,so,iconic_caus,none
+563,Julie and Kate are watching the match.,The player is running.,4.4,1.8,1.2666666666666666,4.066666666666666,because,anticonic_caus,none
+563,The player is running.,Julie and Kate are watching the match.,1.6,3.2666666666666666,2.6,1.7333333333333334,so,iconic_caus,none
+564,The actor read the script in the theatre.,The spectators applauded the singer.,1.6666666666666667,2.8666666666666667,3.1333333333333333,4.066666666666666,then,iconic_temp,none
+564,The spectators applauded the singer.,The actor read the script in the theatre.,1.8666666666666667,2.4,3.2,5.466666666666667,then,iconic_temp,none
+565,Sam's wife went to buy some meat.,Tom ate oatmeal this morning.,1.8,3.2666666666666666,4.533333333333333,3.8,after,anticonic_temp,none
+565,Tom ate oatmeal this morning.,Sam's wife went to buy some meat.,2.933333333333333,2.2,3.4,4.266666666666667,then,iconic_temp,none
+566,Someone called an ambulance.,Someone called the police.,3.066666666666667,2.933333333333333,8.266666666666667,8.0,after,anticonic_temp,none
+566,Someone called the police.,Someone called an ambulance.,2.6,2.466666666666667,7.2,9.4,then,iconic_temp,none
+567,Jack decided to choose anthropology as his major in college.,Susy was a teacher.,3.2,2.2,1.6,2.066666666666667,because,anticonic_caus,none
+567,Susy was a teacher.,Jack decided to choose anthropology as his major in college.,2.6666666666666665,2.933333333333333,2.0,2.2,so,iconic_caus,none
+568,Susy was a teacher.,The gym instructor assigned an exercise.,1.8,2.4,1.4,1.4,so,iconic_caus,none
+568,The gym instructor assigned an exercise.,Susy was a teacher.,1.8666666666666667,2.0,1.5333333333333334,1.0,so,iconic_caus,none
+569,Alice put some onions in the pan.,Karen ate the cake from the pan.,1.4,1.2,3.8,1.7333333333333334,after,anticonic_temp,none
+569,Karen ate the cake from the pan.,Alice put some onions in the pan.,2.533333333333333,3.333333333333333,2.7333333333333334,6.466666666666667,then,iconic_temp,none
+570,The dog was running in the meadow.,The grass was wet.,4.666666666666667,1.8,3.2,2.466666666666667,because,anticonic_caus,none
+570,The grass was wet.,The dog was running in the meadow.,2.6666666666666665,3.1333333333333333,2.333333333333333,3.066666666666667,so,iconic_caus,none
+571,The boy is drinking a glass of water.,The man is drinking a beer.,3.533333333333333,2.4,3.466666666666667,3.6,then,iconic_temp,none
+571,The man is drinking a beer.,The boy is drinking a glass of water.,1.8,3.8,2.466666666666667,3.066666666666667,so,iconic_caus,none
+572,At the harbor there was a fish market.,The ship left the harbor.,3.2,2.0,2.2666666666666666,4.0,then,iconic_temp,none
+572,The ship left the harbor.,At the harbor there was a fish market.,3.933333333333333,1.6666666666666667,3.866666666666666,3.933333333333333,because,anticonic_caus,none
+573,The student is studying for the exam.,The teacher is explaining the lesson.,1.8666666666666667,6.4,4.4,3.533333333333333,so,iconic_caus,none
+573,The teacher is explaining the lesson.,The student is studying for the exam.,7.4,5.733333333333333,3.1333333333333333,5.066666666666666,because,anticonic_caus,none
+574,Luca watched a movie.,Marco ate popcorn.,2.6666666666666665,2.1333333333333333,2.933333333333333,6.6,then,iconic_temp,none
+574,Marco ate popcorn.,Luca watched a movie.,3.0,2.333333333333333,4.2,5.733333333333333,then,iconic_temp,none
+575,Albert is walking on a crutch.,Luke had a bad accident with his scooter.,2.8,2.0,2.8,3.1333333333333333,then,iconic_temp,none
+575,Luke had a bad accident with his scooter.,Albert is walking on a crutch.,2.8,1.8666666666666667,2.0,2.066666666666667,because,anticonic_caus,none
+576,Jill is ill.,Tom is a doctor.,1.8666666666666667,1.933333333333333,1.2666666666666666,1.6,so,iconic_caus,none
+576,Tom is a doctor.,Jill is ill.,1.7333333333333334,1.1333333333333333,1.3333333333333333,1.933333333333333,then,iconic_temp,none
+577,Katie decided to marry Luca.,Tom is in love with Jerry.,2.2,1.1333333333333333,1.8,1.3333333333333333,because,anticonic_caus,none
+577,Tom is in love with Jerry.,Katie decided to marry Luca.,1.1333333333333333,2.466666666666667,1.6666666666666667,3.6666666666666665,then,iconic_temp,none
+578,Ben has a lot of friends.,The woman felt alone.,1.8666666666666667,5.0,1.5333333333333334,2.4,so,iconic_caus,none
+578,The woman felt alone.,Ben has a lot of friends.,5.133333333333334,1.4,2.533333333333333,2.0,because,anticonic_caus,none
+579,There is the sun and some clouds in the sky.,Tonight there are a lot of clouds.,2.6,2.6,4.066666666666666,5.8,then,iconic_temp,none
+579,Tonight there are a lot of clouds.,There is the sun and some clouds in the sky.,4.4,3.2666666666666666,3.1333333333333333,2.933333333333333,because,anticonic_caus,none
+580,In the forest there are many animals.,The owl hunts at night.,2.6666666666666665,5.533333333333333,2.066666666666667,4.266666666666667,so,iconic_caus,none
+580,The owl hunts at night.,In the forest there are many animals.,7.0,2.466666666666667,2.4,1.933333333333333,because,anticonic_caus,none
+581,The dog barked.,The dog had a dark fur.,1.6666666666666667,1.0666666666666669,1.7333333333333334,1.7333333333333334,after,anticonic_temp,none
+581,The dog had a dark fur.,The dog barked.,1.0666666666666669,1.1333333333333333,1.2666666666666666,2.1333333333333333,then,iconic_temp,none
+582,Many young birds were kept in this zoo.,There are lions in the zoo.,1.3333333333333333,1.0666666666666669,1.6666666666666667,2.2666666666666666,then,iconic_temp,none
+582,There are lions in the zoo.,Many young birds were kept in this zoo.,1.8666666666666667,1.7333333333333334,1.8,2.0,then,iconic_temp,none
+583,Alice has studied physics for decades.,Karl studied math.,4.133333333333334,1.6,4.133333333333334,2.7333333333333334,because,anticonic_caus,none
+583,Karl studied math.,Alice has studied physics for decades.,3.733333333333333,1.8666666666666667,3.2666666666666666,2.2,because,anticonic_caus,none
+584,Lily studies math.,Lily studies physics.,4.333333333333333,3.533333333333333,6.066666666666666,6.733333333333333,then,iconic_temp,none
+584,Lily studies physics.,Lily studies math.,2.8,4.2,6.333333333333333,6.466666666666667,then,iconic_temp,none
+585,Kate had a boat.,Luke has never swum in the sea.,3.0,2.6666666666666665,1.6666666666666667,1.7333333333333334,because,anticonic_caus,none
+585,Luke has never swum in the sea.,Kate had a boat.,2.8666666666666667,2.4,1.4,1.6,because,anticonic_caus,none
+586,The baby cried.,The child broke his parent's phone.,7.466666666666667,2.8,5.6,5.4,because,anticonic_caus,none
+586,The child broke his parent's phone.,The baby cried.,3.6666666666666665,3.933333333333333,5.133333333333334,4.266666666666667,after,anticonic_temp,none
+587,Jack has been under a lot of pressure lately.,Steven is always in a state of anxiety.,5.866666666666666,4.533333333333333,3.2,3.0,because,anticonic_caus,none
+587,Steven is always in a state of anxiety.,Jack has been under a lot of pressure lately.,4.666666666666667,6.333333333333333,2.6,1.5333333333333334,so,iconic_caus,none
+588,Luca has a car license.,Luca works from home.,2.066666666666667,1.8,1.2666666666666666,1.5333333333333334,because,anticonic_caus,none
+588,Luca works from home.,Luca has a car license.,1.6666666666666667,2.066666666666667,1.0666666666666669,2.1333333333333333,then,iconic_temp,none
+589,The cat is an animal.,The hunter hunts animals.,1.7333333333333334,3.333333333333333,1.2,1.2666666666666666,so,iconic_caus,none
+589,The hunter hunts animals.,The cat is an animal.,2.6666666666666665,2.333333333333333,1.1333333333333333,2.2,because,anticonic_caus,none
+590,Jerry ate a lot of shallots.,John does not eat vegetables.,2.333333333333333,1.8,1.4,1.2666666666666666,because,anticonic_caus,none
+590,John does not eat vegetables.,Jerry ate a lot of shallots.,1.2666666666666666,3.333333333333333,2.0,1.4,so,iconic_caus,none
+591,John is traveling all over the world.,Tom is working in an office.,1.2,2.533333333333333,1.4,2.2,so,iconic_caus,none
+591,Tom is working in an office.,John is traveling all over the world.,2.6,1.6666666666666667,2.6,1.3333333333333333,because,anticonic_caus,none
+592,Katie is riding a bike.,Luca is driving the car.,4.866666666666666,4.466666666666667,2.8,3.2,because,anticonic_caus,none
+592,Luca is driving the car.,Katie is riding a bike.,3.866666666666666,5.333333333333333,2.6,2.333333333333333,so,iconic_caus,none
+593,Michela is going to the museum.,Sara is painting a picture.,2.4,3.066666666666667,3.466666666666667,4.6,then,iconic_temp,none
+593,Sara is painting a picture.,Michela is going to the museum.,2.8666666666666667,2.333333333333333,2.6666666666666665,5.333333333333333,then,iconic_temp,none
+594,John is joining in a long-term meeting.,Tom works in an office.,3.466666666666667,1.4666666666666666,2.066666666666667,1.6666666666666667,because,anticonic_caus,none
+594,Tom works in an office.,John is joining in a long-term meeting.,1.6666666666666667,2.0,2.333333333333333,3.2,then,iconic_temp,none
+595,Luca arrived late home due to traffic.,There was not much traffic today.,1.2666666666666666,1.8666666666666667,1.4,1.0666666666666669,so,iconic_caus,none
+595,There was not much traffic today.,Luca arrived late home due to traffic.,2.066666666666667,1.2666666666666666,1.2666666666666666,2.8,then,iconic_temp,none
+596,Luke's mom was a pediatrician.,The baby cried.,1.4,1.4666666666666666,1.7333333333333334,2.6,then,iconic_temp,none
+596,The baby cried.,Luke's mom was a pediatrician.,1.8,2.2,1.4,1.2,so,iconic_caus,none
+597,Jake grew healing herbs.,The doctor prescribed the patient a medicine containing magnesium.,4.0,3.066666666666667,6.266666666666667,2.7333333333333334,after,anticonic_temp,none
+597,The doctor prescribed the patient a medicine containing magnesium.,Jake grew healing herbs.,1.933333333333333,2.8,1.6666666666666667,3.733333333333333,then,iconic_temp,none
+598,Alice became a scientist in the field of zoology.,Researchers found a group of small antelopes in the wild.,4.133333333333334,2.6666666666666665,6.466666666666667,4.2,after,anticonic_temp,none
+598,Researchers found a group of small antelopes in the wild.,Alice became a scientist in the field of zoology.,4.266666666666667,5.266666666666667,5.0,3.2,so,iconic_caus,none
+599,Luke's mom was an expert in treating children from birth to teens.,Mike's father became a teacher.,1.4666666666666666,1.8666666666666667,2.2666666666666666,3.066666666666667,then,iconic_temp,none
+599,Mike's father became a teacher.,Luke's mom was an expert in treating children from birth to teens.,2.466666666666667,2.6666666666666665,2.0,1.8,so,iconic_caus,none
