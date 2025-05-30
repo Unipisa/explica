@@ -204,7 +204,7 @@ typing_extensions==4.12.2
 urllib3==1.26.14
 uvicorn==0.30.3
 uvloop==0.19.0
-vllm==0.5.3.post1
+vllm==0.9.0
 vllm-flash-attn==2.5.9.post1
 wasabi==1.1.1
 watchfiles==0.22.0
