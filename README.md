@@ -1,18 +1,24 @@
 # ExpliCa
+## Evaluating Explicit Causal Reasoning in Large Language Models
 
+ExpliCa (Explicit Causality) is a dataset designed to evaluate LLMs on commonsense causal reasoning through causal discovery tasks, more specifically via Pairwise Causal Discovery (PCD), which focuses on determining the existence of a causal relationship between two events and establishing the causal direction, that is, identifying which event serves as the cause and which as the effect.
+In ExpliCa PCD is formulated to take into account also the entanglement of causal and temporal relations between events. 
 
-## Context
-ExpliCa (Explicit Causality) is a dataset designed to evaluate models on commonsense causal reasoning through causal discovery tasks, more specifically via Pairwise Causal Discovery (PCD), which focuses on determining the existence of a causal relationship between two events and establishing the causal direction, that is, identifying which event serves as the cause and which as the effect.
+This repository contains
+* The dataset with human annotation and models' answers
+* The results
+* The code used to:
+  * Query the LLMs
+  * Analyze and plot the results 
 
-
-## Stimuli
-ExpliCa contains 600 sentence pairs, each presented in both possible orders, resulting in a total of 1200 sentence pairs. Each pair of sentences has been joined in a single sentence through connectives that explicitly indicate causal or temporal relations, as well as the direction of those relations, i.e., iconic (i.e., when the cause/antecedent event in sentence A linguistically appears  before  the effect/the subsequent event in sentence B) and and anti-iconic (effect-cause; subsequent-antecedent):
+## The dataset
+ExpliCa contains 600 sentence pairs, each presented in both possible orders. Each sentence pair has been joined in a single sentence through connectives that explicitly indicate causal or temporal relations, as well as the direction of those relations, i.e., iconic (i.e., when the cause/antecedent event in sentence A linguistically appears  before  the effect/the subsequent event in sentence B) and and anti-iconic (effect-cause; subsequent-antecedent):
 * A causes B > “so”
 * B causes A > “because”
 * A precede B > “then”
 * B precede A > “after”
 
-## Human ratings 
+### Human ratings 
 We collected human acceptability ratings concerning the connective in each sentence via crowdsourcing. Subjects rated on a scale from 1 to 10 how acceptable the connective is to express the relation between the events in the sentences.
 For example:
 * Jude walked under the rain for an hour, so Jude got sick: Rating 10 (highly acceptable)
@@ -20,7 +26,7 @@ For example:
 Each sentence was rated by 15 English native speakers
 
 
-## Structure
+### Structure
 * Pair_ID: ID of the sentence pair
 * Sentence_A: sentence A
 * Sentence_B: sentence B
@@ -31,6 +37,60 @@ Each sentence was rated by 15 English native speakers
 * human_preferred_connective: connective for which humans provided the highest average rating
 * human_preferred_connective_desc: indication of order (iconic vs anti-iconic) and relation (causal vs temporal) of the connective for which humans provided the highest average rating
 
+#### Additional columns in the 4800 version
 
-## Acknowledgements
-This research was funded by PNRR—M4C2—Inv. 1.3, Partenariato Esteso PE00000013—“FAIR—Future Artificial Intelligence Research”—Spoke 1 “Human-centered AI,” funded by the European Commission under the NextGeneration EU programme.
+* origin: to which dataset the sentence pair originally belonged
+* frequency: the frequency of the triplets \{Sent1verb, connective, Sent2verb\} computed on enTenTen21
+* freq_cat: the frequency category assigned to the item according to the frequency quartile ranges
+* human_preferred_connective_unrel: if according to the applied threshold on human ratings, the item belongs to the unrelated group
+* tested_relation: the relation type expressed by the connective in the item (causal vs temporal)
+* tested_order: the order expressed by the connective in the item (iconic vs anti-iconic)
+* relation_human: the relation type expressed by the item according to humans
+* order_human: the order of the relation expressed by the item according to humans
+* condition_human: relation type and order expressed by the item according to humans
+* tested_connective: connective used to join the sentence pair in the item
+* additional_dimension: values are 'socially_challenging' (see the dedicated section of the readme) or 'none'. 
+
+### Dataset License
+
+The dataset is made publicly available under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license, which allows redistribution, adaptation, and reuse for non-commercial purposes, provided proper attribution is given and derivative works are shared under the same terms. However, the dataset cannot be used for training artificial intelligence models or other machine learning systems.
+
+### Socially challenging items
+
+Among the causal sentence pairs in ExpliCa, 50 are labeled as 'socially challenging' under the 'additinal_dimension' column. This annotation indicates that the item content touches on sensitive or potentially offensive topics such as religion, abortion, immigration, gender identity, drug abuse, and bribery. 
+*Some items may be offensive to certain groups.*
+The themes contained in these items were added to evaluate whether bias-mitigation strategies in LLMs would impact PCD performance. We plan to explore such aspects more in-depth in future works.
+
+
+# The Evaluation
+
+## Models
+Human ratings served as ground truth for the evaluation of seven LLMs: 
+* Mistral-7B-Instruct-v0.3 
+* falcon-7b-instruct
+* Meta-Llama-3.1-8B-Instruct 
+* gemma-2-9b-it 
+* Qwen2.5-7B-Instruct (with also versions of 0.5, 1.5, 3, 7, 14, 32B for acceptability ratings in few-shot settings)
+* gpt4o 
+* gpt4o-mini
+
+## Tasks
+The evaluation covers four key tasks:
+* Three prompting tasks (Acceptability rating task, cloze test, and multiple-choice) under different conditions (Few-shot and zero-shot setups, Greedy search vs. the Outlines framework) for response generation
+* Perplexity evaluation
+
+## Evaluation metrics
+For performance assessment, we used accuracy as the primary metric.
+
+## Other analyses
+Finally, we analyzed the models' acceptability rating distributions and compared them to human ratings, assessing their correlation with human judgment.
+
+
+# Repo description
+
+This repository provides insights into model behavior and evaluation methodologies, offering valuable benchmarks for future research:
+* The folder code contains python scripts and notebook used to query the models and analyze the answers
+* The folder data/res/ contains the models' answers to each task. 
+* The folder imgs contains some plots describing the analysis computed over ExpliCa by evaluating the LLMs.
+
+
