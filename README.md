@@ -4,12 +4,12 @@
 ExpliCa (Explicit Causality) is a dataset designed to evaluate LLMs on commonsense causal reasoning through causal discovery tasks, more specifically via Pairwise Causal Discovery (PCD), which focuses on determining the existence of a causal relationship between two events and establishing the causal direction, that is, identifying which event serves as the cause and which as the effect.
 In ExpliCa PCD is formulated to take into account also the entanglement of causal and temporal relations between events. 
 
-This repository contains
-* The dataset with human annotation and models' answers
-* The results
-* The code used to:
-  * Query the LLMs
-  * Analyze and plot the results 
+### Repo description
+
+This repository provides insights into model behavior and evaluation methodologies, offering valuable benchmarks for future research:
+* The folder code contains python scripts and notebook used to query the models and analyze the answers
+* The folder data/res/ contains the models' answers to each task. 
+* The folder imgs contains some plots describing the analysis computed over ExpliCa by evaluating the LLMs.
 
 ## The dataset
 ExpliCa contains 600 sentence pairs, each presented in both possible orders. Each sentence pair has been joined in a single sentence through connectives that explicitly indicate causal or temporal relations, as well as the direction of those relations, i.e., iconic (i.e., when the cause/antecedent event in sentence A linguistically appears  before  the effect/the subsequent event in sentence B) and and anti-iconic (effect-cause; subsequent-antecedent):
@@ -86,11 +86,29 @@ For performance assessment, we used accuracy as the primary metric.
 Finally, we analyzed the models' acceptability rating distributions and compared them to human ratings, assessing their correlation with human judgment.
 
 
-# Repo description
-
-This repository provides insights into model behavior and evaluation methodologies, offering valuable benchmarks for future research:
-* The folder code contains python scripts and notebook used to query the models and analyze the answers
-* The folder data/res/ contains the models' answers to each task. 
-* The folder imgs contains some plots describing the analysis computed over ExpliCa by evaluating the LLMs.
-
-
+## Reference
+If you use any material from this repository, please cite this paper:
+```
+@inproceedings{miliani-etal-2025-explica,
+    title = "{E}xpli{C}a: Evaluating Explicit Causal Reasoning in Large Language Models",
+    author = "Miliani, Martina  and
+      Auriemma, Serena  and
+      Bondielli, Alessandro  and
+      Chersoni, Emmanuele  and
+      Passaro, Lucia  and
+      Sucameli, Irene  and
+      Lenci, Alessandro",
+    editor = "Che, Wanxiang  and
+      Nabende, Joyce  and
+      Shutova, Ekaterina  and
+      Pilehvar, Mohammad Taher",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2025",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.findings-acl.891/",
+    pages = "17335--17355",
+    ISBN = "979-8-89176-256-5"
+}
+```
