@@ -7,12 +7,12 @@ In ExpliCa PCD is formulated to take into account also the entanglement of causa
 ### Repo description
 
 This repository provides insights into model behavior and evaluation methodologies, offering valuable benchmarks for future research:
-* The folder code contains python scripts and notebook used to query the models and analyze the answers
+* The folder code contains Python scripts and notebooks used to query the models and analyze the answers
 * The folder data/res/ contains the models' answers to each task. 
 * The folder imgs contains some plots describing the analysis computed over ExpliCa by evaluating the LLMs.
 
 ## The dataset
-ExpliCa contains 600 sentence pairs, each presented in both possible orders. Each sentence pair has been joined in a single sentence through connectives that explicitly indicate causal or temporal relations, as well as the direction of those relations, i.e., iconic (i.e., when the cause/antecedent event in sentence A linguistically appears  before  the effect/the subsequent event in sentence B) and and anti-iconic (effect-cause; subsequent-antecedent):
+ExpliCa contains 600 sentence pairs, each presented in both possible orders. Each sentence pair has been joined in a single sentence through connectives that explicitly indicate causal or temporal relations, as well as the direction of those relations, i.e., iconic (i.e., when the cause/antecedent event in sentence A linguistically appears  before  the effect/the subsequent event in sentence B) and anti-iconic (effect-cause; subsequent-antecedent):
 * A causes B > “so”
 * B causes A > “because”
 * A precede B > “then”
@@ -42,7 +42,7 @@ Each sentence was rated by 15 English native speakers
 * origin: to which dataset the sentence pair originally belonged
 * frequency: the frequency of the triplets \{Sent1verb, connective, Sent2verb\} computed on enTenTen21
 * freq_cat: the frequency category assigned to the item according to the frequency quartile ranges
-* human_preferred_connective_unrel: if according to the applied threshold on human ratings, the item belongs to the unrelated group
+* human_preferred_connective_unrel: if, according to the applied threshold on human ratings, the item belongs to the unrelated group
 * tested_relation: the relation type expressed by the connective in the item (causal vs temporal)
 * tested_order: the order expressed by the connective in the item (iconic vs anti-iconic)
 * relation_human: the relation type expressed by the item according to humans
@@ -57,7 +57,7 @@ The dataset is made publicly available under the Creative Commons Attribution-No
 
 ### Socially challenging items
 
-Among the causal sentence pairs in ExpliCa, 50 are labeled as 'socially challenging' under the 'additinal_dimension' column. This annotation indicates that the item content touches on sensitive or potentially offensive topics such as religion, abortion, immigration, gender identity, drug abuse, and bribery. 
+Among the causal sentence pairs in ExpliCa, 50 are labeled as 'socially challenging' under the 'additional_dimension' column. This annotation indicates that the item content touches on sensitive or potentially offensive topics such as religion, abortion, immigration, gender identity, drug abuse, and bribery. 
 *Some items may be offensive to certain groups.*
 The themes contained in these items were added to evaluate whether bias-mitigation strategies in LLMs would impact PCD performance. We plan to explore such aspects more in-depth in future works.
 
