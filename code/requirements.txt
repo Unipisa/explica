@@ -201,7 +201,7 @@ transformers==4.43.3
 triton==2.3.1
 typer==0.12.3
 typing_extensions==4.12.2
-urllib3==1.26.14
+urllib3==2.6.3
 uvicorn==0.30.3
 uvloop==0.19.0
 vllm==0.5.3.post1
